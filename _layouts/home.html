@@ -6,7 +6,7 @@ layout: default
 
   {{ content }}
 
-  <h2>Latest Posts</h2>
+  <h2>Últimas entradas</h2>
 
   <div>&nbsp;</div>
 
@@ -14,7 +14,7 @@ layout: default
     {% for post in site.posts %}
       <li>
 
-        {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
+        {% assign date_format = site.cayman-blog.date_format | default: "%Y-%m-%d" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
 
         <h2>
