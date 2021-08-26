@@ -27,7 +27,7 @@ github_username:  leobelen
 # Build settings
 markdown: kramdown
 #theme: minima
-theme: jekyll-theme-cayman-blog
+#theme: jekyll-theme-cayman-blog
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
