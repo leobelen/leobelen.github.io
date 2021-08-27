@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Argentum"
+date: 2021-02-23 00:00:00 -0300
+categories: monedas digitales
+lang: es
+lang-exclusive: ["es"]
+---
+
+Hace algun tiempo, junto con Alejandro Baranek, luego de una reunión con los creadores de una moneda digital denominada [Moneda Par](https://monedapar.com.ar), desarrollamos el marco teórico para una moneda digital que solucionase algunos de los problemas existentes en Argentina en ese momento, mayormente la inflación.
+
+Como resultado de ello, surgió Argentum, cuyo paper pueden consultar [aqui](https://arxiv.org/abs/1912.09569) (en inglés).
