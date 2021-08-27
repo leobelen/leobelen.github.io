@@ -16,7 +16,7 @@
 title: El Blog de Leonardo Belén
 email: leobelen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Soy abogado y magíster en administración de empresas (MBA). Poseo múltiples áreas de conocimiento. Cuento con una vasta experiencia en administración tributaria y gestión administrativa. Este blog ilustra la diversidad de mis intereses en el transcurso de mi carrera. Mi norte ha sido y siempre lo será tratar de hacer del mundo un lugar mejor. Contacto: leobelen@gmail.com  
+  Soy abogado y magíster en administración de empresas (MBA). Poseo múltiples áreas de conocimiento. Cuento con una vasta experiencia en administración tributaria y gestión administrativa. Este blog ilustra la diversidad de mis intereses en el transcurso de mi carrera. Mi norte ha sido y siempre lo será, tratar de hacer del mundo un lugar mejor. Contacto: leobelen@gmail.com  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://leobelen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: leobelen
