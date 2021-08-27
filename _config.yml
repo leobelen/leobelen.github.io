@@ -30,6 +30,12 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
+#polyglot configuration
+languages: ["en", "es"]
+default_lang: "es"
+exclude_from_localization: ["javascript", "images", "css", "public"]
+parallel_localization: true
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
