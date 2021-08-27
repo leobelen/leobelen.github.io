@@ -15,6 +15,6 @@ En este contexto, muchas personas que quieren aprender y mejorar se encuentran c
 
 Aunque este movimiento fue largamente celebrado, dado que ahora era posible comparar administraciones tributarias, de forma equitativa, la verdad es que falta un manual de administración tributaria que muestre de forma didáctica, unificada y desinteresada los conceptos, los principios y las mejores prácticas en la materia junto con ideas para aplicar, tanto para jurisdicciones sin recursos como para aquellas que quieren mejorar cada día más.
 
-Bueno, en este escenario pueden acceder a un adelanto del libro [Administración Tributaria Moderna]({{ site.url }}/public/apcta_main.pdf), con la esperanza de que despierte el suficiente interés como para su publicación.
+Bueno, en este escenario pueden acceder a un adelanto del libro [Administración Tributaria Moderna]({{ site.url }}/public/admin_tributaria.pdf), con la esperanza de que despierte el suficiente interés como para su publicación.
 
 Espero les guste y lo consideren útil como un punto de partida interesante.
