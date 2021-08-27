@@ -14,4 +14,4 @@ Especialista en Administración y en Optimización de Procesos ateniéndolos a l
 - Brasil (Maranhão), Secretaria de Fazenda
 - Brasil (Tocantins), Secretaria de Fazenda
 
-Mi curriculum vitae completo puede ser consultado [aqui]({{ site.url }}/public/LeonardoBelenEspanol.pdf)
+Mi curriculum vitae completo puede ser consultado [aqui]({{ site.url }}/public/LeonardoBelenFancySpanish.pdf)
