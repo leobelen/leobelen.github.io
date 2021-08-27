@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Impacto del factor humano en un cambio paradigmático en las Administraciones Tributarias"
-date: 2021-08-01 00:00:00 -0300
+date: 2021-07-15 00:00:00 -0300
 categories: cambio organizacional
 lang: es
 lang-exclusive: ["es"]
