@@ -13,5 +13,7 @@ Especialista en Administración y en Optimización de Procesos ateniéndolos a l
 - Ecuador, Servicio de Renta Interna (SRI)
 - Brasil (Maranhão), Secretaria de Fazenda (SEFAZ-MA)
 - Brasil (Tocantins), Secretaria de Fazenda (SEFAZ-TO)
+- Anguilla, Inland Revenue Department (IRD)
+- Etiopía, Ministry of Revenues (MoR)
 
-Mi curriculum vitae completo puede ser consultado [aqui]({{ site.url }}/public/LeonardoBelenFancySpanish.pdf)
+Mi curriculum vitae completo puede ser consultado [aquí]({{ site.url }}/public/LeonardoBelenFancySpanish.pdf)
