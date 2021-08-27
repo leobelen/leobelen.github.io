@@ -280,6 +280,7 @@ DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.2)
   jekyll-polyglot
+  jekyll-sitemap
   kramdown-parser-gfm
   tzinfo (~> 1.2)
   tzinfo-data
