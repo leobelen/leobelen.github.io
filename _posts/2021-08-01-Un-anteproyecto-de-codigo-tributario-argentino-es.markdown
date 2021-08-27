@@ -15,6 +15,6 @@ En ese marco, hace unos 15 años inicié un ejercicio de compilación y actualiz
 
 Siempre se habla de una reforma tributaria, pero en general se subestima el trabajo faraónico que esta importa, siendo este tal vez el momento para unificar criterios, actualizar conceptos y ordenar las cuentas, con la esperanza de tener reglas de juego que fomenten la inversión, el desarrollo y mejoren la calidad de vida de todos, reduciendo los costos de los ciudadanos y aumentando la eficiencia.
 
-Pueden acceder a un avance de esta obra aquí: [Anteproyecto de Código Tributario]({{ site.url }}/public/admin_tributaria.pdf).
+Pueden acceder a un avance de esta obra aquí: [Anteproyecto de Código Tributario]({{ site.url }}/public/apcta_main.pdf).
 
 Espero les guste y lo consideren util como un punto de partida interesante.
