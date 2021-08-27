@@ -4,14 +4,14 @@ title: Acerca de
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Especialista en Administración y en Optimización de Procesos ateniéndolos a la Legislación presente en cada país y proponiendo mejoras en las mismas. Dominio de Inglés e intermedio de Portugués. Con experiencia en diferentes gobiernos, aplicable a la función privada en áreas como alta gerencia. En particular, he tomado parte en las instituciones:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- Argentina, Administración Federal de Ingresos Públicos
+- Guatemala, Superintendencia de Administración Tributaria:
+- Panamá, Dirección General de Ingresos
+- Barbados , Inland Revenue Department
+- Ecuador, Servicio de Renta Interna
+- Brasil (Maranhão), Secretaria de Fazenda
+- Brasil (Tocantins), Secretaria de Fazenda
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-[jekyll-organization]: https://github.com/jekyll
+Mi curriculum vitae completo puede ser consultado [aqui]({{ site.url }}/public/LeonardoBelenEspanol.pdf)
