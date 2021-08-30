@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on El Blog de Leonardo Belén</title>
-    <link>https://leobelen.github.com/post/</link>
+    <link>https://leobelen.github.io/post/</link>
     <description>Recent content in Posts on El Blog de Leonardo Belén</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2017-2021, Leonardo Javier Belén; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leobelen.github.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leobelen.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Antares</title>
-      <link>https://leobelen.github.com/post/2021-08-27-antares/</link>
+      <link>https://leobelen.github.io/post/2021-08-27-antares/</link>
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://leobelen.github.com/post/2021-08-27-antares/</guid>
+      <guid>https://leobelen.github.io/post/2021-08-27-antares/</guid>
       <description>
         
           &lt;p&gt;Una parte importante de la propuesta general, iniciada por los anteriores posteos es el programa que puede ser usado para llevarlo adelante. En realidad, junto con anterior, desarrollé hace un tiempo un sistema integrado de Administración Tributaria (ITAS, por sus siglas en inglés), denominado Antares, sobre el cual existe una demo en el siguiente link &lt;a href=&#34;https://antares.socrates.theworkpc.com&#34;&gt;https://antares.socrates.theworkpc.com&lt;/a&gt;, que está en inglés y fue originalmente presentado ante un banco de desarrollo.&lt;/p&gt;
@@ -24,17 +24,17 @@
     
     <item>
       <title>Administración Tributaria Moderna</title>
-      <link>https://leobelen.github.com/post/2021-08-15-un-manual-de-administracion-tributaria/</link>
+      <link>https://leobelen.github.io/post/2021-08-15-un-manual-de-administracion-tributaria/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://leobelen.github.com/post/2021-08-15-un-manual-de-administracion-tributaria/</guid>
+      <guid>https://leobelen.github.io/post/2021-08-15-un-manual-de-administracion-tributaria/</guid>
       <description>
         
           &lt;p&gt;Una parte interesante de haber trabajado en administraciones tributarias durante años es que uno aprende el marco general y las mejores prácticas para llevar adelante la tarea. No importa la jurisdicción, a esta altura muchos de los problemas que presentan todas ella son los mismos y parten muchas veces del hecho de que muchos de sus integrantes no entienden del todo el porque de su accionar. Si, claro, ven claramente lo micro, pero muchas veces fallan en ver lo macro, y así, el conjunto de tareas puede que a veces no sea el mejor.&lt;/p&gt;
 &lt;p&gt;Sin embargo, aún más interesante fue entender que mucho de lo que sucede dentro de una de estas instituciones no está escrito públicamente, y por tanto muchos de los funcionarios de las mismas están obligados o bien a &amp;quot;inventar la rueda cada vez&amp;quot;, o leer notas o publicaciones que poco enseñan realmente (salvo experiencias aisladas en otros lugares del mundo) o - si tienen mucha suerte - ir a alguna conferencia donde puedan aprender algo nuevo, si es que el tema de la conferencia es realmente novedoso. Muchas de las conferencias, como todo en la vida, son sólo para presentar algún resultado, pero más que nada para hacer contactos.&lt;/p&gt;
 &lt;p&gt;En este contexto, muchas personas que quieren aprender y mejorar se encuentran con un techo y la realidad es que en mi experiencia, no importa en que lugar del mundo se esté, las tareas son las mismas y la gestión es básicamente la misma. Y resulta que no estoy solo en esto: en 2015 el Fondo Monetario Internacional puso a disposición del público una herramienta que justamente ayuda a los Estados a estimar el avance y utilizar mejores prácticas, denominado &lt;a href=&#34;https://www.tadat.org&#34;&gt;TADAT&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Aunque este movimiento fue largamente celebrado, dado que ahora era posible comparar administraciones tributarias, de forma equitativa, la verdad es que falta un manual de administración tributaria que muestre de forma didáctica, unificada y desinteresada los conceptos, los principios y las mejores prácticas en la materia junto con ideas para aplicar, tanto para jurisdicciones sin recursos como para aquellas que quieren mejorar cada día más.&lt;/p&gt;
-&lt;p&gt;Bueno, en este escenario pueden acceder a un adelanto del libro &lt;a href=&#34;https://leobelen.github.com/pdfs/admin_tributaria.pdf&#34;&gt;Administración Tributaria Moderna&lt;/a&gt;, con la esperanza de que despierte el suficiente interés como para su publicación.&lt;/p&gt;
+&lt;p&gt;Bueno, en este escenario pueden acceder a un adelanto del libro &lt;a href=&#34;https://leobelen.github.io/pdfs/admin_tributaria.pdf&#34;&gt;Administración Tributaria Moderna&lt;/a&gt;, con la esperanza de que despierte el suficiente interés como para su publicación.&lt;/p&gt;
 &lt;p&gt;Espero les guste y lo consideren útil como un punto de partida interesante.&lt;/p&gt;
 
         
@@ -43,17 +43,17 @@
     
     <item>
       <title>Un anteproyecto de Código Tributario Argentino</title>
-      <link>https://leobelen.github.com/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/</link>
+      <link>https://leobelen.github.io/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://leobelen.github.com/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/</guid>
+      <guid>https://leobelen.github.io/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/</guid>
       <description>
         
           &lt;p&gt;Sin perjuicio de los cambios propuestos por la Administración Central, es claro que uno de los problemas más acuciantes de la tributación actual es el envejecimiento: La ley primordial, 11.683 de Procedimiento Tributario fue sancionada en los años 30, teniendo su último texto ordenado en 1998, con lo cual muchas de las soluciones que propone están desactualizadas (por ejemplo no había sistemas informáticos en ese entonces) o han cambiado tanto que son difícilmente reconocibles (por ejemplo el proceso de ejecución fiscal).&lt;/p&gt;
 &lt;p&gt;Para empeorar, existe un gran abanico de normas que regulan esa actividad, desde leyes y decretos hasta resoluciones generales de DGI/AFIP, y aún doctrina, dado que numerosos conceptos requieren aclaración por parte de las autoridades de aplicación. Proyectos como la biblioteca electrónica de AFIP, creada a finales de los 90s, o SAIJ, anterior a ésta, han permitido reducir el costo de aprendizaje al ofrecer una interface con todas las referencias y modificaciones que una norma pueda tener, pero no alcanza.&lt;/p&gt;
 &lt;p&gt;En ese marco, hace unos 15 años inicié un ejercicio de compilación y actualización de normas tributarias, de las que surgió un Anteproyecto de Código Tributario que puede ser relevante en una economía deprimida por el COVID. Aunque el mismo esta claramente desactualizado, tal vez puede ser reiniciado si hay suficiente interés por parte de la sociedad, cosa que en su momento no había.&lt;/p&gt;
 &lt;p&gt;Siempre se habla de una reforma tributaria, pero en general se subestima el trabajo faraónico que esta importa, siendo este tal vez el momento para unificar criterios, actualizar conceptos y ordenar las cuentas, con la esperanza de tener reglas de juego que fomenten la inversión, el desarrollo y mejoren la calidad de vida de todos, reduciendo los costos de los ciudadanos y aumentando la eficiencia.&lt;/p&gt;
-&lt;p&gt;Pueden acceder a un avance de esta obra aquí: &lt;a href=&#34;https://leobelen.github.com/pdfs/apcta_main.pdf&#34;&gt;Anteproyecto de Código Tributario&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Pueden acceder a un avance de esta obra aquí: &lt;a href=&#34;https://leobelen.github.io/pdfs/apcta_main.pdf&#34;&gt;Anteproyecto de Código Tributario&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Espero les guste y lo consideren util como un punto de partida interesante.&lt;/p&gt;
 
         
@@ -62,10 +62,10 @@
     
     <item>
       <title>Impacto del factor humano en un cambio paradigmático en las Administraciones Tributarias</title>
-      <link>https://leobelen.github.com/post/2021-07-15-impacto-del-factor-humano-en-un-cambio-paradigm%C3%A1tico-en-las-administraciones-tributarias/</link>
+      <link>https://leobelen.github.io/post/2021-07-15-impacto-del-factor-humano-en-un-cambio-paradigm%C3%A1tico-en-las-administraciones-tributarias/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://leobelen.github.com/post/2021-07-15-impacto-del-factor-humano-en-un-cambio-paradigm%C3%A1tico-en-las-administraciones-tributarias/</guid>
+      <guid>https://leobelen.github.io/post/2021-07-15-impacto-del-factor-humano-en-un-cambio-paradigm%C3%A1tico-en-las-administraciones-tributarias/</guid>
       <description>
         
           &lt;p&gt;Esta tesis fue motivada por la falta de literatura especifica para el cambio organizacional en estructuras del estado dedicadas principalmente a la administración de impuestos, lo que ha generado una cultura de empirismo que puede ser apreciada claramente en diferentes partes del mundo, como se verá durante el desarrollo. En principio, en la actualidad el “motor del cambio” por antonomasia resulta ser la tecnología (es decir, la implementación de un ITAS o programa de gestión administrativa), sin embargo, este factor es uno entre muchos otros. En particular, esta tesis fue realizada con el fin de analizar el impacto del impacto del factor humano en los cambios paradigmáticos en las administraciones tributarias y las mejoras que pueden ser introducidas para maximizar los mismos. Para ello, se analizó la teoría aplicable y se han realizado encuestas en diferentes administraciones (incluyendo organizaciones de Argentina, Guatemala y Barbados) y una serie de entrevistas a especialistas en la materia.&lt;/p&gt;
@@ -77,13 +77,13 @@
     
     <item>
       <title>Mexico y BEPS</title>
-      <link>https://leobelen.github.com/post/2021-03-08-mexico-y-beps/</link>
+      <link>https://leobelen.github.io/post/2021-03-08-mexico-y-beps/</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://leobelen.github.com/post/2021-03-08-mexico-y-beps/</guid>
+      <guid>https://leobelen.github.io/post/2021-03-08-mexico-y-beps/</guid>
       <description>
         
-          &lt;p&gt;Hace unos años una empresa que ofrece un programa de contabilidad en Estados Unidos me pidió evaluar el impacto de BEPS en Mexico. De ese estudio, que fue mucho más que lo que esperaban, salió este mini paper que pueden consultar &lt;a href=&#34;https://leobelen.github.com/pdfs/mexico_beps_premier.pdf&#34;&gt;aqui&lt;/a&gt; (en inglés).&lt;/p&gt;
+          &lt;p&gt;Hace unos años una empresa que ofrece un programa de contabilidad en Estados Unidos me pidió evaluar el impacto de BEPS en Mexico. De ese estudio, que fue mucho más que lo que esperaban, salió este mini paper que pueden consultar &lt;a href=&#34;https://leobelen.github.io/pdfs/mexico_beps_premier.pdf&#34;&gt;aqui&lt;/a&gt; (en inglés).&lt;/p&gt;
 
         
       </description>
@@ -91,10 +91,10 @@
     
     <item>
       <title>Argentum</title>
-      <link>https://leobelen.github.com/post/2021-02-23-argentum/</link>
+      <link>https://leobelen.github.io/post/2021-02-23-argentum/</link>
       <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://leobelen.github.com/post/2021-02-23-argentum/</guid>
+      <guid>https://leobelen.github.io/post/2021-02-23-argentum/</guid>
       <description>
         
           &lt;p&gt;Hace algun tiempo, junto con Alejandro Baranek, luego de una reunión con los creadores de una moneda digital denominada &lt;a href=&#34;https://monedapar.com.ar&#34;&gt;Moneda Par&lt;/a&gt;, desarrollamos el marco teórico para una moneda digital que solucionase algunos de los problemas existentes en Argentina en ese momento, mayormente la inflación.&lt;/p&gt;
@@ -106,10 +106,10 @@
     
     <item>
       <title>Estudios socioconómicos sobre SDMX</title>
-      <link>https://leobelen.github.com/post/2017-10-04-estudios-sociocon%C3%B3micos-sobre-sdmx/</link>
+      <link>https://leobelen.github.io/post/2017-10-04-estudios-sociocon%C3%B3micos-sobre-sdmx/</link>
       <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://leobelen.github.com/post/2017-10-04-estudios-sociocon%C3%B3micos-sobre-sdmx/</guid>
+      <guid>https://leobelen.github.io/post/2017-10-04-estudios-sociocon%C3%B3micos-sobre-sdmx/</guid>
       <description>
         
           &lt;p&gt;Un trabajo que presentamos en 2017 en la conferencia de SDMX en Addis Abeba, Etiopía, sobre estudios socioeconómicos sobre SDMX. Pueden ver el paper resultante &lt;a href=&#34;https://ec.europa.eu/eurostat/cros/system/files/proof_of_concept_of_reproducible_socioeconomic_analysis_over_sdmx_paper.pdf&#34;&gt;aqui&lt;/a&gt; (en inglés) y la presentación original &lt;a href=&#34;https://ec.europa.eu/eurostat/cros/system/files/proof_of_concept_of_reproducible_socioeconomic_analysis_over_sdmx_presentation_0.pdf&#34;&gt;aqui&lt;/a&gt; (también en inglés).&lt;/p&gt;

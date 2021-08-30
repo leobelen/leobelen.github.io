@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Infraestructura on El Blog de Leonardo Belén</title>
-    <link>https://leobelen.github.com/tags/infraestructura/</link>
+    <link>https://leobelen.github.io/tags/infraestructura/</link>
     <description>Recent content in Infraestructura on El Blog de Leonardo Belén</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2017-2021, Leonardo Javier Belén; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leobelen.github.com/tags/infraestructura/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leobelen.github.io/tags/infraestructura/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Antares</title>
-      <link>https://leobelen.github.com/post/2021-08-27-antares/</link>
+      <link>https://leobelen.github.io/post/2021-08-27-antares/</link>
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://leobelen.github.com/post/2021-08-27-antares/</guid>
+      <guid>https://leobelen.github.io/post/2021-08-27-antares/</guid>
       <description>
         
           &lt;p&gt;Una parte importante de la propuesta general, iniciada por los anteriores posteos es el programa que puede ser usado para llevarlo adelante. En realidad, junto con anterior, desarrollé hace un tiempo un sistema integrado de Administración Tributaria (ITAS, por sus siglas en inglés), denominado Antares, sobre el cual existe una demo en el siguiente link &lt;a href=&#34;https://antares.socrates.theworkpc.com&#34;&gt;https://antares.socrates.theworkpc.com&lt;/a&gt;, que está en inglés y fue originalmente presentado ante un banco de desarrollo.&lt;/p&gt;
