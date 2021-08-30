@@ -236,32 +236,6 @@
                 href="https://leobelen.github.io/en/about/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/en/tags/estad%C3%ADstica/</loc>
-    <lastmod>2017-10-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/tags/estad%C3%ADstica/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/en/tags/estad%C3%ADstica/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/en/categories/publicaciones/</loc>
-    <lastmod>2017-10-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/categories/publicaciones/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/en/categories/publicaciones/"
-                />
-  </url><url>
     <loc>https://leobelen.github.io/en/post/2017-10-04-estudios-sociocon%C3%B3micos-sobre-sdmx/</loc>
     <lastmod>2017-10-04T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -287,6 +261,9 @@
                 hreflang="en"
                 href="https://leobelen.github.io/en/tags/sdmx/"
                 />
+  </url><url>
+    <loc>https://leobelen.github.io/en/tags/statistics/</loc>
+    <lastmod>2017-10-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/en/series/</loc>
     <xhtml:link
