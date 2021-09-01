@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en" data-figures="" class="page">
   <head>
-<title>Antares &amp;nbsp; Leonardo Belén&#39;s Blog</title>
+<title>Antares | Leonardo Belén&#39;s Blog</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -19,13 +19,13 @@
 <meta property="og:locale:alternate" content="es" />
 
 <meta property="og:type" content="article">
-<meta name="description" content="An important part of the overall proposal, initiated by the previous posts, is the program that can be used to carry it out. Actually, along with the previous …">
+<meta name="description" content="Introduction An important part of the general proposal, initiated by the previous posts (in particular the tax administration manual and the draft Tax Code)) is …">
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:creator" content="@leobelen">
 <meta name="twitter:title" content="Antares" />
 <meta property="og:url" content="https://leobelen.github.io/en/post/2021-08-27-antares/" />
 <meta property="og:title" content="Antares" />
-<meta property="og:description" content="An important part of the overall proposal, initiated by the previous posts, is the program that can be used to carry it out. Actually, along with the previous …" />
+<meta property="og:description" content="Introduction An important part of the general proposal, initiated by the previous posts (in particular the tax administration manual and the draft Tax Code)) is …" />
 <meta property="og:image" content="https://leobelen.github.io/images/gears.svg" />
 
 <link rel="apple-touch-icon" sizes="180x180" href="https://leobelen.github.io/icons/apple-touch-icon.png">
@@ -131,7 +131,7 @@
 </svg></span>
     <span class="post_date">
       2021-08-27</span>
-    <span class="post_time"> · 1 min read</span><span>&nbsp;· <a href='https://leobelen.github.io/en/tags/infrastructure' title="Infrastructure" class="post_tag button button_translucent">Infrastructure
+    <span class="post_time"> · 2 min read</span><span>&nbsp;· <a href='https://leobelen.github.io/en/tags/infrastructure' title="Infrastructure" class="post_tag button button_translucent">Infrastructure
         </a><a href='https://leobelen.github.io/en/tags/tax-administration' title="Tax Administration" class="post_tag button button_translucent">Tax Administration
         </a><a href='https://leobelen.github.io/en/tags/proof-of-concept' title="Proof of concept" class="post_tag button button_translucent">Proof of concept
         </a>
@@ -164,7 +164,31 @@
   </div>
 
     
-    <p>An important part of the overall proposal, initiated by the previous posts, is the program that can be used to carry it out. Actually, along with the previous one, I developed some time ago an Integrated Tax Administration System (ITAS), called Antares, about which there is a demo in the following link <a href="https://antares.socrates.theworkpc.com">https://antares.socrates.theworkpc.com</a>, which and was originally filed with a development bank.</p>
+    <h1 id="introduction">Introduction</h1>
+<p>An important part of the general proposal, initiated by the previous posts (in particular the <a href="/en/post/2021-08-15-un-manual-de-administracion-tributaria/">tax administration manual</a> and the <a href="/en/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/">draft Tax Code</a>)) is the program that can be used to carry it out. Actually, some time ago I developed an Integrated Tax Administration System (ITAS), called Antares, about which there is a demo at the following link <a href="https://antares.socrates.theworkpc.com">https://antares.socrates.theworkpc.com</a>, which is in English and was originally filed with a development bank.</p>
+<h1 id="architecture">Architecture</h1>
+<p>From the beginning, the project was focused as a tool that could meet the following characteristics:</p>
+<ul>
+<li>be easy to install and test.</li>
+<li>highly parameterizable.</li>
+<li>based on free software technologies (such as the <a href="https://www.gnu.org/licenses/">GNU</a> license).</li>
+</ul>
+<p>As a result of the above, the system works with the following technological components:</p>
+<ol>
+<li><a href="https://www.postgresql.org">Postgres</a> as a database.</li>
+<li><a href="https://www.python.org">Python 3</a> as a programming language, with the <a href="https://www.djangoproject.com">Django</a> framework as a general service provider.</li>
+<li><a href="https://www.w3.org/standards/xml/core">XML</a> as the document description language and <a href="http://xpdl.org">XPDL</a> as the workflow description language.</li>
+<li>Web interface.</li>
+<li><a href="https://www.docker.com">Docker</a> as a deployment technology.</li>
+</ol>
+<p>#Components
+The system provides the tools to fully implement an ITAS, including:</p>
+<ol>
+<li>A parameterizable document manager, which allows editing, viewing and printing (the latter not implemented in the demo).</li>
+<li>A checking account, which maintains balances, transactions, and calculates interest and penalties.</li>
+<li>A vector of obligations.</li>
+<li>A workflow manager.</li>
+</ol>
 <p>I hope you like it and find it useful as an interesting starting point, anything you can contact me at <a href="mailto:leobelen@gmail.com">leobelen@gmail.com</a>.</p>
 <div id="disqus_thread"></div>
 <script type="application/javascript">
