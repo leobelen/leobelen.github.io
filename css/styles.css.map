@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/leobelen/docs/projects/www/leobelen.hugo",
+	"sourceRoot": "/Users/leobelen/docs/projects/www/leobelen.github.io",
 	"sources": [
 		"themes/hugo-clarity/assets/sass/main.sass",
 		"themes/hugo-clarity/assets/sass/_variables.sass",
