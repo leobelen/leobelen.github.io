@@ -32,8 +32,8 @@
 &lt;li&gt;Web interface.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.docker.com&#34;&gt;Docker&lt;/a&gt; as a deployment technology.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;#Components
-The system provides the tools to fully implement an ITAS, including:&lt;/p&gt;
+&lt;h1 id=&#34;components&#34;&gt;Components&lt;/h1&gt;
+&lt;p&gt;The system provides the tools to fully implement an ITAS, including:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;A parameterizable document manager, which allows editing, viewing and printing (the latter not implemented in the demo).&lt;/li&gt;
 &lt;li&gt;A checking account, which maintains balances, transactions, and calculates interest and penalties.&lt;/li&gt;
