@@ -236,28 +236,6 @@
                 href="https://leobelen.github.io/en/about/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/en/categories/conferences/</loc>
-    <lastmod>2017-10-04T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/en/tags/environment/</loc>
-    <lastmod>2017-10-04T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/en/tags/geometry/</loc>
-    <lastmod>2017-10-04T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/en/post/2017-07-01-qbotics/</loc>
-    <lastmod>2017-10-04T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/post/2017-07-01-qbotics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/en/post/2017-07-01-qbotics/"
-                />
-  </url><url>
     <loc>https://leobelen.github.io/en/post/2017-10-04-estudios-sociocon%C3%B3micos-sobre-sdmx/</loc>
     <lastmod>2017-10-04T00:00:00-03:00</lastmod>
     <xhtml:link
@@ -286,6 +264,28 @@
   </url><url>
     <loc>https://leobelen.github.io/en/tags/statistics/</loc>
     <lastmod>2017-10-04T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/en/categories/conferences/</loc>
+    <lastmod>2017-07-01T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/en/tags/environment/</loc>
+    <lastmod>2017-07-01T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/en/tags/geometry/</loc>
+    <lastmod>2017-07-01T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/en/post/2017-07-01-qbotics/</loc>
+    <lastmod>2017-07-01T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/post/2017-07-01-qbotics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/en/post/2017-07-01-qbotics/"
+                />
   </url><url>
     <loc>https://leobelen.github.io/en/series/</loc>
     <xhtml:link

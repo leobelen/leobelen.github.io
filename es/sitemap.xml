@@ -239,9 +239,6 @@
                 href="https://leobelen.github.io/about/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/categories/conferencias/</loc>
-    <lastmod>2017-10-04T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>https://leobelen.github.io/tags/estad%C3%ADstica/</loc>
     <lastmod>2017-10-04T00:00:00-03:00</lastmod>
   </url><url>
@@ -258,25 +255,6 @@
                 href="https://leobelen.github.io/post/2017-10-04-estudios-sociocon%C3%B3micos-sobre-sdmx/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/tags/geometria/</loc>
-    <lastmod>2017-10-04T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/tags/medio-ambiente/</loc>
-    <lastmod>2017-10-04T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/post/2017-07-01-qbotics/</loc>
-    <lastmod>2017-10-04T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/en/post/2017-07-01-qbotics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/post/2017-07-01-qbotics/"
-                />
-  </url><url>
     <loc>https://leobelen.github.io/tags/sdmx/</loc>
     <lastmod>2017-10-04T00:00:00-03:00</lastmod>
     <xhtml:link
@@ -288,6 +266,28 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://leobelen.github.io/tags/sdmx/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/categories/conferencias/</loc>
+    <lastmod>2017-07-01T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/tags/geometria/</loc>
+    <lastmod>2017-07-01T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/tags/medio-ambiente/</loc>
+    <lastmod>2017-07-01T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/post/2017-07-01-qbotics/</loc>
+    <lastmod>2017-07-01T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/en/post/2017-07-01-qbotics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/post/2017-07-01-qbotics/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/series/</loc>
