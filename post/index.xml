@@ -6,7 +6,26 @@
     <description>Recent content in Posts on Leonardo Belén&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2017-2022, Leonardo Javier Belén; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 27 Sep 2021 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jun 2022 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tax Administration Principles</title>
+      <link>https://leobelen.github.io/post/2022-06-22-principios-de-adm-tributaria/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 -0300</pubDate>
+      
+      <guid>https://leobelen.github.io/post/2022-06-22-principios-de-adm-tributaria/</guid>
+      <description>
+        
+          &lt;p&gt;An interesting part of having worked in tax administrations for years is that you learn the general framework and best practices to get the job done. No matter the jurisdiction, at this point many of the problems that all of them present are the same and many times start from the fact that many of its members do not fully understand the reason for their actions. Yes, of course, they clearly see the micro, but many times they fail to see the macro, and thus, the set of tasks may sometimes not be the best.&lt;/p&gt;
+&lt;p&gt;However, it was even more interesting to understand that much of what happens within one of these institutions is not publicly written, and therefore many of their officials are obliged either to &amp;quot;invent the wheel every time&amp;quot;, or to read notes or publications that really teach little (except isolated experiences in other parts of the world) or - if they are very lucky - go to a conference where they can learn something new, if the topic of the conference is really new. Many of the conferences, like everything in life, are only to present a result, but more than anything to make contacts.&lt;/p&gt;
+&lt;p&gt;In this context, many people who want to learn and improve find themselves with a ceiling and the reality is that in my experience, no matter where in the world they are, the tasks are the same and the management is basically the same. And it turns out that I am not alone in this: in 2015 the International Monetary Fund made available to the public a tool that precisely helps States to estimate progress and use best practices, called &lt;a href=&#34;https://www.tadat.org&#34;&gt;TADAT&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Although this movement was long celebrated, given that it was now possible to compare tax administrations, in an equitable way, the truth is that there is a lack of a tax administration manual that shows in a didactic, unified and disinterested way the concepts, principles and best practices in the material along with ideas to apply, both for jurisdictions without resources and for those that want to improve every day.&lt;/p&gt;
+&lt;p&gt;Published in Spanish by Thomson Reuters - La Ley &lt;a href=&#34;https://tienda.thomsonreuters.com.ar/978-987-03-4377-6%E2%80%8B-principios-de-administracion-tributaria/p&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I hope you like it and find it useful as an interesting starting point.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
     <item>
       <title>Case Selection in a Tax Administration: Managing Risk</title>
       <link>https://leobelen.github.io/post/2021-09-27-seleccion-de-casos/</link>
@@ -74,7 +93,7 @@
       <description>
         
           &lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
-&lt;p&gt;An important part of the general proposal, initiated by the previous posts (in particular the &lt;a href=&#34;https://leobelen.github.io/post/2021-08-15-un-manual-de-administracion-tributaria/&#34;&gt;tax administration manual&lt;/a&gt; and the &lt;a href=&#34;https://leobelen.github.io/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/&#34;&gt;draft Tax Code&lt;/a&gt;)) is the program that can be used to carry it out. Actually, some time ago I developed an Integrated Tax Administration System (ITAS), called Antares, about which there is a demo at the following link &lt;a href=&#34;https://antares.socrates.theworkpc.com&#34;&gt;https://antares.socrates.theworkpc.com&lt;/a&gt;, which was originally filed with a development bank.&lt;/p&gt;
+&lt;p&gt;An important part of the general proposal, initiated by the previous posts (in particular the &lt;a href=&#34;https://leobelen.github.io/post/2022-06-22-principios-de-adm-tributaria/&#34;&gt;tax administration manual&lt;/a&gt; and the &lt;a href=&#34;https://leobelen.github.io/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/&#34;&gt;draft Tax Code&lt;/a&gt;)) is the program that can be used to carry it out. Actually, some time ago I developed an Integrated Tax Administration System (ITAS), called Antares, about which there is a demo at the following link &lt;a href=&#34;https://antares.socrates.theworkpc.com&#34;&gt;https://antares.socrates.theworkpc.com&lt;/a&gt;, which was originally filed with a development bank.&lt;/p&gt;
 &lt;h1 id=&#34;architecture&#34;&gt;Architecture&lt;/h1&gt;
 &lt;p&gt;From the beginning, the project was focused as a tool that could meet the following characteristics:&lt;/p&gt;
 &lt;ul&gt;
@@ -99,25 +118,6 @@
 &lt;li&gt;A workflow manager.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;I hope you like it and find it useful as an interesting starting point, anything you can contact me at &lt;a href=&#34;mailto:leobelen@gmail.com&#34;&gt;leobelen@gmail.com&lt;/a&gt;.&lt;/p&gt;
-
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Tax Administration Principles</title>
-      <link>https://leobelen.github.io/post/2021-08-15-un-manual-de-administracion-tributaria/</link>
-      <pubDate>Sun, 15 Aug 2021 00:00:00 -0300</pubDate>
-      
-      <guid>https://leobelen.github.io/post/2021-08-15-un-manual-de-administracion-tributaria/</guid>
-      <description>
-        
-          &lt;p&gt;An interesting part of having worked in tax administrations for years is that you learn the general framework and best practices to get the job done. No matter the jurisdiction, at this point many of the problems that all of them present are the same and many times start from the fact that many of its members do not fully understand the reason for their actions. Yes, of course, they clearly see the micro, but many times they fail to see the macro, and thus, the set of tasks may sometimes not be the best.&lt;/p&gt;
-&lt;p&gt;However, it was even more interesting to understand that much of what happens within one of these institutions is not publicly written, and therefore many of their officials are obliged either to &amp;quot;invent the wheel every time&amp;quot;, or to read notes or publications that really teach little (except isolated experiences in other parts of the world) or - if they are very lucky - go to a conference where they can learn something new, if the topic of the conference is really new. Many of the conferences, like everything in life, are only to present a result, but more than anything to make contacts.&lt;/p&gt;
-&lt;p&gt;In this context, many people who want to learn and improve find themselves with a ceiling and the reality is that in my experience, no matter where in the world they are, the tasks are the same and the management is basically the same. And it turns out that I am not alone in this: in 2015 the International Monetary Fund made available to the public a tool that precisely helps States to estimate progress and use best practices, called &lt;a href=&#34;https://www.tadat.org&#34;&gt;TADAT&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Although this movement was long celebrated, given that it was now possible to compare tax administrations, in an equitable way, the truth is that there is a lack of a tax administration manual that shows in a didactic, unified and disinterested way the concepts, principles and best practices in the material along with ideas to apply, both for jurisdictions without resources and for those that want to improve every day.&lt;/p&gt;
-&lt;p&gt;Well, in this scenario you can access a preview of the book &lt;a href=&#34;https://leobelen.github.io/pdfs/admin_tributaria.pdf&#34;&gt;Administración Tributaria Moderna&lt;/a&gt; (in Spanish).&lt;/p&gt;
-&lt;p&gt;I hope you like it and find it useful as an interesting starting point.&lt;/p&gt;
 
         
       </description>

@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/es/tags/administraci%C3%B3n-tributaria/</loc>
-    <lastmod>2021-09-27T00:00:00-03:00</lastmod>
+    <lastmod>2022-06-22T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/categories/</loc>
-    <lastmod>2021-09-27T00:00:00-03:00</lastmod>
+    <lastmod>2022-06-22T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -24,7 +24,7 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/</loc>
-    <lastmod>2021-09-27T00:00:00-03:00</lastmod>
+    <lastmod>2022-06-22T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,10 +42,10 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/tags/manuales/</loc>
-    <lastmod>2021-09-27T00:00:00-03:00</lastmod>
+    <lastmod>2022-06-22T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/post/</loc>
-    <lastmod>2021-09-27T00:00:00-03:00</lastmod>
+    <lastmod>2022-06-22T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -57,24 +57,24 @@
                 href="https://leobelen.github.io/es/post/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/es/categories/proyectos/</loc>
-    <lastmod>2021-09-27T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/es/post/2021-09-27-seleccion-de-casos/</loc>
-    <lastmod>2021-09-27T00:00:00-03:00</lastmod>
+    <loc>https://leobelen.github.io/es/post/2022-06-22-principios-de-adm-tributaria/</loc>
+    <lastmod>2022-06-22T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://leobelen.github.io/post/2021-09-27-seleccion-de-casos/"
+                href="https://leobelen.github.io/post/2022-06-22-principios-de-adm-tributaria/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://leobelen.github.io/es/post/2021-09-27-seleccion-de-casos/"
+                href="https://leobelen.github.io/es/post/2022-06-22-principios-de-adm-tributaria/"
                 />
   </url><url>
+    <loc>https://leobelen.github.io/es/categories/proyectos/</loc>
+    <lastmod>2022-06-22T00:00:00-03:00</lastmod>
+  </url><url>
     <loc>https://leobelen.github.io/es/tags/</loc>
-    <lastmod>2021-09-27T00:00:00-03:00</lastmod>
+    <lastmod>2022-06-22T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -92,7 +92,20 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/categories/tributaci%C3%B3n/</loc>
+    <lastmod>2022-06-22T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/post/2021-09-27-seleccion-de-casos/</loc>
     <lastmod>2021-09-27T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2021-09-27-seleccion-de-casos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2021-09-27-seleccion-de-casos/"
+                />
   </url><url>
     <loc>https://leobelen.github.io/es/post/2021-08-27-antares/</loc>
     <lastmod>2021-08-27T00:00:00-03:00</lastmod>
@@ -112,19 +125,6 @@
   </url><url>
     <loc>https://leobelen.github.io/es/tags/prueba-de-concepto/</loc>
     <lastmod>2021-08-27T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/es/post/2021-08-15-un-manual-de-administracion-tributaria/</loc>
-    <lastmod>2021-08-15T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/post/2021-08-15-un-manual-de-administracion-tributaria/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/post/2021-08-15-un-manual-de-administracion-tributaria/"
-                />
   </url><url>
     <loc>https://leobelen.github.io/es/tags/argentina/</loc>
     <lastmod>2021-08-01T00:00:00-03:00</lastmod>
