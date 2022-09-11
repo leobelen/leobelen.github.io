@@ -2,11 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://leobelen.github.io/es/tags/administraci%C3%B3n-tributaria/</loc>
-    <lastmod>2022-06-22T00:00:00-03:00</lastmod>
+    <loc>https://leobelen.github.io/es/tags/actualidad/</loc>
+    <lastmod>2022-09-09T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/beps/</loc>
+    <lastmod>2022-09-09T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/tags/beps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/tags/beps/"
+                />
   </url><url>
     <loc>https://leobelen.github.io/es/categories/</loc>
-    <lastmod>2022-06-22T00:00:00-03:00</lastmod>
+    <lastmod>2022-09-09T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -24,7 +37,7 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/</loc>
-    <lastmod>2022-06-22T00:00:00-03:00</lastmod>
+    <lastmod>2022-09-09T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -41,11 +54,40 @@
                 href="https://leobelen.github.io/es/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/es/tags/manuales/</loc>
-    <lastmod>2022-06-22T00:00:00-03:00</lastmod>
+    <loc>https://leobelen.github.io/es/tags/fatca/</loc>
+    <lastmod>2022-09-09T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/tags/fatca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/tags/fatca/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/intercambio-de-informaci%C3%B3n-entre-pa%C3%ADses/</loc>
+    <lastmod>2022-09-09T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/m%C3%A9xico/</loc>
+    <lastmod>2022-09-09T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/post/2022-09-09-mexico-y-beps/</loc>
+    <lastmod>2022-09-09T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2022-09-09-mexico-y-beps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2022-09-09-mexico-y-beps/"
+                />
   </url><url>
     <loc>https://leobelen.github.io/es/post/</loc>
-    <lastmod>2022-06-22T00:00:00-03:00</lastmod>
+    <lastmod>2022-09-09T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -57,24 +99,11 @@
                 href="https://leobelen.github.io/es/post/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/es/post/2022-06-22-principios-de-adm-tributaria/</loc>
-    <lastmod>2022-06-22T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/post/2022-06-22-principios-de-adm-tributaria/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/post/2022-06-22-principios-de-adm-tributaria/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/es/categories/proyectos/</loc>
-    <lastmod>2022-06-22T00:00:00-03:00</lastmod>
+    <loc>https://leobelen.github.io/es/categories/publicaciones/</loc>
+    <lastmod>2022-09-09T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/tags/</loc>
-    <lastmod>2022-06-22T00:00:00-03:00</lastmod>
+    <lastmod>2022-09-09T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -92,6 +121,28 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/categories/tributaci%C3%B3n/</loc>
+    <lastmod>2022-09-09T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/administraci%C3%B3n-tributaria/</loc>
+    <lastmod>2022-06-22T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/manuales/</loc>
+    <lastmod>2022-06-22T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/post/2022-06-22-principios-de-adm-tributaria/</loc>
+    <lastmod>2022-06-22T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2022-06-22-principios-de-adm-tributaria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2022-06-22-principios-de-adm-tributaria/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/es/categories/proyectos/</loc>
     <lastmod>2022-06-22T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/post/2021-09-27-seleccion-de-casos/</loc>
@@ -172,54 +223,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://leobelen.github.io/es/post/2021-07-15-impacto-del-factor-humano-en-un-cambio-paradigm%C3%A1tico-en-las-administraciones-tributarias/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/es/categories/publicaciones/</loc>
-    <lastmod>2021-07-15T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/es/tags/beps/</loc>
-    <lastmod>2021-03-08T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/tags/beps/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/tags/beps/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/es/tags/fatca/</loc>
-    <lastmod>2021-03-08T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/tags/fatca/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/tags/fatca/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/es/tags/intercambio-de-informaci%C3%B3n-entre-pa%C3%ADses/</loc>
-    <lastmod>2021-03-08T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/es/tags/m%C3%A9xico/</loc>
-    <lastmod>2021-03-08T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/es/post/2021-03-08-mexico-y-beps/</loc>
-    <lastmod>2021-03-08T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/post/2021-03-08-mexico-y-beps/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/post/2021-03-08-mexico-y-beps/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/post/2021-02-23-argentum/</loc>
