@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tax Administration Rules on Leonardo Belén&#39;s Blog</title>
+    <link>https://leobelen.github.io/tags/tax-administration-rules/</link>
+    <description>Recent content in Tax Administration Rules on Leonardo Belén&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2017-2022, Leonardo Javier Belén; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 15 Sep 2022 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/tags/tax-administration-rules/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tax Administrations&#39; Rules: Do not only believe the Taxpayer</title>
+      <link>https://leobelen.github.io/post/2022-09-15-no-creer-solo-contribuyente/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 -0300</pubDate>
+      
+      <guid>https://leobelen.github.io/post/2022-09-15-no-creer-solo-contribuyente/</guid>
+      <description>
+        
+          &lt;p&gt;This is perhaps the number one rule of the tax administration and the one that impacts most of the activities, since it invites to verify, in the most efficient and automatic way possible, what is indicated by the taxpayer in his interaction with the administration.&lt;/p&gt;
+&lt;p&gt;Whether due to ignorance, deliberate omission or negligence, it is likely that any given taxpayer will not be in a position to report a given value to the administration with 100% percent certainty.&lt;/p&gt;
+&lt;p&gt;Although this represents a serious problem for the administration, the reality is that it can be further mitigated by implementing cross-checks, that is, defining information channels that can be automatically validated. For example, if a taxpayer is required to declare the requested amount as a mortgage (something usual in the case of Income Tax, or, in Argentina, Income Tax), a channel with banking entities can be used to determine if the taxpayer has requested that amount from a bank and thus validate it.&lt;/p&gt;
+&lt;p&gt;Clearly, this requires a large amount of information to be available to verify these data, and if well designed it can be done automatically by the Administration, reducing costs and disputes.&lt;/p&gt;
+&lt;p&gt;This and other principles are available in the book &lt;a href=&#34;https://tienda.thomsonreuters.com.ar/978-987-03-4377-6%E2%80%8B-principios-de-administracion-tributaria/p&#34;&gt;Principios de Administración Tributaria&lt;/a&gt; published by Thomson Reuters - La Ley.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
