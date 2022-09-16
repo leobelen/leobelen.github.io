@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on Leonardo Belén&#39;s Blog</title>
-    <link>https://leobelen.github.io/tags/</link>
-    <description>Recent content in Tags on Leonardo Belén&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2017-2022, Leonardo Javier Belén; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 15 Sep 2022 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Leonardo Belén's Blog</title><link>https://leobelen.github.io/tags/</link><description>Recent content in Tags on Leonardo Belén's Blog</description><generator>Hugo -- gohugo.io</generator><copyright>Copyright © 2017-2022, Leonardo Javier Belén; all rights reserved.</copyright><lastBuildDate>Thu, 15 Sep 2022 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
