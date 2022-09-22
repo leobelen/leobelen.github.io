@@ -3,16 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/</loc>
-    <lastmod>2022-09-15T00:00:00-03:00</lastmod>
+    <lastmod>2022-09-22T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
                 href="https://leobelen.github.io/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://leobelen.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -21,16 +16,11 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/categories/</loc>
-    <lastmod>2022-09-15T00:00:00-03:00</lastmod>
+    <lastmod>2022-09-22T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
                 href="https://leobelen.github.io/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://leobelen.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -39,7 +29,7 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/post/</loc>
-    <lastmod>2022-09-15T00:00:00-03:00</lastmod>
+    <lastmod>2022-09-22T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -52,16 +42,11 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/</loc>
-    <lastmod>2022-09-15T00:00:00-03:00</lastmod>
+    <lastmod>2022-09-22T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
                 href="https://leobelen.github.io/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://leobelen.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -70,10 +55,29 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/tax-administration-rules/</loc>
-    <lastmod>2022-09-15T00:00:00-03:00</lastmod>
+    <lastmod>2022-09-22T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/post/2022-09-22-nadie-quiere-pagar-impuestos/</loc>
+    <lastmod>2022-09-22T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2022-09-22-nadie-quiere-pagar-impuestos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2022-09-22-nadie-quiere-pagar-impuestos/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/categories/taxation/</loc>
+    <lastmod>2022-09-22T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/tags/theory/</loc>
+    <lastmod>2022-09-22T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/post/2022-09-16-no-crear-impuestos-hasta-optimizar-procesos/</loc>
-    <lastmod>2022-09-15T00:00:00-03:00</lastmod>
+    <lastmod>2022-09-16T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -97,12 +101,6 @@
                 hreflang="en"
                 href="https://leobelen.github.io/post/2022-09-15-no-creer-solo-contribuyente/"
                 />
-  </url><url>
-    <loc>https://leobelen.github.io/categories/taxation/</loc>
-    <lastmod>2022-09-15T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/tags/theory/</loc>
-    <lastmod>2022-09-15T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/tags/principles/</loc>
     <lastmod>2022-09-14T00:00:00-03:00</lastmod>
@@ -384,11 +382,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://leobelen.github.io/es/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://leobelen.github.io/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
