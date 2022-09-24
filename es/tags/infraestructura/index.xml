@@ -1,50 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Infraestructura on El Blog de Leonardo Belén</title>
-    <link>https://leobelen.github.io/es/tags/infraestructura/</link>
-    <description>Recent content in Infraestructura on El Blog de Leonardo Belén</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2017-2022, Leonardo Javier Belén; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/es/tags/infraestructura/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Antares</title>
-      <link>https://leobelen.github.io/es/post/2021-08-27-antares/</link>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 -0300</pubDate>
-      
-      <guid>https://leobelen.github.io/es/post/2021-08-27-antares/</guid>
-      <description>
-        
-          &lt;h1 id=&#34;introducción&#34;&gt;Introducción&lt;/h1&gt;
-&lt;p&gt;Una parte importante de la propuesta general, iniciada por los anteriores posteos (en particular el &lt;a href=&#34;https://leobelen.github.io/es/post/2022-06-22-principios-de-adm-tributaria/&#34;&gt; manual de administración tributaria&lt;/a&gt; y el &lt;a href=&#34;https://leobelen.github.io/es/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/&#34;&gt;anteproyecto de Código Tributario&lt;/a&gt;) es el programa que puede ser usado para llevarlo adelante. En realidad, desarrollé hace un tiempo un Sistema Integrado de Administración Tributaria (ITAS, por sus siglas en inglés), denominado Antares, sobre el cual existe una demo en el siguiente link &lt;a href=&#34;https://antares.socrates.theworkpc.com&#34;&gt;https://antares.socrates.theworkpc.com&lt;/a&gt;, que está en inglés y fue originalmente presentado ante un banco de desarrollo.&lt;/p&gt;
-&lt;h1 id=&#34;arquitectura&#34;&gt;Arquitectura&lt;/h1&gt;
-&lt;p&gt;Desde un principio, el proyecto fue enfocado como una herramienta que pudiera cumplir con las siguientes características:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ser fácil de instalar y probar.&lt;/li&gt;
-&lt;li&gt;altamente parametrizable.&lt;/li&gt;
-&lt;li&gt;basado en tecnolgías de software libre (como es el caso de la licencia &lt;a href=&#34;https://www.gnu.org/licenses/&#34;&gt;GNU&lt;/a&gt;).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Como resultado de lo anterior, el sistema funciona con los siguientes componentes tecnológicos:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.postgresql.org&#34;&gt;Postgres&lt;/a&gt; como base de datos.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.python.org&#34;&gt;Python 3&lt;/a&gt; como lenguaje de programación, con el framework &lt;a href=&#34;https://www.djangoproject.com&#34;&gt;Django&lt;/a&gt; como proveedor de servicios generales.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.w3.org/standards/xml/core&#34;&gt;XML&lt;/a&gt; como lenguaje de descripción de documentos y &lt;a href=&#34;http://xpdl.org&#34;&gt;XPDL&lt;/a&gt; como lenguage de descripción de flujos de trabajo.&lt;/li&gt;
-&lt;li&gt;Interface web.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.docker.com&#34;&gt;Docker&lt;/a&gt; como tecnología de despliegue.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1 id=&#34;componentes&#34;&gt;Componentes&lt;/h1&gt;
-&lt;p&gt;El sistema provee las herramientas para implementar al completo un ITAS, incluyendo:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Un gestor de documentos parametrizable, que permite la edición, visualización e impresión (esto ultimo no implementado en la demo).&lt;/li&gt;
-&lt;li&gt;Una cuenta corriente, que mantiene balances, transacciones y calcula intereses y multas.&lt;/li&gt;
-&lt;li&gt;Un vector de obligaciones.&lt;/li&gt;
-&lt;li&gt;Un gestor de flujos de trabajo.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Espero les guste y lo consideren útil como un punto de partida interesante, cualquier cosa pueden contactarme a &lt;a href=&#34;mailto:leobelen@gmail.com&#34;&gt;leobelen@gmail.com&lt;/a&gt;.&lt;/p&gt;
-
-        
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Infraestructura on El Blog de Leonardo Belén</title><link>https://leobelen.github.io/es/tags/infraestructura/</link><description>Recent content in Infraestructura on El Blog de Leonardo Belén</description><generator>Hugo -- gohugo.io</generator><copyright>Copyright © 2017-2022, Leonardo Javier Belén; all rights reserved.</copyright><lastBuildDate>Fri, 27 Aug 2021 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/es/tags/infraestructura/index.xml" rel="self" type="application/rss+xml"/><item><title>Antares</title><link>https://leobelen.github.io/es/post/2021-08-27-antares/</link><pubDate>Fri, 27 Aug 2021 00:00:00 -0300</pubDate><guid>https://leobelen.github.io/es/post/2021-08-27-antares/</guid><description>
+&lt;h1 id="introducción">Introducción&lt;/h1>
+&lt;p>Una parte importante de la propuesta general, iniciada por los anteriores posteos (en particular el &lt;a href="https://leobelen.github.io/es/post/2022-06-22-principios-de-adm-tributaria/"> manual de administración tributaria&lt;/a> y el &lt;a href="https://leobelen.github.io/es/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/">anteproyecto de Código Tributario&lt;/a>) es el programa que puede ser usado para llevarlo adelante. En realidad, desarrollé hace un tiempo un Sistema Integrado de Administración Tributaria (ITAS, por sus siglas en inglés), denominado Antares, sobre el cual existe una demo en el siguiente link &lt;a href="https://antares.socrates.theworkpc.com">https://antares.socrates.theworkpc.com&lt;/a>, que está en inglés y fue originalmente presentado ante un banco de desarrollo.&lt;/p>
+&lt;h1 id="arquitectura">Arquitectura&lt;/h1>
+&lt;p>Desde un principio, el proyecto fue enfocado como una herramienta que pudiera cumplir con las siguientes características:&lt;/p>
+&lt;ul>
+&lt;li>ser fácil de instalar y probar.&lt;/li>
+&lt;li>altamente parametrizable.&lt;/li>
+&lt;li>basado en tecnolgías de software libre (como es el caso de la licencia &lt;a href="https://www.gnu.org/licenses/">GNU&lt;/a>).&lt;/li>
+&lt;/ul>
+&lt;p>Como resultado de lo anterior, el sistema funciona con los siguientes componentes tecnológicos:&lt;/p>
+&lt;ol>
+&lt;li>&lt;a href="https://www.postgresql.org">Postgres&lt;/a> como base de datos.&lt;/li>
+&lt;li>&lt;a href="https://www.python.org">Python 3&lt;/a> como lenguaje de programación, con el framework &lt;a href="https://www.djangoproject.com">Django&lt;/a> como proveedor de servicios generales.&lt;/li>
+&lt;li>&lt;a href="https://www.w3.org/standards/xml/core">XML&lt;/a> como lenguaje de descripción de documentos y &lt;a href="http://xpdl.org">XPDL&lt;/a> como lenguage de descripción de flujos de trabajo.&lt;/li>
+&lt;li>Interface web.&lt;/li>
+&lt;li>&lt;a href="https://www.docker.com">Docker&lt;/a> como tecnología de despliegue.&lt;/li>
+&lt;/ol>
+&lt;h1 id="componentes">Componentes&lt;/h1>
+&lt;p>El sistema provee las herramientas para implementar al completo un ITAS, incluyendo:&lt;/p>
+&lt;ol>
+&lt;li>Un gestor de documentos parametrizable, que permite la edición, visualización e impresión (esto ultimo no implementado en la demo).&lt;/li>
+&lt;li>Una cuenta corriente, que mantiene balances, transacciones y calcula intereses y multas.&lt;/li>
+&lt;li>Un vector de obligaciones.&lt;/li>
+&lt;li>Un gestor de flujos de trabajo.&lt;/li>
+&lt;/ol>
+&lt;p>Espero les guste y lo consideren útil como un punto de partida interesante, cualquier cosa pueden contactarme a &lt;a href="mailto:leobelen@gmail.com">leobelen@gmail.com&lt;/a>.&lt;/p></description></item></channel></rss>
