@@ -11,6 +11,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="es"
                 href="https://leobelen.github.io/es/categories/"
                 />
@@ -21,6 +26,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://leobelen.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -50,6 +60,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="es"
                 href="https://leobelen.github.io/es/post/"
                 />
@@ -63,6 +78,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://leobelen.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -395,6 +415,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://leobelen.github.io/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
