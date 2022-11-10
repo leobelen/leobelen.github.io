@@ -355,6 +355,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/about/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://leobelen.github.io/about/"
                 />

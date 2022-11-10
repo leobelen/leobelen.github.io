@@ -89,6 +89,24 @@
     <loc>https://leobelen.github.io/fr/tags/tips/</loc>
     <lastmod>2022-11-10T00:00:00-03:00</lastmod>
   </url><url>
+    <loc>https://leobelen.github.io/fr/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/about/"
+                />
+  </url><url>
     <loc>https://leobelen.github.io/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
