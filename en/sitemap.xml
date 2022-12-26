@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/</loc>
-    <lastmod>2022-11-16T00:00:00-03:00</lastmod>
+    <lastmod>2022-12-26T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -21,7 +21,7 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/categories/</loc>
-    <lastmod>2022-11-16T00:00:00-03:00</lastmod>
+    <lastmod>2022-12-26T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -39,7 +39,7 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/post/</loc>
-    <lastmod>2022-11-16T00:00:00-03:00</lastmod>
+    <lastmod>2022-12-26T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -57,7 +57,7 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/</loc>
-    <lastmod>2022-11-16T00:00:00-03:00</lastmod>
+    <lastmod>2022-12-26T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -75,7 +75,26 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/tax-administration-rules/</loc>
-    <lastmod>2022-11-16T00:00:00-03:00</lastmod>
+    <lastmod>2022-12-26T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/post/2022-12-26-descartando-el-papel-como-soporte-documental/</loc>
+    <lastmod>2022-12-26T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2022-12-26-descartando-el-papel-como-soporte-documental/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2022-12-26-descartando-el-papel-como-soporte-documental/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/categories/taxation/</loc>
+    <lastmod>2022-12-26T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/tags/theory/</loc>
+    <lastmod>2022-12-26T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/post/2022-11-16-es-mejor-hacer-antes-que-despues/</loc>
     <lastmod>2022-11-16T00:00:00-03:00</lastmod>
@@ -89,12 +108,6 @@
                 hreflang="en"
                 href="https://leobelen.github.io/post/2022-11-16-es-mejor-hacer-antes-que-despues/"
                 />
-  </url><url>
-    <loc>https://leobelen.github.io/categories/taxation/</loc>
-    <lastmod>2022-11-16T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/tags/theory/</loc>
-    <lastmod>2022-11-16T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/tags/principles/</loc>
     <lastmod>2022-10-15T00:00:00-03:00</lastmod>
