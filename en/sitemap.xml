@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/</loc>
-    <lastmod>2022-12-26T00:00:00-03:00</lastmod>
+    <lastmod>2023-01-31T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -21,7 +21,7 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/categories/</loc>
-    <lastmod>2022-12-26T00:00:00-03:00</lastmod>
+    <lastmod>2023-01-31T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -38,8 +38,14 @@
                 href="https://leobelen.github.io/categories/"
                 />
   </url><url>
+    <loc>https://leobelen.github.io/tags/finance/</loc>
+    <lastmod>2023-01-31T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/tags/international-cooperation/</loc>
+    <lastmod>2023-01-31T00:00:00-03:00</lastmod>
+  </url><url>
     <loc>https://leobelen.github.io/post/</loc>
-    <lastmod>2022-12-26T00:00:00-03:00</lastmod>
+    <lastmod>2023-01-31T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -56,8 +62,24 @@
                 href="https://leobelen.github.io/post/"
                 />
   </url><url>
+    <loc>https://leobelen.github.io/categories/seeking-help-to-finance-projects-in-government/</loc>
+    <lastmod>2023-01-31T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/post/2023-01-31-buscando-ayuda/</loc>
+    <lastmod>2023-01-31T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2023-01-31-buscando-ayuda/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2023-01-31-buscando-ayuda/"
+                />
+  </url><url>
     <loc>https://leobelen.github.io/tags/</loc>
-    <lastmod>2022-12-26T00:00:00-03:00</lastmod>
+    <lastmod>2023-01-31T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -73,6 +95,9 @@
                 hreflang="en"
                 href="https://leobelen.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/theory/</loc>
+    <lastmod>2023-01-31T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/tags/tax-administration-rules/</loc>
     <lastmod>2022-12-26T00:00:00-03:00</lastmod>
@@ -91,9 +116,6 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/categories/taxation/</loc>
-    <lastmod>2022-12-26T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/tags/theory/</loc>
     <lastmod>2022-12-26T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/post/2022-11-16-es-mejor-hacer-antes-que-despues/</loc>

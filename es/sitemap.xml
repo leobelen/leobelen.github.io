@@ -2,8 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://leobelen.github.io/es/categories/buscando-ayuda-para-financiar-proyectos-del-estado/</loc>
+    <lastmod>2023-01-31T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/post/2023-01-31-buscando-ayuda/</loc>
+    <lastmod>2023-01-31T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2023-01-31-buscando-ayuda/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2023-01-31-buscando-ayuda/"
+                />
+  </url><url>
     <loc>https://leobelen.github.io/es/categories/</loc>
-    <lastmod>2022-12-26T00:00:00-03:00</lastmod>
+    <lastmod>2023-01-31T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,8 +36,11 @@
                 href="https://leobelen.github.io/es/categories/"
                 />
   </url><url>
+    <loc>https://leobelen.github.io/es/tags/cooperaci%C3%B3n-internacional/</loc>
+    <lastmod>2023-01-31T00:00:00-03:00</lastmod>
+  </url><url>
     <loc>https://leobelen.github.io/es/</loc>
-    <lastmod>2022-12-26T00:00:00-03:00</lastmod>
+    <lastmod>2023-01-31T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,8 +57,11 @@
                 href="https://leobelen.github.io/es/"
                 />
   </url><url>
+    <loc>https://leobelen.github.io/es/tags/financiamiento/</loc>
+    <lastmod>2023-01-31T00:00:00-03:00</lastmod>
+  </url><url>
     <loc>https://leobelen.github.io/es/post/</loc>
-    <lastmod>2022-12-26T00:00:00-03:00</lastmod>
+    <lastmod>2023-01-31T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -56,24 +78,8 @@
                 href="https://leobelen.github.io/es/post/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/es/tags/reglas-de-las-administraciones-tributarias/</loc>
-    <lastmod>2022-12-26T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/es/post/2022-12-26-descartando-el-papel-como-soporte-documental/</loc>
-    <lastmod>2022-12-26T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/post/2022-12-26-descartando-el-papel-como-soporte-documental/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/post/2022-12-26-descartando-el-papel-como-soporte-documental/"
-                />
-  </url><url>
     <loc>https://leobelen.github.io/es/tags/</loc>
-    <lastmod>2022-12-26T00:00:00-03:00</lastmod>
+    <lastmod>2023-01-31T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -91,7 +97,23 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/tags/teor%C3%ADa/</loc>
+    <lastmod>2023-01-31T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/reglas-de-las-administraciones-tributarias/</loc>
     <lastmod>2022-12-26T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/post/2022-12-26-descartando-el-papel-como-soporte-documental/</loc>
+    <lastmod>2022-12-26T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2022-12-26-descartando-el-papel-como-soporte-documental/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2022-12-26-descartando-el-papel-como-soporte-documental/"
+                />
   </url><url>
     <loc>https://leobelen.github.io/es/categories/tributaci%C3%B3n/</loc>
     <lastmod>2022-12-26T00:00:00-03:00</lastmod>
