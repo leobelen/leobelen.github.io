@@ -44,6 +44,22 @@
     <loc>https://leobelen.github.io/tags/international-cooperation/</loc>
     <lastmod>2023-01-31T00:00:00-03:00</lastmod>
   </url><url>
+    <loc>https://leobelen.github.io/tags/organizational-change/</loc>
+    <lastmod>2023-01-31T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/post/2023-04-18-herramientas-del-cambio-organizacional-en-estructuras-del-estado/</loc>
+    <lastmod>2023-01-31T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2023-04-18-herramientas-del-cambio-organizacional-en-estructuras-del-estado/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2023-04-18-herramientas-del-cambio-organizacional-en-estructuras-del-estado/"
+                />
+  </url><url>
     <loc>https://leobelen.github.io/post/</loc>
     <lastmod>2023-01-31T00:00:00-03:00</lastmod>
     <xhtml:link
@@ -61,9 +77,6 @@
                 hreflang="en"
                 href="https://leobelen.github.io/post/"
                 />
-  </url><url>
-    <loc>https://leobelen.github.io/categories/seeking-help-to-finance-projects-in-government/</loc>
-    <lastmod>2023-01-31T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/post/2023-01-31-buscando-ayuda/</loc>
     <lastmod>2023-01-31T00:00:00-03:00</lastmod>
@@ -98,6 +111,19 @@
   </url><url>
     <loc>https://leobelen.github.io/tags/theory/</loc>
     <lastmod>2023-01-31T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/categories/tools/</loc>
+    <lastmod>2023-01-31T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/categories/tools/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/categories/tools/"
+                />
   </url><url>
     <loc>https://leobelen.github.io/tags/tax-administration-rules/</loc>
     <lastmod>2022-12-26T00:00:00-03:00</lastmod>
