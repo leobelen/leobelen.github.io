@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/</loc>
-    <lastmod>2023-04-18T00:00:00-03:00</lastmod>
+    <lastmod>2023-05-15T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -21,7 +21,7 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/categories/</loc>
-    <lastmod>2023-04-18T00:00:00-03:00</lastmod>
+    <lastmod>2023-05-15T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -38,24 +38,24 @@
                 href="https://leobelen.github.io/categories/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/tags/organizational-change/</loc>
-    <lastmod>2023-04-18T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/post/2023-04-18-herramientas-del-cambio-organizacional-en-estructuras-del-estado/</loc>
-    <lastmod>2023-04-18T00:00:00-03:00</lastmod>
+    <loc>https://leobelen.github.io/post/2023-05-12-financiamiento-internacional-en-organizaciones-publicas/</loc>
+    <lastmod>2023-05-15T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://leobelen.github.io/es/post/2023-04-18-herramientas-del-cambio-organizacional-en-estructuras-del-estado/"
+                href="https://leobelen.github.io/es/post/2023-05-12-financiamiento-internacional-en-organizaciones-publicas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://leobelen.github.io/post/2023-04-18-herramientas-del-cambio-organizacional-en-estructuras-del-estado/"
+                href="https://leobelen.github.io/post/2023-05-12-financiamiento-internacional-en-organizaciones-publicas/"
                 />
   </url><url>
+    <loc>https://leobelen.github.io/categories/international-cooperation/</loc>
+    <lastmod>2023-05-15T00:00:00-03:00</lastmod>
+  </url><url>
     <loc>https://leobelen.github.io/post/</loc>
-    <lastmod>2023-04-18T00:00:00-03:00</lastmod>
+    <lastmod>2023-05-15T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -73,7 +73,7 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/</loc>
-    <lastmod>2023-04-18T00:00:00-03:00</lastmod>
+    <lastmod>2023-05-15T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -91,7 +91,23 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/theory/</loc>
+    <lastmod>2023-05-15T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/tags/organizational-change/</loc>
     <lastmod>2023-04-18T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/post/2023-04-18-herramientas-del-cambio-organizacional-en-estructuras-del-estado/</loc>
+    <lastmod>2023-04-18T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2023-04-18-herramientas-del-cambio-organizacional-en-estructuras-del-estado/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2023-04-18-herramientas-del-cambio-organizacional-en-estructuras-del-estado/"
+                />
   </url><url>
     <loc>https://leobelen.github.io/categories/tools/</loc>
     <lastmod>2023-04-18T00:00:00-03:00</lastmod>
