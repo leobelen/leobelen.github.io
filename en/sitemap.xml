@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/</loc>
-    <lastmod>2023-05-31T00:00:00-03:00</lastmod>
+    <lastmod>2023-09-11T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -21,7 +21,7 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/categories/</loc>
-    <lastmod>2023-05-31T00:00:00-03:00</lastmod>
+    <lastmod>2023-09-11T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -39,26 +39,26 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/international-cooperation/</loc>
-    <lastmod>2023-05-31T00:00:00-03:00</lastmod>
+    <lastmod>2023-09-11T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/categories/international-cooperation/</loc>
-    <lastmod>2023-05-31T00:00:00-03:00</lastmod>
+    <lastmod>2023-09-11T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://leobelen.github.io/post/2023-05-31-cooperacion-internacional-el-origen-de-los-fondos/</loc>
-    <lastmod>2023-05-31T00:00:00-03:00</lastmod>
+    <loc>https://leobelen.github.io/post/2023-09-11-tendencias-en-cooperacion-internacional/</loc>
+    <lastmod>2023-09-11T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://leobelen.github.io/es/post/2023-05-31-cooperacion-internacional-el-origen-de-los-fondos/"
+                href="https://leobelen.github.io/es/post/2023-09-11-tendencias-en-cooperacion-internacional/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://leobelen.github.io/post/2023-05-31-cooperacion-internacional-el-origen-de-los-fondos/"
+                href="https://leobelen.github.io/post/2023-09-11-tendencias-en-cooperacion-internacional/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/post/</loc>
-    <lastmod>2023-05-31T00:00:00-03:00</lastmod>
+    <lastmod>2023-09-11T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -76,7 +76,7 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/</loc>
-    <lastmod>2023-05-31T00:00:00-03:00</lastmod>
+    <lastmod>2023-09-11T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -94,7 +94,20 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/theory/</loc>
+    <lastmod>2023-09-11T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/post/2023-05-31-cooperacion-internacional-el-origen-de-los-fondos/</loc>
     <lastmod>2023-05-31T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2023-05-31-cooperacion-internacional-el-origen-de-los-fondos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2023-05-31-cooperacion-internacional-el-origen-de-los-fondos/"
+                />
   </url><url>
     <loc>https://leobelen.github.io/post/2023-05-15-financiamiento-internacional-estructuras-gubernamentales-comportamiento-funcionarios/</loc>
     <lastmod>2023-05-15T00:00:00-03:00</lastmod>
