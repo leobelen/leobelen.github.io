@@ -246,9 +246,9 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;It is then possible to assign each taxpayer a risk value made up of two elements: the probability that said taxpayer is in default and its value, calculated as the monetary difference that could arise if the default were to materialize. In this way, we can represent risk on the Cartesian plane, where Y represents the probability of default and X the monetary difference. Then, the risk matrix is the binary relationship (X and Y) of the risk values of each of the taxpayers for a given period, with the highest risk representing the highest probability and the highest monetary difference. If they are assigned to fixed spans, you can get something like the figure below, where the darkest spans are the riskiest.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://leobelen.github.io/images/Risk_Matrix_ejemplo.png&#34;/&gt;&lt;figcaption&gt;
-            &lt;h4&gt;Risk Matrix Representation in the Cartesian plane&lt;/h4&gt;
-        &lt;/figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;https://leobelen.github.io/images/Risk_Matrix_ejemplo.png&#34;&gt;&lt;figcaption&gt;
+      &lt;h4&gt;Risk Matrix Representation in the Cartesian plane&lt;/h4&gt;
+    &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;However, having the taxpayers segmented is not enough. In the example shown in the previous figure at the end, there will be a number of taxpayers in each section that makes a good report, but more can be done. For example, if tasks are assigned to each of them, then ITAS can make decisions and initiate actions without human intervention, greatly improving overall performance and simplifying the overall case selection process. If we define that for sections 1 to 10 (the most risky) a complete audit will begin, for sections 11 to 28 a verification and for sections 29 to 55 a basic verification (and mostly computerized of their situation), we will have much of the work done. Of course, nothing prevents the definition of actions in other areas of the TA if it is considered pertinent, for example sections 65-72 are assigned as administrative collection cases, as long as the organizational framework allows it.&lt;/p&gt;
