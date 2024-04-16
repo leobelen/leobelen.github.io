@@ -7,17 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2017-2022, Leonardo Javier Belén; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/tags/infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Apr 2024 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/tags/infrastructure/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Antares</title>
-      <link>https://leobelen.github.io/post/2021-08-27-antares/</link>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 -0300</pubDate>
+      <link>https://leobelen.github.io/post/2024-04-16-antares/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/post/2021-08-27-antares/</guid>
+      <guid>https://leobelen.github.io/post/2024-04-16-antares/</guid>
       <description>
         
           &lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
-&lt;p&gt;An important part of the general proposal, initiated by the previous posts (in particular the &lt;a href=&#34;https://leobelen.github.io/post/2022-06-22-principios-de-adm-tributaria/&#34;&gt;tax administration manual&lt;/a&gt; and the &lt;a href=&#34;https://leobelen.github.io/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/&#34;&gt;draft Tax Code&lt;/a&gt;)) is the program that can be used to carry it out. Actually, some time ago I developed an Integrated Tax Administration System (ITAS), called Antares, about which there is a demo at the following link &lt;a href=&#34;https://antares.socrates.theworkpc.com&#34;&gt;https://antares.socrates.theworkpc.com&lt;/a&gt;, which was originally filed with a development bank.&lt;/p&gt;
+&lt;p&gt;An important part of the general proposal, initiated by the previous posts (in particular the &lt;a href=&#34;https://leobelen.github.io/post/2022-06-22-principios-de-adm-tributaria/&#34;&gt;tax administration manual&lt;/a&gt; and the &lt;a href=&#34;https://leobelen.github.io/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/&#34;&gt;draft Tax Code&lt;/a&gt;) is the program that can be used to carry it out. Actually, some time ago I developed an Integrated Tax Administration System (ITAS), called Antares.&lt;/p&gt;
 &lt;h1 id=&#34;architecture&#34;&gt;Architecture&lt;/h1&gt;
 &lt;p&gt;From the beginning, the project was focused as a tool that could meet the following characteristics:&lt;/p&gt;
 &lt;ul&gt;
@@ -28,8 +28,6 @@
 &lt;p&gt;As a result of the above, the system works with the following technological components:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.postgresql.org&#34;&gt;Postgres&lt;/a&gt; as a database.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.python.org&#34;&gt;Python 3&lt;/a&gt; as a programming language, with the &lt;a href=&#34;https://www.djangoproject.com&#34;&gt;Django&lt;/a&gt; framework as a general service provider.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.w3.org/standards/xml/core&#34;&gt;XML&lt;/a&gt; as the document description language and &lt;a href=&#34;http://xpdl.org&#34;&gt;XPDL&lt;/a&gt; as the workflow description language.&lt;/li&gt;
 &lt;li&gt;Web interface.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.docker.com&#34;&gt;Docker&lt;/a&gt; as a deployment technology.&lt;/li&gt;
 &lt;/ol&gt;

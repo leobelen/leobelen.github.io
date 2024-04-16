@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/</loc>
-    <lastmod>2023-09-11T00:00:00-03:00</lastmod>
+    <lastmod>2024-04-16T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -20,8 +20,21 @@
                 href="https://leobelen.github.io/"
                 />
   </url><url>
+    <loc>https://leobelen.github.io/post/2024-04-16-antares/</loc>
+    <lastmod>2024-04-16T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2024-04-16-antares/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2024-04-16-antares/"
+                />
+  </url><url>
     <loc>https://leobelen.github.io/categories/</loc>
-    <lastmod>2023-09-11T00:00:00-03:00</lastmod>
+    <lastmod>2024-04-16T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -37,6 +50,54 @@
                 hreflang="en"
                 href="https://leobelen.github.io/categories/"
                 />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/infrastructure/</loc>
+    <lastmod>2024-04-16T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/post/</loc>
+    <lastmod>2024-04-16T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/categories/projects/</loc>
+    <lastmod>2024-04-16T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/tags/proof-of-concept/</loc>
+    <lastmod>2024-04-16T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/tags/</loc>
+    <lastmod>2024-04-16T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/tax-administration/</loc>
+    <lastmod>2024-04-16T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/tags/international-cooperation/</loc>
     <lastmod>2023-09-11T00:00:00-03:00</lastmod>
@@ -55,42 +116,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://leobelen.github.io/post/2023-09-11-tendencias-en-cooperacion-internacional/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/post/</loc>
-    <lastmod>2023-09-11T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://leobelen.github.io/fr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/post/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/tags/</loc>
-    <lastmod>2023-09-11T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://leobelen.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/tags/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/theory/</loc>
@@ -331,12 +356,6 @@
     <loc>https://leobelen.github.io/tags/manuals/</loc>
     <lastmod>2022-06-22T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://leobelen.github.io/categories/projects/</loc>
-    <lastmod>2022-06-22T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/tags/tax-administration/</loc>
-    <lastmod>2022-06-22T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>https://leobelen.github.io/post/2022-06-22-principios-de-adm-tributaria/</loc>
     <lastmod>2022-06-22T00:00:00-03:00</lastmod>
     <xhtml:link
@@ -362,25 +381,6 @@
                 hreflang="en"
                 href="https://leobelen.github.io/post/2021-09-27-seleccion-de-casos/"
                 />
-  </url><url>
-    <loc>https://leobelen.github.io/post/2021-08-27-antares/</loc>
-    <lastmod>2021-08-27T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/post/2021-08-27-antares/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/post/2021-08-27-antares/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/tags/infrastructure/</loc>
-    <lastmod>2021-08-27T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/tags/proof-of-concept/</loc>
-    <lastmod>2021-08-27T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/</loc>
     <lastmod>2021-08-01T00:00:00-03:00</lastmod>

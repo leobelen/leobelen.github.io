@@ -2,8 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://leobelen.github.io/es/tags/administraci%C3%B3n-tributaria/</loc>
+    <lastmod>2024-04-16T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/post/2024-04-16-antares/</loc>
+    <lastmod>2024-04-16T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2024-04-16-antares/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2024-04-16-antares/"
+                />
+  </url><url>
     <loc>https://leobelen.github.io/es/categories/</loc>
-    <lastmod>2023-09-11T00:00:00-03:00</lastmod>
+    <lastmod>2024-04-16T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,6 +34,69 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://leobelen.github.io/es/categories/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/es/</loc>
+    <lastmod>2024-04-16T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/infraestructura/</loc>
+    <lastmod>2024-04-16T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/post/</loc>
+    <lastmod>2024-04-16T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/es/categories/proyectos/</loc>
+    <lastmod>2024-04-16T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/prueba-de-concepto/</loc>
+    <lastmod>2024-04-16T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/</loc>
+    <lastmod>2024-04-16T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/tags/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/tags/cooperaci%C3%B3n-internacional/</loc>
@@ -37,60 +116,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://leobelen.github.io/es/post/2023-09-11-tendencias-en-cooperacion-internacional/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/es/</loc>
-    <lastmod>2023-09-11T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://leobelen.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/es/post/</loc>
-    <lastmod>2023-09-11T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://leobelen.github.io/fr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/post/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/es/tags/</loc>
-    <lastmod>2023-09-11T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://leobelen.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/tags/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/tags/teor%C3%ADa/</loc>
@@ -334,9 +359,6 @@
     <loc>https://leobelen.github.io/es/categories/publicaciones/</loc>
     <lastmod>2022-09-09T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://leobelen.github.io/es/tags/administraci%C3%B3n-tributaria/</loc>
-    <lastmod>2022-06-22T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>https://leobelen.github.io/es/tags/manuales/</loc>
     <lastmod>2022-06-22T00:00:00-03:00</lastmod>
   </url><url>
@@ -353,9 +375,6 @@
                 href="https://leobelen.github.io/es/post/2022-06-22-principios-de-adm-tributaria/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/es/categories/proyectos/</loc>
-    <lastmod>2022-06-22T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>https://leobelen.github.io/es/post/2021-09-27-seleccion-de-casos/</loc>
     <lastmod>2021-09-27T00:00:00-03:00</lastmod>
     <xhtml:link
@@ -368,25 +387,6 @@
                 hreflang="es"
                 href="https://leobelen.github.io/es/post/2021-09-27-seleccion-de-casos/"
                 />
-  </url><url>
-    <loc>https://leobelen.github.io/es/post/2021-08-27-antares/</loc>
-    <lastmod>2021-08-27T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/post/2021-08-27-antares/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/post/2021-08-27-antares/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/es/tags/infraestructura/</loc>
-    <lastmod>2021-08-27T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/es/tags/prueba-de-concepto/</loc>
-    <lastmod>2021-08-27T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/tags/argentina/</loc>
     <lastmod>2021-08-01T00:00:00-03:00</lastmod>
