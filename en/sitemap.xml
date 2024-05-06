@@ -38,11 +38,8 @@
                 href="https://leobelen.github.io/post/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/categories/artificial-intelligence/</loc>
-    <lastmod>2024-04-29T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>https://leobelen.github.io/categories/</loc>
-    <lastmod>2024-04-29T00:00:00-03:00</lastmod>
+    <lastmod>2024-05-06T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -59,24 +56,27 @@
                 href="https://leobelen.github.io/categories/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/tags/infrastructure/</loc>
-    <lastmod>2024-04-29T00:00:00-03:00</lastmod>
+    <loc>https://leobelen.github.io/categories/collections/</loc>
+    <lastmod>2024-05-06T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://leobelen.github.io/post/2024-04-29-inteligencia-artificial-e-impuestos/</loc>
-    <lastmod>2024-04-29T00:00:00-03:00</lastmod>
+    <loc>https://leobelen.github.io/tags/infrastructure/</loc>
+    <lastmod>2024-05-06T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/post/2024-05-06-dominando-la-recaudacion-en-la-administracion-tributaria-financiera/</loc>
+    <lastmod>2024-05-06T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://leobelen.github.io/es/post/2024-04-29-inteligencia-artificial-e-impuestos/"
+                href="https://leobelen.github.io/es/post/2024-05-06-dominando-la-recaudacion-en-la-administracion-tributaria-financiera/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://leobelen.github.io/post/2024-04-29-inteligencia-artificial-e-impuestos/"
+                href="https://leobelen.github.io/post/2024-05-06-dominando-la-recaudacion-en-la-administracion-tributaria-financiera/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/</loc>
-    <lastmod>2024-04-29T00:00:00-03:00</lastmod>
+    <lastmod>2024-05-06T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -94,7 +94,23 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/tax-administration/</loc>
+    <lastmod>2024-05-06T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/categories/artificial-intelligence/</loc>
     <lastmod>2024-04-29T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/post/2024-04-29-inteligencia-artificial-e-impuestos/</loc>
+    <lastmod>2024-04-29T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2024-04-29-inteligencia-artificial-e-impuestos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2024-04-29-inteligencia-artificial-e-impuestos/"
+                />
   </url><url>
     <loc>https://leobelen.github.io/post/2024-04-16-antares/</loc>
     <lastmod>2024-04-16T00:00:00-03:00</lastmod>
