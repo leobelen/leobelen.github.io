@@ -97,7 +97,23 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/categories/cobranza/</loc>
-    <lastmod>2024-05-06T00:00:00-03:00</lastmod>
+    <lastmod>2024-05-13T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/post/2024-05-13-data-leaks-en-ats/</loc>
+    <lastmod>2024-05-13T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2024-05-13-data-leaks-en-ats/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2024-05-13-data-leaks-en-ats/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/infraestructura/</loc>
+    <lastmod>2024-05-13T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/post/2024-05-06-dominando-la-recaudacion-en-la-administracion-tributaria-financiera/</loc>
     <lastmod>2024-05-06T00:00:00-03:00</lastmod>
@@ -111,22 +127,6 @@
                 hreflang="es"
                 href="https://leobelen.github.io/es/post/2024-05-06-dominando-la-recaudacion-en-la-administracion-tributaria-financiera/"
                 />
-  </url><url>
-    <loc>https://leobelen.github.io/es/post/2024-05-13-data-leaks-en-ats/</loc>
-    <lastmod>2024-05-06T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/post/2024-05-13-data-leaks-en-ats/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/post/2024-05-13-data-leaks-en-ats/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/es/tags/infraestructura/</loc>
-    <lastmod>2024-05-06T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/categories/inteligencia-artificial/</loc>
     <lastmod>2024-04-29T00:00:00-03:00</lastmod>
