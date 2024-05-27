@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/</loc>
-    <lastmod>2024-05-20T00:00:00-03:00</lastmod>
+    <lastmod>2024-05-27T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -20,8 +20,14 @@
                 href="https://leobelen.github.io/"
                 />
   </url><url>
+    <loc>https://leobelen.github.io/tags/accounting/</loc>
+    <lastmod>2024-05-27T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/tags/accrual-accounting/</loc>
+    <lastmod>2024-05-27T00:00:00-03:00</lastmod>
+  </url><url>
     <loc>https://leobelen.github.io/categories/</loc>
-    <lastmod>2024-05-20T00:00:00-03:00</lastmod>
+    <lastmod>2024-05-27T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -38,24 +44,24 @@
                 href="https://leobelen.github.io/categories/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/tags/challenges/</loc>
-    <lastmod>2024-05-20T00:00:00-03:00</lastmod>
+    <loc>https://leobelen.github.io/categories/developing-countries/</loc>
+    <lastmod>2024-05-27T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://leobelen.github.io/post/2024-05-20-superando-desafios-de-administracion-tributaria-paises-desarrollo/</loc>
-    <lastmod>2024-05-20T00:00:00-03:00</lastmod>
+    <loc>https://leobelen.github.io/post/2024-05-27-mejorando-recaudacion-impuestos-mundo-desarrollo-contabilidad-de-devengo/</loc>
+    <lastmod>2024-05-27T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://leobelen.github.io/es/post/2024-05-20-superando-desafios-de-administracion-tributaria-paises-desarrollo/"
+                href="https://leobelen.github.io/es/post/2024-05-27-mejorando-recaudacion-impuestos-mundo-desarrollo-contabilidad-de-devengo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://leobelen.github.io/post/2024-05-20-superando-desafios-de-administracion-tributaria-paises-desarrollo/"
+                href="https://leobelen.github.io/post/2024-05-27-mejorando-recaudacion-impuestos-mundo-desarrollo-contabilidad-de-devengo/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/post/</loc>
-    <lastmod>2024-05-20T00:00:00-03:00</lastmod>
+    <lastmod>2024-05-27T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -73,7 +79,7 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/</loc>
-    <lastmod>2024-05-20T00:00:00-03:00</lastmod>
+    <lastmod>2024-05-27T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -91,10 +97,23 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/tax-administration/</loc>
+    <lastmod>2024-05-27T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/tags/challenges/</loc>
     <lastmod>2024-05-20T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://leobelen.github.io/categories/third-world/</loc>
+    <loc>https://leobelen.github.io/post/2024-05-20-superando-desafios-de-administracion-tributaria-paises-desarrollo/</loc>
     <lastmod>2024-05-20T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2024-05-20-superando-desafios-de-administracion-tributaria-paises-desarrollo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2024-05-20-superando-desafios-de-administracion-tributaria-paises-desarrollo/"
+                />
   </url><url>
     <loc>https://leobelen.github.io/tags/data-leaks/</loc>
     <lastmod>2024-05-13T00:00:00-03:00</lastmod>
