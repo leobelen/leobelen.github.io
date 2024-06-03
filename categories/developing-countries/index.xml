@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Developing Countries on Leonardo Belén&#39;s Blog</title>
-    <link>https://leobelen.github.io/categories/developing-countries/</link>
+    <link>http://localhost:1313/categories/developing-countries/</link>
     <description>Recent content in Developing Countries on Leonardo Belén&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2017-2022, Leonardo Javier Belén; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 27 May 2024 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/categories/developing-countries/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 May 2024 00:00:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/categories/developing-countries/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Improving Tax Collection in the Developing World Through Accrual Accounting</title>
-      <link>https://leobelen.github.io/post/2024-05-27-mejorando-recaudacion-impuestos-mundo-desarrollo-contabilidad-de-devengo/</link>
+      <link>http://localhost:1313/post/2024-05-27-mejorando-recaudacion-impuestos-mundo-desarrollo-contabilidad-de-devengo/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/post/2024-05-27-mejorando-recaudacion-impuestos-mundo-desarrollo-contabilidad-de-devengo/</guid>
+      <guid>http://localhost:1313/post/2024-05-27-mejorando-recaudacion-impuestos-mundo-desarrollo-contabilidad-de-devengo/</guid>
       <description>
         
           &lt;p&gt;Tax collection is a critical issue for developing countries, as it provides the revenue needed to fund public services, infrastructure, and economic development. However, many third world nations struggle with low tax compliance and collection rates. One potential solution that has been gaining attention is the adoption of accrual accounting principles by governments and tax authorities.&lt;/p&gt;
@@ -64,10 +64,10 @@ However, implementing accrual accounting is not easy and requires overcoming sig
     
     <item>
       <title>Overcoming Tax Administration Challenges in Developing Countries</title>
-      <link>https://leobelen.github.io/post/2024-05-20-superando-desafios-de-administracion-tributaria-paises-desarrollo/</link>
+      <link>http://localhost:1313/post/2024-05-20-superando-desafios-de-administracion-tributaria-paises-desarrollo/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/post/2024-05-20-superando-desafios-de-administracion-tributaria-paises-desarrollo/</guid>
+      <guid>http://localhost:1313/post/2024-05-20-superando-desafios-de-administracion-tributaria-paises-desarrollo/</guid>
       <description>
         
           &lt;p&gt;Tax administration in developing countries faces significant challenges in collecting revenue efficiently and equitably. Low tax-to-GDP ratios, high rates of informality, limited taxpayer compliance, and outdated technology all hinder the ability of tax authorities to mobilize domestic resources. However, with the right reforms and investments, these obstacles can be overcome to strengthen fiscal capacity and support economic development.&lt;/p&gt;

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cobranza on El Blog de Leonardo Belén</title>
-    <link>https://leobelen.github.io/es/categories/cobranza/</link>
+    <link>http://localhost:1313/es/categories/cobranza/</link>
     <description>Recent content in Cobranza on El Blog de Leonardo Belén</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>Copyright © 2017-2022, Leonardo Javier Belén; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 13 May 2024 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/es/categories/cobranza/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 May 2024 00:00:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/es/categories/cobranza/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Filtraciones de Datos en las Administraciones Tributarias: Una Amenaza Grave para la Privacidad de los Contribuyentes</title>
-      <link>https://leobelen.github.io/es/post/2024-05-13-data-leaks-en-ats/</link>
+      <link>http://localhost:1313/es/post/2024-05-13-data-leaks-en-ats/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2024-05-13-data-leaks-en-ats/</guid>
+      <guid>http://localhost:1313/es/post/2024-05-13-data-leaks-en-ats/</guid>
       <description>
         
           &lt;p&gt;En la era digital actual, los incidentes de seguridad y filtraciones de datos se han vuelto cada vez más comunes, afectando a organizaciones de diversos sectores, incluyendo a las administraciones tributarias. La naturaleza sensible de la información manejada por las autoridades fiscales, como los datos financieros y detalles personales de los contribuyentes, las convierte en objetivos principales para los ciberdelincuentes y actores maliciosos. Las filtraciones de datos en las administraciones tributarias pueden tener consecuencias severas, incluyendo violaciones a la privacidad de los contribuyentes, pérdidas financieras y una pérdida de confianza pública en la capacidad del gobierno para proteger información sensible.&lt;/p&gt;
@@ -43,10 +43,10 @@
     
     <item>
       <title>Dominando la recaudación en la administración tributaria y financiera: estrategias y mejores prácticas</title>
-      <link>https://leobelen.github.io/es/post/2024-05-06-dominando-la-recaudacion-en-la-administracion-tributaria-financiera/</link>
+      <link>http://localhost:1313/es/post/2024-05-06-dominando-la-recaudacion-en-la-administracion-tributaria-financiera/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2024-05-06-dominando-la-recaudacion-en-la-administracion-tributaria-financiera/</guid>
+      <guid>http://localhost:1313/es/post/2024-05-06-dominando-la-recaudacion-en-la-administracion-tributaria-financiera/</guid>
       <description>
         
           &lt;p&gt;La recaudación eficaz en la administración tributaria y financiera es crucial para mantener una posición financiera saludable y garantizar el buen funcionamiento de una organización. Sin embargo, cobrar las deudas pendientes puede ser una tarea desafiante, que a menudo requiere un enfoque estratégico y una comprensión profunda de los diversos factores que influyen en el éxito de la cobranza. En esta publicación de blog, exploraremos algunas estrategias clave y mejores prácticas para mejorar la recaudación en la administración tributaria y financiera.&lt;/p&gt;

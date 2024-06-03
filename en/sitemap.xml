@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/</loc>
-    <lastmod>2024-05-27T00:00:00-03:00</lastmod>
+    <lastmod>2024-06-03T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -20,48 +20,11 @@
                 href="https://leobelen.github.io/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/tags/accounting/</loc>
-    <lastmod>2024-05-27T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/tags/accrual-accounting/</loc>
-    <lastmod>2024-05-27T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/categories/</loc>
-    <lastmod>2024-05-27T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://leobelen.github.io/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/categories/developing-countries/</loc>
-    <lastmod>2024-05-27T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/post/2024-05-27-mejorando-recaudacion-impuestos-mundo-desarrollo-contabilidad-de-devengo/</loc>
-    <lastmod>2024-05-27T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/post/2024-05-27-mejorando-recaudacion-impuestos-mundo-desarrollo-contabilidad-de-devengo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/post/2024-05-27-mejorando-recaudacion-impuestos-mundo-desarrollo-contabilidad-de-devengo/"
-                />
+    <loc>https://leobelen.github.io/tags/developing-world/</loc>
+    <lastmod>2024-06-03T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/post/</loc>
-    <lastmod>2024-05-27T00:00:00-03:00</lastmod>
+    <lastmod>2024-06-03T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -79,7 +42,7 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/</loc>
-    <lastmod>2024-05-27T00:00:00-03:00</lastmod>
+    <lastmod>2024-06-03T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -97,7 +60,42 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/tax-administration/</loc>
+    <lastmod>2024-06-03T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/post/2024-06-03-los-riesgos-de-carecer-de-itas-para-detectar-fraude-fiscal/</loc>
+    <lastmod>2024-06-03T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2024-06-03-los-riesgos-de-carecer-de-itas-para-detectar-fraude-fiscal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2024-06-03-los-riesgos-de-carecer-de-itas-para-detectar-fraude-fiscal/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/accounting/</loc>
     <lastmod>2024-05-27T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/tags/accrual-accounting/</loc>
+    <lastmod>2024-05-27T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/tags/developing-countries/</loc>
+    <lastmod>2024-05-27T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/post/2024-05-27-mejorando-recaudacion-impuestos-mundo-desarrollo-contabilidad-de-devengo/</loc>
+    <lastmod>2024-05-27T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2024-05-27-mejorando-recaudacion-impuestos-mundo-desarrollo-contabilidad-de-devengo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2024-05-27-mejorando-recaudacion-impuestos-mundo-desarrollo-contabilidad-de-devengo/"
+                />
   </url><url>
     <loc>https://leobelen.github.io/tags/challenges/</loc>
     <lastmod>2024-05-20T00:00:00-03:00</lastmod>
@@ -131,10 +129,7 @@
                 href="https://leobelen.github.io/post/2024-05-13-data-leaks-en-ats/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/categories/it/</loc>
-    <lastmod>2024-05-13T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/categories/collections/</loc>
+    <loc>https://leobelen.github.io/tags/collections/</loc>
     <lastmod>2024-05-06T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/tags/infrastructure/</loc>
@@ -153,7 +148,7 @@
                 href="https://leobelen.github.io/post/2024-05-06-dominando-la-recaudacion-en-la-administracion-tributaria-financiera/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/categories/artificial-intelligence/</loc>
+    <loc>https://leobelen.github.io/tags/artificial-intelligence/</loc>
     <lastmod>2024-04-29T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/post/2024-04-29-inteligencia-artificial-e-impuestos/</loc>
@@ -182,16 +177,10 @@
                 href="https://leobelen.github.io/post/2024-04-16-antares/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/categories/projects/</loc>
-    <lastmod>2024-04-16T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>https://leobelen.github.io/tags/proof-of-concept/</loc>
     <lastmod>2024-04-16T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/tags/international-cooperation/</loc>
-    <lastmod>2023-09-11T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/categories/international-cooperation/</loc>
     <lastmod>2023-09-11T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/post/2023-09-11-tendencias-en-cooperacion-internacional/</loc>
@@ -252,19 +241,6 @@
                 href="https://leobelen.github.io/post/2023-04-18-herramientas-del-cambio-organizacional-en-estructuras-del-estado/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/categories/tools/</loc>
-    <lastmod>2023-04-18T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/categories/tools/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/categories/tools/"
-                />
-  </url><url>
     <loc>https://leobelen.github.io/tags/finance/</loc>
     <lastmod>2023-01-31T00:00:00-03:00</lastmod>
   </url><url>
@@ -296,9 +272,6 @@
                 hreflang="en"
                 href="https://leobelen.github.io/post/2022-12-26-descartando-el-papel-como-soporte-documental/"
                 />
-  </url><url>
-    <loc>https://leobelen.github.io/categories/taxation/</loc>
-    <lastmod>2022-12-26T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/post/2022-11-16-es-mejor-hacer-antes-que-despues/</loc>
     <lastmod>2022-11-16T00:00:00-03:00</lastmod>
@@ -438,9 +411,6 @@
                 hreflang="en"
                 href="https://leobelen.github.io/post/2022-09-09-mexico-y-beps/"
                 />
-  </url><url>
-    <loc>https://leobelen.github.io/categories/publications/</loc>
-    <lastmod>2022-09-09T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/tags/manuals/</loc>
     <lastmod>2022-06-22T00:00:00-03:00</lastmod>
@@ -598,9 +568,6 @@
     <loc>https://leobelen.github.io/tags/statistics/</loc>
     <lastmod>2017-10-04T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://leobelen.github.io/categories/conferences/</loc>
-    <lastmod>2017-07-01T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>https://leobelen.github.io/tags/environment/</loc>
     <lastmod>2017-07-01T00:00:00-03:00</lastmod>
   </url><url>
@@ -618,6 +585,23 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://leobelen.github.io/post/2017-07-01-qbotics/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/categories/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/series/</loc>

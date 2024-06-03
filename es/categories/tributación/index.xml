@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tributación on El Blog de Leonardo Belén</title>
-    <link>https://leobelen.github.io/es/categories/tributaci%C3%B3n/</link>
+    <link>http://localhost:1313/es/categories/tributaci%C3%B3n/</link>
     <description>Recent content in Tributación on El Blog de Leonardo Belén</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>Copyright © 2017-2022, Leonardo Javier Belén; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/es/categories/tributaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/es/categories/tributaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reglas de las Administraciones Tributarias: Descartar el uso del papel como soporte documental</title>
-      <link>https://leobelen.github.io/es/post/2022-12-26-descartando-el-papel-como-soporte-documental/</link>
+      <link>http://localhost:1313/es/post/2022-12-26-descartando-el-papel-como-soporte-documental/</link>
       <pubDate>Mon, 26 Dec 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2022-12-26-descartando-el-papel-como-soporte-documental/</guid>
+      <guid>http://localhost:1313/es/post/2022-12-26-descartando-el-papel-como-soporte-documental/</guid>
       <description>
         
           &lt;p&gt;Si bien a lo largo de la historia el soporte natural de los documentos fue en papel, lo cierto es que este sistema tiene amplias desventajas contra nuevas y mejores formas utilizando sistemas computacionales de manejo de documentos, incluyendo:&lt;/p&gt;
@@ -33,10 +33,10 @@
     
     <item>
       <title>Reglas de las Administraciones Tributarias: Es Mejor Hacer Antes que Después</title>
-      <link>https://leobelen.github.io/es/post/2022-11-16-es-mejor-hacer-antes-que-despues/</link>
+      <link>http://localhost:1313/es/post/2022-11-16-es-mejor-hacer-antes-que-despues/</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2022-11-16-es-mejor-hacer-antes-que-despues/</guid>
+      <guid>http://localhost:1313/es/post/2022-11-16-es-mejor-hacer-antes-que-despues/</guid>
       <description>
         
           &lt;p&gt;Los seres humanos somos muy propensos a cometer errores y a olvidar cosas, sobre todo en tareas repetitivas. Por eso, resulta mucho más eficiente utilizar medios automatizados - siempre que sea viable - y tratar de contar con información de buena calidad desde el principio.&lt;/p&gt;
@@ -50,10 +50,10 @@
     
     <item>
       <title>El Principio de Moderación del Comportamiento</title>
-      <link>https://leobelen.github.io/es/post/2022-10-15-principio-de-moderacion-del-comportamiento/</link>
+      <link>http://localhost:1313/es/post/2022-10-15-principio-de-moderacion-del-comportamiento/</link>
       <pubDate>Sat, 15 Oct 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2022-10-15-principio-de-moderacion-del-comportamiento/</guid>
+      <guid>http://localhost:1313/es/post/2022-10-15-principio-de-moderacion-del-comportamiento/</guid>
       <description>
         
           &lt;p&gt;El sistema tributario es - desde la perspectiva del comportamiento - un sistema de incentivos, dado que los Estados pueden usarlo para promover o desincentivar actividades económicas que este considera estratégicas. Por ejemplo, un Estado puede considerar incentivar el rubro servicios aliviando impuestos que lo afecten y desincentivar el consumo de bebidas alcohólicas creando un impuesto sobre ellas.&lt;/p&gt;
@@ -66,10 +66,10 @@
     
     <item>
       <title>Reglas de las Administraciones Tributarias: Los contribuyentes no quieren pagar impuestos</title>
-      <link>https://leobelen.github.io/es/post/2022-09-22-nadie-quiere-pagar-impuestos/</link>
+      <link>http://localhost:1313/es/post/2022-09-22-nadie-quiere-pagar-impuestos/</link>
       <pubDate>Thu, 22 Sep 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2022-09-22-nadie-quiere-pagar-impuestos/</guid>
+      <guid>http://localhost:1313/es/post/2022-09-22-nadie-quiere-pagar-impuestos/</guid>
       <description>
         
           &lt;p&gt;Es normal olvidar este concepto, pero lo cierto es que no es usual que algunos contribuyentes quieran cumplir con sus obligaciones tributarias de forma voluntaria. Sin embargo, amén de ser los menos numerosos, son en realidad aquellos que no representan un problema de recaudación a la administración y por supuesto en el largo plazo, se espera que todos los contribuyentes cumplan voluntariamente con sus obligaciones.&lt;/p&gt;
@@ -88,10 +88,10 @@
     
     <item>
       <title>Reglas de las Administraciones Tributarias: No crear impuestos o subirlos hasta optimizar todos los procesos</title>
-      <link>https://leobelen.github.io/es/post/2022-09-16-no-crear-impuestos-hasta-optimizar-procesos/</link>
+      <link>http://localhost:1313/es/post/2022-09-16-no-crear-impuestos-hasta-optimizar-procesos/</link>
       <pubDate>Fri, 16 Sep 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2022-09-16-no-crear-impuestos-hasta-optimizar-procesos/</guid>
+      <guid>http://localhost:1313/es/post/2022-09-16-no-crear-impuestos-hasta-optimizar-procesos/</guid>
       <description>
         
           &lt;p&gt;Si bien es recurrente intentar cubrir el gasto público aumentando alícuotas o creando nuevos impuestos, la realidad es que - en general - esto no tiene el efecto deseado si antes no se han solucionado los problemas de administración tributaria.&lt;/p&gt;
@@ -112,10 +112,10 @@
     
     <item>
       <title>Reglas de las Administraciones Tributarias: No creer sólo al Contribuyente</title>
-      <link>https://leobelen.github.io/es/post/2022-09-15-no-creer-solo-contribuyente/</link>
+      <link>http://localhost:1313/es/post/2022-09-15-no-creer-solo-contribuyente/</link>
       <pubDate>Thu, 15 Sep 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2022-09-15-no-creer-solo-contribuyente/</guid>
+      <guid>http://localhost:1313/es/post/2022-09-15-no-creer-solo-contribuyente/</guid>
       <description>
         
           &lt;p&gt;Esta es tal vez la regla número uno de la administración tributaria y la que impacta en la mayor parte de las actividades, dado que invita a verificar, de la forma más eficiente y automática posible, lo indicado por el contribuyente en interacción con la administración.
@@ -130,10 +130,10 @@ Sea por desconocimiento, omisión deliberada o negligencia, es probable que cual
     
     <item>
       <title>El Principio de Afectación del Ahorro</title>
-      <link>https://leobelen.github.io/es/post/2022-09-14-principio-de-afectacion-del-ahorro/</link>
+      <link>http://localhost:1313/es/post/2022-09-14-principio-de-afectacion-del-ahorro/</link>
       <pubDate>Wed, 14 Sep 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2022-09-14-principio-de-afectacion-del-ahorro/</guid>
+      <guid>http://localhost:1313/es/post/2022-09-14-principio-de-afectacion-del-ahorro/</guid>
       <description>
         
           &lt;p&gt;Los montos pagados en concepto de impuestos afectan mayormente a la capacidad de ahorro de los contribuyentes afectados. Dicho de otra forma, si la presión tributaria sube a un nivel que sobrepasa la capacidad de ahorro, lo esperable es que llegue un momento en que ese contribuyente ya no cumpla con sus obligaciones tributarias, forzando al mismo a entrar en una bola de nieve fiscal, una situación donde en el mejor escenario suscribirá sucesivos planes de pago por las deudas tributarias contraídas hasta que finalmente cese completamente sus pagos en función de la inmensidad de la deuda en función de sus ingresos.&lt;/p&gt;
@@ -146,10 +146,10 @@ Sea por desconocimiento, omisión deliberada o negligencia, es probable que cual
     
     <item>
       <title>El Principio de Transparencia en la Administración</title>
-      <link>https://leobelen.github.io/es/post/2022-09-13-principio-de-transparencia/</link>
+      <link>http://localhost:1313/es/post/2022-09-13-principio-de-transparencia/</link>
       <pubDate>Tue, 13 Sep 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2022-09-13-principio-de-transparencia/</guid>
+      <guid>http://localhost:1313/es/post/2022-09-13-principio-de-transparencia/</guid>
       <description>
         
           &lt;p&gt;El principio de transparencia implica que todos los actores involucrados en una transacción con la administración pueden cotejar la información de la misma, principalmente en cuanto a declaraciones juradas, estados contables y datos de proceso, en función de su nivel de responsabilidad en ella.&lt;/p&gt;
@@ -169,13 +169,13 @@ Sea por desconocimiento, omisión deliberada o negligencia, es probable que cual
     
     <item>
       <title>México y BEPS</title>
-      <link>https://leobelen.github.io/es/post/2022-09-09-mexico-y-beps/</link>
+      <link>http://localhost:1313/es/post/2022-09-09-mexico-y-beps/</link>
       <pubDate>Fri, 09 Sep 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2022-09-09-mexico-y-beps/</guid>
+      <guid>http://localhost:1313/es/post/2022-09-09-mexico-y-beps/</guid>
       <description>
         
-          &lt;p&gt;Hace unos años una empresa que ofrece un programa de contabilidad en Estados Unidos me pidió evaluar el impacto de BEPS en Mexico. De ese estudio, que fue mucho más que lo que esperaban, salió este mini paper que pueden consultar &lt;a href=&#34;https://leobelen.github.io/pdfs/mexico_beps_premier.pdf&#34;&gt;en este enlace&lt;/a&gt; (&lt;a href=&#34;https://vixra.org/abs/1811.0098&#34;&gt;originalmente publicado en viXra&lt;/a&gt;) (en inglés).&lt;/p&gt;
+          &lt;p&gt;Hace unos años una empresa que ofrece un programa de contabilidad en Estados Unidos me pidió evaluar el impacto de BEPS en Mexico. De ese estudio, que fue mucho más que lo que esperaban, salió este mini paper que pueden consultar &lt;a href=&#34;http://localhost:1313/pdfs/mexico_beps_premier.pdf&#34;&gt;en este enlace&lt;/a&gt; (&lt;a href=&#34;https://vixra.org/abs/1811.0098&#34;&gt;originalmente publicado en viXra&lt;/a&gt;) (en inglés).&lt;/p&gt;
 &lt;p&gt;Es interesante tener en cuenta que - en función de lo publicado en Clarin el día 8/9/2022 acerca de un acuerdo AFIP-IRS &lt;a href=&#34;https://www.clarin.com/economia/sergio-massa-va-dolares-argentinos-ee-uu-contadores-locales-escepticos_0_sAaFzpjtDM.html&#34;&gt;según se ve en esta nota&lt;/a&gt; - este trabajo puede ayudar a entender como debería funcionar para el caso mexicano.&lt;/p&gt;
 
         
@@ -184,17 +184,17 @@ Sea por desconocimiento, omisión deliberada o negligencia, es probable que cual
     
     <item>
       <title>Principios de Administración Tributaria</title>
-      <link>https://leobelen.github.io/es/post/2022-06-22-principios-de-adm-tributaria/</link>
+      <link>http://localhost:1313/es/post/2022-06-22-principios-de-adm-tributaria/</link>
       <pubDate>Wed, 22 Jun 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2022-06-22-principios-de-adm-tributaria/</guid>
+      <guid>http://localhost:1313/es/post/2022-06-22-principios-de-adm-tributaria/</guid>
       <description>
         
           &lt;p&gt;Una parte interesante de haber trabajado en administraciones tributarias durante años es que uno aprende el marco general y las mejores prácticas para llevar adelante la tarea. No importa la jurisdicción, a esta altura muchos de los problemas que presentan todas ella son los mismos y parten muchas veces del hecho de que muchos de sus integrantes no entienden del todo el porque de su accionar. Si, claro, ven claramente lo micro, pero muchas veces fallan en ver lo macro, y así, el conjunto de tareas puede que a veces no sea el mejor.&lt;/p&gt;
 &lt;p&gt;Sin embargo, aún más interesante fue entender que mucho de lo que sucede dentro de una de estas instituciones no está escrito públicamente, y por tanto muchos de los funcionarios de las mismas están obligados o bien a &amp;quot;inventar la rueda cada vez&amp;quot;, o leer notas o publicaciones que poco enseñan realmente (salvo experiencias aisladas en otros lugares del mundo) o - si tienen mucha suerte - ir a alguna conferencia donde puedan aprender algo nuevo, si es que el tema de la conferencia es realmente novedoso. Muchas de las conferencias, como todo en la vida, son sólo para presentar algún resultado, pero más que nada para hacer contactos.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;La Ley - Flyer 1&#34; src=&#34;https://leobelen.github.io/images/Prin_adm_trib_flyer_1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;La Ley - Flyer 1&#34; src=&#34;http://localhost:1313/images/Prin_adm_trib_flyer_1.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;En este contexto, muchas personas que quieren aprender y mejorar se encuentran con un techo y la realidad es que en mi experiencia, no importa en que lugar del mundo se esté, las tareas son las mismas y la gestión es básicamente la misma. Y resulta que no estoy solo en esto: en 2015 el Fondo Monetario Internacional puso a disposición del público una herramienta que justamente ayuda a los Estados a estimar el avance y utilizar mejores prácticas, denominado &lt;a href=&#34;https://www.tadat.org&#34;&gt;TADAT&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;La Ley - Flyer 2&#34; src=&#34;https://leobelen.github.io/images/Prin_adm_trib_flyer_2.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;La Ley - Flyer 2&#34; src=&#34;http://localhost:1313/images/Prin_adm_trib_flyer_2.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Aunque este movimiento fue largamente celebrado, dado que ahora era posible comparar administraciones tributarias, de forma equitativa, la verdad es que falta un manual de administración tributaria que muestre de forma didáctica, unificada y desinteresada los conceptos, los principios y las mejores prácticas en la materia junto con ideas para aplicar, tanto para jurisdicciones sin recursos como para aquellas que quieren mejorar cada día más.&lt;/p&gt;
 &lt;p&gt;Publicado por Thomson Reuters - La Ley &lt;a href=&#34;https://tienda.thomsonreuters.com.ar/978-987-03-4377-6%E2%80%8B-principios-de-administracion-tributaria/p&#34;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Espero les guste y lo consideren útil como un punto de partida interesante.&lt;/p&gt;
@@ -205,10 +205,10 @@ Sea por desconocimiento, omisión deliberada o negligencia, es probable que cual
     
     <item>
       <title>Selección de Casos en una Administración Tributaria: Manejando el Riesgo</title>
-      <link>https://leobelen.github.io/es/post/2021-09-27-seleccion-de-casos/</link>
+      <link>http://localhost:1313/es/post/2021-09-27-seleccion-de-casos/</link>
       <pubDate>Mon, 27 Sep 2021 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2021-09-27-seleccion-de-casos/</guid>
+      <guid>http://localhost:1313/es/post/2021-09-27-seleccion-de-casos/</guid>
       <description>
         
           &lt;p&gt;Una de las ventajas asociadas a recolectar una gran cantidad de información estriba en que puede ser utilizada para determinar patrones de comportamiento. Una de las formas más comunes de utilización es a través de una Matriz de Riesgo, la cual tomando información de registro, declaraciones y terceros, entre otros, determina el riesgo de incumplimiento a través de un cálculo polinómico. Este riesgo puede ser definido como:&lt;/p&gt;
@@ -247,7 +247,7 @@ Sea por desconocimiento, omisión deliberada o negligencia, es probable que cual
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Es posible asignar entonces a cada contribuyente un valor de riesgo compuesto por dos elementos: la probabilidad de que dicho contribuyente se encuentre en una situación de morosidad y el valor de la misma, calculado como la diferencia monetaria que pudiera surgir si el incumplimiento se materializara. De esta forma, podemos representar el riesgo en el plano cartesiano, donde Y representa la probabilidad de incumplimento y X la diferencia monetaria. Entonces, la matriz de riesgo es la relación binaria (X e Y) de los valores de riesgo de cada uno de los contribuyentes para un período determinado, con el mayor riesgo representando mayor probabilidad y mayor diferencia monetaria. Si se asignan a tramos fijos, puede obtenerse algo como la figura a continuación, donde los tramos más oscuros son los más riesgosos.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://leobelen.github.io/images/Risk_Matrix_ejemplo.png&#34;&gt;&lt;figcaption&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/Risk_Matrix_ejemplo.png&#34;&gt;&lt;figcaption&gt;
       &lt;h4&gt;Representación de una Matriz de Riesgo en el plano cartesiano&lt;/h4&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -263,17 +263,17 @@ Sin embargo, con tener a los contribuyentes segmentados no es suficiente. En el 
     
     <item>
       <title>Un anteproyecto de Código Tributario Argentino</title>
-      <link>https://leobelen.github.io/es/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/</link>
+      <link>http://localhost:1313/es/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/</guid>
+      <guid>http://localhost:1313/es/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/</guid>
       <description>
         
           &lt;p&gt;Sin perjuicio de los cambios propuestos por la Administración Central, es claro que uno de los problemas más acuciantes de la tributación actual es el envejecimiento: La ley primordial, 11.683 de Procedimiento Tributario fue sancionada en los años 30, teniendo su último texto ordenado en 1998, con lo cual muchas de las soluciones que propone están desactualizadas (por ejemplo no había sistemas informáticos en ese entonces) o han cambiado tanto que son difícilmente reconocibles (por ejemplo el proceso de ejecución fiscal).&lt;/p&gt;
 &lt;p&gt;Para empeorar, existe un gran abanico de normas que regulan esa actividad, desde leyes y decretos hasta resoluciones generales de DGI/AFIP, y aún doctrina, dado que numerosos conceptos requieren aclaración por parte de las autoridades de aplicación. Proyectos como la &lt;a href=&#34;https://biblioteca.afip.gob.ar&#34;&gt;biblioteca electrónica de AFIP&lt;/a&gt;, creada a finales de los 90s, o &lt;a href=&#34;https://www.saij.gob.ar&#34;&gt;SAIJ&lt;/a&gt;, anterior a ésta, han permitido reducir el costo de aprendizaje al ofrecer una interface con todas las referencias y modificaciones que una norma pueda tener, pero no alcanza.&lt;/p&gt;
 &lt;p&gt;En ese marco, hace unos 15 años inicié un ejercicio de compilación y actualización de normas tributarias, de las que surgió un Anteproyecto de Código Tributario que puede ser relevante en una economía deprimida por el COVID. Aunque el mismo esta claramente desactualizado, tal vez puede ser reiniciado si hay suficiente interés por parte de la sociedad, cosa que en su momento no había.&lt;/p&gt;
 &lt;p&gt;Siempre se habla de una reforma tributaria, pero en general se subestima el trabajo faraónico que esta importa, siendo este tal vez el momento para unificar criterios, actualizar conceptos y ordenar las cuentas, con la esperanza de tener reglas de juego que fomenten la inversión, el desarrollo y mejoren la calidad de vida de todos, reduciendo los costos de los ciudadanos y aumentando la eficiencia.&lt;/p&gt;
-&lt;p&gt;Pueden acceder a un avance de esta obra aquí: &lt;a href=&#34;https://leobelen.github.io/pdfs/apcta_main.pdf&#34;&gt;Anteproyecto de Código Tributario&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Pueden acceder a un avance de esta obra aquí: &lt;a href=&#34;http://localhost:1313/pdfs/apcta_main.pdf&#34;&gt;Anteproyecto de Código Tributario&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Espero les guste y lo consideren util como un punto de partida interesante.&lt;/p&gt;
 
         

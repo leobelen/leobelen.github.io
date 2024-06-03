@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taxation on Leonardo Belén&#39;s Blog</title>
-    <link>https://leobelen.github.io/categories/taxation/</link>
+    <link>http://localhost:1313/categories/taxation/</link>
     <description>Recent content in Taxation on Leonardo Belén&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2017-2022, Leonardo Javier Belén; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/categories/taxation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/categories/taxation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tax Administrations&#39; Rules: Discard the use of paper as documentary support</title>
-      <link>https://leobelen.github.io/post/2022-12-26-descartando-el-papel-como-soporte-documental/</link>
+      <link>http://localhost:1313/post/2022-12-26-descartando-el-papel-como-soporte-documental/</link>
       <pubDate>Mon, 26 Dec 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/post/2022-12-26-descartando-el-papel-como-soporte-documental/</guid>
+      <guid>http://localhost:1313/post/2022-12-26-descartando-el-papel-como-soporte-documental/</guid>
       <description>
         
           &lt;p&gt;Although throughout history the natural support for documents was on paper, the truth is that this system has major disadvantages against new and better ways using computerized document management systems, including:&lt;/p&gt;
@@ -33,10 +33,10 @@
     
     <item>
       <title>Tax Administrations&#39; Rules: It is better to do before than after</title>
-      <link>https://leobelen.github.io/post/2022-11-16-es-mejor-hacer-antes-que-despues/</link>
+      <link>http://localhost:1313/post/2022-11-16-es-mejor-hacer-antes-que-despues/</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/post/2022-11-16-es-mejor-hacer-antes-que-despues/</guid>
+      <guid>http://localhost:1313/post/2022-11-16-es-mejor-hacer-antes-que-despues/</guid>
       <description>
         
           &lt;p&gt;Human beings are very prone to making mistakes and forgetting things, especially in repetitive tasks. Therefore, it is much more efficient to use automated means - whenever possible - and try to have good quality information from the beginning.&lt;/p&gt;
@@ -50,10 +50,10 @@
     
     <item>
       <title>The Behavior Moderation Principle</title>
-      <link>https://leobelen.github.io/post/2022-10-15-principio-de-moderacion-del-comportamiento/</link>
+      <link>http://localhost:1313/post/2022-10-15-principio-de-moderacion-del-comportamiento/</link>
       <pubDate>Sat, 15 Oct 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/post/2022-10-15-principio-de-moderacion-del-comportamiento/</guid>
+      <guid>http://localhost:1313/post/2022-10-15-principio-de-moderacion-del-comportamiento/</guid>
       <description>
         
           &lt;p&gt;The tax system is - from the behavioral perspective - an incentive system, since States can use it to promote or discourage economic activities that it considers strategic. For example, a State may consider encouraging the services sector by alleviating taxes that affect it and discouraging the consumption of alcoholic beverages by creating a tax on them.&lt;/p&gt;
@@ -66,10 +66,10 @@
     
     <item>
       <title>Tax Administrations&#39; Rules: Taxpayers do not want to pay taxes</title>
-      <link>https://leobelen.github.io/post/2022-09-22-nadie-quiere-pagar-impuestos/</link>
+      <link>http://localhost:1313/post/2022-09-22-nadie-quiere-pagar-impuestos/</link>
       <pubDate>Thu, 22 Sep 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/post/2022-09-22-nadie-quiere-pagar-impuestos/</guid>
+      <guid>http://localhost:1313/post/2022-09-22-nadie-quiere-pagar-impuestos/</guid>
       <description>
         
           &lt;p&gt;It is normal to forget this concept, but the truth is that it is not usual for some taxpayers to want to comply with their tax obligations voluntarily. However, in addition to being the least numerous, they are actually those that do not represent a collection problem for the administration and, of course, in the long term, all taxpayers are expected to voluntarily comply with their obligations.&lt;/p&gt;
@@ -88,10 +88,10 @@
     
     <item>
       <title>Tax Administrations&#39; Rules: Do not create  or raise taxes until all processes are optimized</title>
-      <link>https://leobelen.github.io/post/2022-09-16-no-crear-impuestos-hasta-optimizar-procesos/</link>
+      <link>http://localhost:1313/post/2022-09-16-no-crear-impuestos-hasta-optimizar-procesos/</link>
       <pubDate>Fri, 16 Sep 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/post/2022-09-16-no-crear-impuestos-hasta-optimizar-procesos/</guid>
+      <guid>http://localhost:1313/post/2022-09-16-no-crear-impuestos-hasta-optimizar-procesos/</guid>
       <description>
         
           &lt;p&gt;Although it is recurrent to try to cover public spending by increasing rates or creating new taxes, the reality is that - in general - this does not have the desired effect if the tax administration problems have not been solved beforehand.&lt;/p&gt;
@@ -112,10 +112,10 @@
     
     <item>
       <title>Tax Administrations&#39; Rules: Do not only believe the Taxpayer</title>
-      <link>https://leobelen.github.io/post/2022-09-15-no-creer-solo-contribuyente/</link>
+      <link>http://localhost:1313/post/2022-09-15-no-creer-solo-contribuyente/</link>
       <pubDate>Thu, 15 Sep 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/post/2022-09-15-no-creer-solo-contribuyente/</guid>
+      <guid>http://localhost:1313/post/2022-09-15-no-creer-solo-contribuyente/</guid>
       <description>
         
           &lt;p&gt;This is perhaps the number one rule of the tax administration and the one that impacts most of the activities, since it invites to verify, in the most efficient and automatic way possible, what is indicated by the taxpayer in his interaction with the administration.&lt;/p&gt;
@@ -130,10 +130,10 @@
     
     <item>
       <title>The Savings Allocation Principle</title>
-      <link>https://leobelen.github.io/post/2022-09-14-principio-de-afectacion-del-ahorro/</link>
+      <link>http://localhost:1313/post/2022-09-14-principio-de-afectacion-del-ahorro/</link>
       <pubDate>Wed, 14 Sep 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/post/2022-09-14-principio-de-afectacion-del-ahorro/</guid>
+      <guid>http://localhost:1313/post/2022-09-14-principio-de-afectacion-del-ahorro/</guid>
       <description>
         
           &lt;p&gt;The amounts paid as taxes mainly affect the savings capacity of the affected taxpayers. In other words, if the tax pressure rises to a level that exceeds the savings capacity, it is expected that there will come a time when a taxpayer no longer complies with his tax obligations, forcing him to enter a &amp;quot;fiscal snowball&amp;quot;, a situation where, in the best scenario, he will subscribe to successive payment plans for the tax debts incurred until completely cease the debt based on the immensity of the debt based on their income.&lt;/p&gt;
@@ -146,10 +146,10 @@
     
     <item>
       <title>The Transparency Principle in a Tax Administration</title>
-      <link>https://leobelen.github.io/post/2022-09-13-principio-de-transparencia/</link>
+      <link>http://localhost:1313/post/2022-09-13-principio-de-transparencia/</link>
       <pubDate>Tue, 13 Sep 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/post/2022-09-13-principio-de-transparencia/</guid>
+      <guid>http://localhost:1313/post/2022-09-13-principio-de-transparencia/</guid>
       <description>
         
           &lt;p&gt;The principle of transparency refers to the fact that all the actors involved in a transaction with the administration can check its sources, including returns, accounting statements and process data, depending on their level of responsibility in it.&lt;/p&gt;
@@ -169,13 +169,13 @@
     
     <item>
       <title>Mexico and BEPS</title>
-      <link>https://leobelen.github.io/post/2022-09-09-mexico-y-beps/</link>
+      <link>http://localhost:1313/post/2022-09-09-mexico-y-beps/</link>
       <pubDate>Fri, 09 Sep 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/post/2022-09-09-mexico-y-beps/</guid>
+      <guid>http://localhost:1313/post/2022-09-09-mexico-y-beps/</guid>
       <description>
         
-          &lt;p&gt;A few years ago a company that offers an accounting program in the United States asked me to evaluate the impact of BEPS in Mexico. From that study, which was much more than what they expected, this mini paper came out that you can consult &lt;a href=&#34;https://leobelen.github.io/pdfs/mexico_beps_premier.pdf&#34;&gt;here&lt;/a&gt; (&lt;a href=&#34;https://vixra.org/abs/1811.0098&#34;&gt;originally published here&lt;/a&gt;).&lt;/p&gt;
+          &lt;p&gt;A few years ago a company that offers an accounting program in the United States asked me to evaluate the impact of BEPS in Mexico. From that study, which was much more than what they expected, this mini paper came out that you can consult &lt;a href=&#34;http://localhost:1313/pdfs/mexico_beps_premier.pdf&#34;&gt;here&lt;/a&gt; (&lt;a href=&#34;https://vixra.org/abs/1811.0098&#34;&gt;originally published here&lt;/a&gt;).&lt;/p&gt;
 
         
       </description>
@@ -183,17 +183,17 @@
     
     <item>
       <title>Tax Administration Principles</title>
-      <link>https://leobelen.github.io/post/2022-06-22-principios-de-adm-tributaria/</link>
+      <link>http://localhost:1313/post/2022-06-22-principios-de-adm-tributaria/</link>
       <pubDate>Wed, 22 Jun 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/post/2022-06-22-principios-de-adm-tributaria/</guid>
+      <guid>http://localhost:1313/post/2022-06-22-principios-de-adm-tributaria/</guid>
       <description>
         
           &lt;p&gt;An interesting part of having worked in tax administrations for years is that you learn the general framework and best practices to get the job done. No matter the jurisdiction, at this point many of the problems that all of them present are the same and many times start from the fact that many of its members do not fully understand the reason for their actions. Yes, of course, they clearly see the micro, but many times they fail to see the macro, and thus, the set of tasks may sometimes not be the best.&lt;/p&gt;
 &lt;p&gt;However, it was even more interesting to understand that much of what happens within one of these institutions is not publicly written, and therefore many of their officials are obliged either to &amp;quot;invent the wheel every time&amp;quot;, or to read notes or publications that really teach little (except isolated experiences in other parts of the world) or - if they are very lucky - go to a conference where they can learn something new, if the topic of the conference is really new. Many of the conferences, like everything in life, are only to present a result, but more than anything to make contacts.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;La Ley - Flyer 1&#34; src=&#34;https://leobelen.github.io/images/Prin_adm_trib_flyer_1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;La Ley - Flyer 1&#34; src=&#34;http://localhost:1313/images/Prin_adm_trib_flyer_1.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;In this context, many people who want to learn and improve find themselves with a ceiling and the reality is that in my experience, no matter where in the world they are, the tasks are the same and the management is basically the same. And it turns out that I am not alone in this: in 2015 the International Monetary Fund made available to the public a tool that precisely helps States to estimate progress and use best practices, called &lt;a href=&#34;https://www.tadat.org&#34;&gt;TADAT&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;La Ley - Flyer 2&#34; src=&#34;https://leobelen.github.io/images/Prin_adm_trib_flyer_2.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;La Ley - Flyer 2&#34; src=&#34;http://localhost:1313/images/Prin_adm_trib_flyer_2.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Although this movement was long celebrated, given that it was now possible to compare tax administrations, in an equitable way, the truth is that there is a lack of a tax administration manual that shows in a didactic, unified and disinterested way the concepts, principles and best practices in the material along with ideas to apply, both for jurisdictions without resources and for those that want to improve every day.&lt;/p&gt;
 &lt;p&gt;Published in Spanish by Thomson Reuters - La Ley &lt;a href=&#34;https://tienda.thomsonreuters.com.ar/978-987-03-4377-6%E2%80%8B-principios-de-administracion-tributaria/p&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I hope you like it and find it useful as an interesting starting point.&lt;/p&gt;
@@ -204,10 +204,10 @@
     
     <item>
       <title>Case Selection in a Tax Administration: Managing Risk</title>
-      <link>https://leobelen.github.io/post/2021-09-27-seleccion-de-casos/</link>
+      <link>http://localhost:1313/post/2021-09-27-seleccion-de-casos/</link>
       <pubDate>Mon, 27 Sep 2021 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/post/2021-09-27-seleccion-de-casos/</guid>
+      <guid>http://localhost:1313/post/2021-09-27-seleccion-de-casos/</guid>
       <description>
         
           &lt;p&gt;One of the advantages associated with collecting a large amount of information is that it can be used to determine patterns of behavior. One of the most common forms of use is through a Risk Matrix, which, taking registration information, declarations and third party information, among others, determines the risk of non-compliance through a polynomial calculation. This risk can be defined as:&lt;/p&gt;
@@ -246,7 +246,7 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;It is then possible to assign each taxpayer a risk value made up of two elements: the probability that said taxpayer is in default and its value, calculated as the monetary difference that could arise if the default were to materialize. In this way, we can represent risk on the Cartesian plane, where Y represents the probability of default and X the monetary difference. Then, the risk matrix is the binary relationship (X and Y) of the risk values of each of the taxpayers for a given period, with the highest risk representing the highest probability and the highest monetary difference. If they are assigned to fixed spans, you can get something like the figure below, where the darkest spans are the riskiest.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://leobelen.github.io/images/Risk_Matrix_ejemplo.png&#34;&gt;&lt;figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/Risk_Matrix_ejemplo.png&#34;&gt;&lt;figcaption&gt;
       &lt;h4&gt;Risk Matrix Representation in the Cartesian plane&lt;/h4&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -262,17 +262,17 @@
     
     <item>
       <title>A Project for an Argentine Tax Code</title>
-      <link>https://leobelen.github.io/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/</link>
+      <link>http://localhost:1313/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/</guid>
+      <guid>http://localhost:1313/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/</guid>
       <description>
         
           &lt;p&gt;Despite the changes proposed by the Central Administration, it is clear that one of the most important problems of current Argentine taxation is aging: The Tax Procedure act (numbered 11.683), was sanctioned in the 1930s, having its last revision in 1998. As a result, many of the solutions it proposes are outdated (for example, there were no computer systems at the time) or have changed so much that they are difficult to recognize (for example, the tax execution process).&lt;/p&gt;
 &lt;p&gt;To make matters worse, there is a wide range of rules that regulate this activity, from laws and decrees to general DGI / AFIP resolutions, and even doctrine, since many concepts require clarification by the enforcement authorities. Projects such as the &lt;a href=&#34;https://biblioteca.afip.gov.ar&#34;&gt;AFIP electronic library&lt;/a&gt;, created at the end of the 90s, or &lt;a href=&#34;https://www.saij.gov.ar&#34;&gt;SAIJ&lt;/a&gt;, prior in time, have made it possible to reduce the cost of learning by offering an interface with all the references and modifications that a standard may have, but is not enough.&lt;/p&gt;
 &lt;p&gt;Within this framework, about 15 years ago I began an exercise to compile and update tax regulations, from which a Draft Tax Code emerged that may be relevant in an economy depressed by COVID. Although it is clearly outdated, perhaps it can be restarted if there is enough interest from society, which at the time there was not.&lt;/p&gt;
 &lt;p&gt;There is always talk of a tax reform, but in general the pharaonic work that matters is underestimated, this being perhaps the time to unify criteria, update concepts and order the accounts, with the hope of having rules of the game that encourage investment, development and improve the quality of life for all, reducing costs for citizens and increasing efficiency.&lt;/p&gt;
-&lt;p&gt;You can access a preview of this work here: &lt;a href=&#34;https://leobelen.github.io/pdfs/apcta_main.pdf&#34;&gt;Draft Tax Code&lt;/a&gt; (in Spanish).&lt;/p&gt;
+&lt;p&gt;You can access a preview of this work here: &lt;a href=&#34;http://localhost:1313/pdfs/apcta_main.pdf&#34;&gt;Draft Tax Code&lt;/a&gt; (in Spanish).&lt;/p&gt;
 &lt;p&gt;I hope you like it and find it useful as an interesting starting point.&lt;/p&gt;
 
         
