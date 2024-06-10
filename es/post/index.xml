@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on El Blog de Leonardo Belén</title>
-    <link>https://leobelen.github.io/es/post/</link>
+    <link>http://localhost:1313/es/post/</link>
     <description>Recent content in Posts on El Blog de Leonardo Belén</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>Copyright © 2017-2024, Leonardo Javier Belén; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 10 Jun 2024 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/es/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jun 2024 00:00:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/es/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Administración tributaria eficaz en países en vías de desarrollo: estrategias para maximizar los ingresos con recursos limitados</title>
-      <link>https://leobelen.github.io/es/post/2024-06-10-administracion-tributaria-eficaz-paises-vias-desarrollo-estrategias-maximizar-ingresos-recursos-limitados/</link>
+      <link>http://localhost:1313/es/post/2024-06-10-administracion-tributaria-eficaz-paises-vias-desarrollo-estrategias-maximizar-ingresos-recursos-limitados/</link>
       <pubDate>Mon, 10 Jun 2024 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2024-06-10-administracion-tributaria-eficaz-paises-vias-desarrollo-estrategias-maximizar-ingresos-recursos-limitados/</guid>
+      <guid>http://localhost:1313/es/post/2024-06-10-administracion-tributaria-eficaz-paises-vias-desarrollo-estrategias-maximizar-ingresos-recursos-limitados/</guid>
       <description>
         
           &lt;p&gt;La administración tributaria es un componente crucial de cualquier política fiscal, ya que proporciona los ingresos necesarios para financiar servicios públicos e infraestructura. Sin embargo, en el tercer mundo, la administración tributaria a menudo enfrenta desafíos significativos debido a recursos limitados, corrupción e infraestructura inadecuada. En este post de blog, exploraremos las áreas clave que deben priorizarse cuando se busca mejorar la recaudación tributaria con recursos limitados y discutiremos el área que debe ser priorizada en casos extremos.&lt;/p&gt;
@@ -48,10 +48,10 @@
     
     <item>
       <title>Los riesgos de carecer de un Sistema Integrado de Administración Tributaria (ITAS) para detectar fraude fiscal</title>
-      <link>https://leobelen.github.io/es/post/2024-06-03-los-riesgos-de-carecer-de-itas-para-detectar-fraude-fiscal/</link>
+      <link>http://localhost:1313/es/post/2024-06-03-los-riesgos-de-carecer-de-itas-para-detectar-fraude-fiscal/</link>
       <pubDate>Mon, 03 Jun 2024 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2024-06-03-los-riesgos-de-carecer-de-itas-para-detectar-fraude-fiscal/</guid>
+      <guid>http://localhost:1313/es/post/2024-06-03-los-riesgos-de-carecer-de-itas-para-detectar-fraude-fiscal/</guid>
       <description>
         
           &lt;p&gt;El fraude fiscal es un problema significativo que afecta a economías en todo el mundo, con estimaciones que sugieren que representa entre el 4% y el 15% del déficit fiscal en varios países de la OCDE&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. Combatir el fraude fiscal es crucial para mantener la integridad de los sistemas fiscales y asegurar que los gobiernos reciban la recaudación necesaria para financiar los servicios públicos. En los últimos años, las autoridades fiscales han adoptado cada vez más sistemas de Administración Tributaria integrados, incluyendo inteligencia artificial (IA), para mejorar su capacidad para detectar y prevenir el fraude fiscal. Sin embargo, la falta de estos sistemas puede impedir significativamente la efectividad de las autoridades fiscales en este esfuerzo.&lt;/p&gt;
@@ -67,7 +67,7 @@
 &lt;p&gt;En conclusión, la falta de sistemas de Administración Tributaria integrados puede impedir significativamente la capacidad de las autoridades fiscales para detectar y prevenir el fraude fiscal. La adopción de IA y otras tecnologías digitales es crucial para mejorar la efectividad de los sistemas de Administración Tributaria y asegurar que los gobiernos reciban la recaudación necesaria para financiar los servicios públicos&lt;sup id=&#34;fnref3:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;. Las autoridades fiscales deben priorizar el desarrollo e implementación de estos sistemas para combatir el fraude fiscal y mantener la integridad del sistema fiscal.&lt;/p&gt;
 &lt;p&gt;Escrito con el apoyo de &lt;a href=&#34;https://perplexity.ai&#34;&gt;perplexity.ai&lt;/a&gt; y &lt;a href=&#34;chat.bing.com&#34;&gt;chat.bing.com&lt;/a&gt;.&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
+&lt;hr /&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;http://jdintl.econ.queensu.ca/publications/qed_dp_123.pdf&#34;&gt;http://jdintl.econ.queensu.ca/publications/qed_dp_123.pdf&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref1:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
@@ -90,10 +90,10 @@
     
     <item>
       <title>Mejorando la recaudación de impuestos en el mundo en desarrollo a través de la Contabilidad de Devengo</title>
-      <link>https://leobelen.github.io/es/post/2024-05-27-mejorando-recaudacion-impuestos-mundo-desarrollo-contabilidad-de-devengo/</link>
+      <link>http://localhost:1313/es/post/2024-05-27-mejorando-recaudacion-impuestos-mundo-desarrollo-contabilidad-de-devengo/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2024-05-27-mejorando-recaudacion-impuestos-mundo-desarrollo-contabilidad-de-devengo/</guid>
+      <guid>http://localhost:1313/es/post/2024-05-27-mejorando-recaudacion-impuestos-mundo-desarrollo-contabilidad-de-devengo/</guid>
       <description>
         
           &lt;p&gt;La recaudación de impuestos es un tema crítico para los países en desarrollo, ya que proporciona los ingresos necesarios para financiar los servicios públicos, la infraestructura y el desarrollo económico. Sin embargo, muchas naciones del Tercer Mundo luchan con bajas tasas de cumplimiento y recaudación de impuestos. Una posible solución que ha estado ganando atención es la adopción de los principios de contabilidad de devengo por parte de los gobiernos y las autoridades fiscales.&lt;/p&gt;
@@ -125,7 +125,7 @@
 &lt;p&gt;Sin embargo, implementar la contabilidad de devengo no es fácil y requiere superar desafíos significativos. Con la voluntad política adecuada, la asistencia técnica y el desarrollo de capacidades, los países en desarrollo pueden hacer la transición y aprovechar los beneficios de la contabilidad de devengo. Mejorar la recaudación de impuestos es fundamental para la prosperidad futura del mundo en desarrollo.&lt;/p&gt;
 &lt;p&gt;Escrito con el apoyo de &lt;a href=&#34;https://perplexity.ai&#34;&gt;perplexity.ai&lt;/a&gt; y &lt;a href=&#34;chat.bing.com&#34;&gt;chat.bing.com&lt;/a&gt;.&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
+&lt;hr /&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;https://blueboxglobal.com/cash-basis-accounting-for-startup/&#34;&gt;https://blueboxglobal.com/cash-basis-accounting-for-startup/&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref1:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
@@ -145,10 +145,10 @@
     
     <item>
       <title>Superando los desafíos de la administración tributaria en países en desarrollo</title>
-      <link>https://leobelen.github.io/es/post/2024-05-20-superando-desafios-de-administracion-tributaria-paises-desarrollo/</link>
+      <link>http://localhost:1313/es/post/2024-05-20-superando-desafios-de-administracion-tributaria-paises-desarrollo/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2024-05-20-superando-desafios-de-administracion-tributaria-paises-desarrollo/</guid>
+      <guid>http://localhost:1313/es/post/2024-05-20-superando-desafios-de-administracion-tributaria-paises-desarrollo/</guid>
       <description>
         
           &lt;p&gt;La administración tributaria en los países en desarrollo enfrenta desafíos significativos para recaudar ingresos de manera eficiente y equitativa. Las bajas relaciones impuestos-PBI, las altas tasas de informalidad, el limitado cumplimiento de los contribuyentes y la tecnología obsoleta obstaculizan la capacidad de las autoridades tributarias para movilizar recursos internos. Sin embargo, con las reformas e inversiones adecuadas, estos obstáculos se pueden superar para fortalecer la capacidad fiscal y apoyar el desarrollo económico.&lt;/p&gt;
@@ -172,7 +172,7 @@
 &lt;p&gt;En última instancia, la movilización de ingresos internos es una responsabilidad compartida. Al trabajar juntos para superar los desafíos y construir sistemas tributarios efectivos y equitativos, los países desarrollados y en desarrollo pueden desbloquear los recursos necesarios para lograr un desarrollo sostenible.&lt;/p&gt;
 &lt;p&gt;Escrito con el apoyo de &lt;a href=&#34;https://perplexity.ai&#34;&gt;perplexity.ai&lt;/a&gt; y &lt;a href=&#34;chat.bing.com&#34;&gt;chat.bing.com&lt;/a&gt;.&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
+&lt;hr /&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;https://blogs.worldbank.org/en/developmenttalk/promise-and-limitations-information-technology-tax-mobilization&#34;&gt;https://blogs.worldbank.org/en/developmenttalk/promise-and-limitations-information-technology-tax-mobilization&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
@@ -195,10 +195,10 @@
     
     <item>
       <title>Filtraciones de Datos en las Administraciones Tributarias: Una Amenaza Grave para la Privacidad de los Contribuyentes</title>
-      <link>https://leobelen.github.io/es/post/2024-05-13-data-leaks-en-ats/</link>
+      <link>http://localhost:1313/es/post/2024-05-13-data-leaks-en-ats/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2024-05-13-data-leaks-en-ats/</guid>
+      <guid>http://localhost:1313/es/post/2024-05-13-data-leaks-en-ats/</guid>
       <description>
         
           &lt;p&gt;En la era digital actual, los incidentes de seguridad y filtraciones de datos se han vuelto cada vez más comunes, afectando a organizaciones de diversos sectores, incluyendo a las administraciones tributarias. La naturaleza sensible de la información manejada por las autoridades fiscales, como los datos financieros y detalles personales de los contribuyentes, las convierte en objetivos principales para los ciberdelincuentes y actores maliciosos. Las filtraciones de datos en las administraciones tributarias pueden tener consecuencias severas, incluyendo violaciones a la privacidad de los contribuyentes, pérdidas financieras y una pérdida de confianza pública en la capacidad del gobierno para proteger información sensible.&lt;/p&gt;
@@ -229,10 +229,10 @@
     
     <item>
       <title>Dominando la recaudación en la administración tributaria y financiera: estrategias y mejores prácticas</title>
-      <link>https://leobelen.github.io/es/post/2024-05-06-dominando-la-recaudacion-en-la-administracion-tributaria-financiera/</link>
+      <link>http://localhost:1313/es/post/2024-05-06-dominando-la-recaudacion-en-la-administracion-tributaria-financiera/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2024-05-06-dominando-la-recaudacion-en-la-administracion-tributaria-financiera/</guid>
+      <guid>http://localhost:1313/es/post/2024-05-06-dominando-la-recaudacion-en-la-administracion-tributaria-financiera/</guid>
       <description>
         
           &lt;p&gt;La recaudación eficaz en la administración tributaria y financiera es crucial para mantener una posición financiera saludable y garantizar el buen funcionamiento de una organización. Sin embargo, cobrar las deudas pendientes puede ser una tarea desafiante, que a menudo requiere un enfoque estratégico y una comprensión profunda de los diversos factores que influyen en el éxito de la cobranza. En esta publicación de blog, exploraremos algunas estrategias clave y mejores prácticas para mejorar la recaudación en la administración tributaria y financiera.&lt;/p&gt;
@@ -262,10 +262,10 @@
     
     <item>
       <title>Maximizando el Impacto de la Inteligencia Artificial en las Operaciones de las Administraciones Tributarias</title>
-      <link>https://leobelen.github.io/es/post/2024-04-29-inteligencia-artificial-e-impuestos/</link>
+      <link>http://localhost:1313/es/post/2024-04-29-inteligencia-artificial-e-impuestos/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2024-04-29-inteligencia-artificial-e-impuestos/</guid>
+      <guid>http://localhost:1313/es/post/2024-04-29-inteligencia-artificial-e-impuestos/</guid>
       <description>
         
           &lt;p&gt;En el ámbito de las Administración Tributarias, la integración de la Inteligencia Artificial (IA) está revolucionando las prácticas tradicionales, ofreciendo innumerables beneficios en diversas áreas operativas. Como escritor de blog profesional, profundicemos en las áreas clave que se beneficiarán más de la implementación de la IA en las operaciones de la administración tributaria.&lt;/p&gt;
@@ -289,14 +289,14 @@
     
     <item>
       <title>Antares</title>
-      <link>https://leobelen.github.io/es/post/2024-04-16-antares/</link>
+      <link>http://localhost:1313/es/post/2024-04-16-antares/</link>
       <pubDate>Tue, 16 Apr 2024 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2024-04-16-antares/</guid>
+      <guid>http://localhost:1313/es/post/2024-04-16-antares/</guid>
       <description>
         
           &lt;h1 id=&#34;introducción&#34;&gt;Introducción&lt;/h1&gt;
-&lt;p&gt;Una parte importante de la propuesta general, iniciada por los anteriores posteos (en particular el &lt;a href=&#34;https://leobelen.github.io/es/post/2022-06-22-principios-de-adm-tributaria/&#34;&gt;manual de administración tributaria&lt;/a&gt; y el &lt;a href=&#34;https://leobelen.github.io/es/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/&#34;&gt;anteproyecto de Código Tributario&lt;/a&gt;) es el programa que puede ser usado para llevarlo adelante. En realidad, desarrollé hace un tiempo un Sistema Integrado de Administración Tributaria (ITAS, por sus siglas en inglés), denominado Antares, que está en inglés y fue originalmente presentado ante un banco de desarrollo.&lt;/p&gt;
+&lt;p&gt;Una parte importante de la propuesta general, iniciada por los anteriores posteos (en particular el &lt;a href=&#34;http://localhost:1313/es/post/2022-06-22-principios-de-adm-tributaria/&#34;&gt;manual de administración tributaria&lt;/a&gt; y el &lt;a href=&#34;http://localhost:1313/es/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/&#34;&gt;anteproyecto de Código Tributario&lt;/a&gt;) es el programa que puede ser usado para llevarlo adelante. En realidad, desarrollé hace un tiempo un Sistema Integrado de Administración Tributaria (ITAS, por sus siglas en inglés), denominado Antares, que está en inglés y fue originalmente presentado ante un banco de desarrollo.&lt;/p&gt;
 &lt;h1 id=&#34;arquitectura&#34;&gt;Arquitectura&lt;/h1&gt;
 &lt;p&gt;Desde un principio, el proyecto fue enfocado como una herramienta que pudiera cumplir con las siguientes características:&lt;/p&gt;
 &lt;ul&gt;
@@ -326,10 +326,10 @@
     
     <item>
       <title>Cooperación Internacional: Tendencias</title>
-      <link>https://leobelen.github.io/es/post/2023-09-11-tendencias-en-cooperacion-internacional/</link>
+      <link>http://localhost:1313/es/post/2023-09-11-tendencias-en-cooperacion-internacional/</link>
       <pubDate>Mon, 11 Sep 2023 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2023-09-11-tendencias-en-cooperacion-internacional/</guid>
+      <guid>http://localhost:1313/es/post/2023-09-11-tendencias-en-cooperacion-internacional/</guid>
       <description>
         
           &lt;p&gt;En la cooperación internacional, existen diversas tendencias emergentes que están influyendo en la forma en que se lleva a cabo. Por ejemplo, podemos citar:&lt;/p&gt;
@@ -349,10 +349,10 @@ Estas tendencias reflejan la evolución de la cooperación internacional hacia u
     
     <item>
       <title>Cooperación Internacional: El Origen de los Fondos</title>
-      <link>https://leobelen.github.io/es/post/2023-05-31-cooperacion-internacional-el-origen-de-los-fondos/</link>
+      <link>http://localhost:1313/es/post/2023-05-31-cooperacion-internacional-el-origen-de-los-fondos/</link>
       <pubDate>Wed, 31 May 2023 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2023-05-31-cooperacion-internacional-el-origen-de-los-fondos/</guid>
+      <guid>http://localhost:1313/es/post/2023-05-31-cooperacion-internacional-el-origen-de-los-fondos/</guid>
       <description>
         
           &lt;h1 id=&#34;introducción&#34;&gt;Introducción&lt;/h1&gt;
@@ -389,10 +389,10 @@ Estas tendencias reflejan la evolución de la cooperación internacional hacia u
     
     <item>
       <title>Financiamiento Internacional en Estructuras Gubernamentales y Comportamiento de los Funcionarios</title>
-      <link>https://leobelen.github.io/es/post/2023-05-15-financiamiento-internacional-estructuras-gubernamentales-comportamiento-funcionarios/</link>
+      <link>http://localhost:1313/es/post/2023-05-15-financiamiento-internacional-estructuras-gubernamentales-comportamiento-funcionarios/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2023-05-15-financiamiento-internacional-estructuras-gubernamentales-comportamiento-funcionarios/</guid>
+      <guid>http://localhost:1313/es/post/2023-05-15-financiamiento-internacional-estructuras-gubernamentales-comportamiento-funcionarios/</guid>
       <description>
         
           &lt;h1 id=&#34;algunas-definiciones&#34;&gt;Algunas Definiciones&lt;/h1&gt;
@@ -430,10 +430,10 @@ Estas tendencias reflejan la evolución de la cooperación internacional hacia u
     
     <item>
       <title>Herramientas de Cambio Organizacional en Estructuras del Estado</title>
-      <link>https://leobelen.github.io/es/post/2023-04-18-herramientas-del-cambio-organizacional-en-estructuras-del-estado/</link>
+      <link>http://localhost:1313/es/post/2023-04-18-herramientas-del-cambio-organizacional-en-estructuras-del-estado/</link>
       <pubDate>Tue, 18 Apr 2023 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2023-04-18-herramientas-del-cambio-organizacional-en-estructuras-del-estado/</guid>
+      <guid>http://localhost:1313/es/post/2023-04-18-herramientas-del-cambio-organizacional-en-estructuras-del-estado/</guid>
       <description>
         
           &lt;p&gt;Algunas de las mas útiles herramientas dentro del arsenal del cambio organizacional no están disponibles (o su ejecución es tan complicada que lo hacen inviable) en estructuras del Estado. Así, la herramienta de eliminación de los &amp;quot;focos de rebelión&amp;quot; desafectando al personal (despido), es normalmente contraindicada. En función de ello, se cuentan en líneas generales con las siguientes:&lt;/p&gt;
@@ -454,10 +454,10 @@ Estas tendencias reflejan la evolución de la cooperación internacional hacia u
     
     <item>
       <title>Buscando Ayuda para Financiar Proyectos del Estado: La Cooperación Internacional</title>
-      <link>https://leobelen.github.io/es/post/2023-01-31-buscando-ayuda/</link>
+      <link>http://localhost:1313/es/post/2023-01-31-buscando-ayuda/</link>
       <pubDate>Tue, 31 Jan 2023 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2023-01-31-buscando-ayuda/</guid>
+      <guid>http://localhost:1313/es/post/2023-01-31-buscando-ayuda/</guid>
       <description>
         
           &lt;p&gt;Bienvenido sea el lector a un nuevo año con un tema de mucha actualidad: Los métodos de financiamiento de las organizaciones del Estado. Digo, no tanto por su contenido, sino la distancia entre lo que el común de la gente cree y lo que es en realidad. Para este artículo contamos con la ayuda de una de las mayores especialistas en Cooperacion Internacional de Argentina, la Dra. Raquel Deas.&lt;/p&gt;
@@ -534,10 +534,10 @@ Los escenarios de la cooperación internacional son muy dinámicos a nivel globa
     
     <item>
       <title>Reglas de las Administraciones Tributarias: Descartar el uso del papel como soporte documental</title>
-      <link>https://leobelen.github.io/es/post/2022-12-26-descartando-el-papel-como-soporte-documental/</link>
+      <link>http://localhost:1313/es/post/2022-12-26-descartando-el-papel-como-soporte-documental/</link>
       <pubDate>Mon, 26 Dec 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2022-12-26-descartando-el-papel-como-soporte-documental/</guid>
+      <guid>http://localhost:1313/es/post/2022-12-26-descartando-el-papel-como-soporte-documental/</guid>
       <description>
         
           &lt;p&gt;Si bien a lo largo de la historia el soporte natural de los documentos fue en papel, lo cierto es que este sistema tiene amplias desventajas contra nuevas y mejores formas utilizando sistemas computacionales de manejo de documentos, incluyendo:&lt;/p&gt;
@@ -557,10 +557,10 @@ Los escenarios de la cooperación internacional son muy dinámicos a nivel globa
     
     <item>
       <title>Reglas de las Administraciones Tributarias: Es Mejor Hacer Antes que Después</title>
-      <link>https://leobelen.github.io/es/post/2022-11-16-es-mejor-hacer-antes-que-despues/</link>
+      <link>http://localhost:1313/es/post/2022-11-16-es-mejor-hacer-antes-que-despues/</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2022-11-16-es-mejor-hacer-antes-que-despues/</guid>
+      <guid>http://localhost:1313/es/post/2022-11-16-es-mejor-hacer-antes-que-despues/</guid>
       <description>
         
           &lt;p&gt;Los seres humanos somos muy propensos a cometer errores y a olvidar cosas, sobre todo en tareas repetitivas. Por eso, resulta mucho más eficiente utilizar medios automatizados - siempre que sea viable - y tratar de contar con información de buena calidad desde el principio.&lt;/p&gt;
@@ -574,10 +574,10 @@ Los escenarios de la cooperación internacional son muy dinámicos a nivel globa
     
     <item>
       <title>El Principio de Moderación del Comportamiento</title>
-      <link>https://leobelen.github.io/es/post/2022-10-15-principio-de-moderacion-del-comportamiento/</link>
+      <link>http://localhost:1313/es/post/2022-10-15-principio-de-moderacion-del-comportamiento/</link>
       <pubDate>Sat, 15 Oct 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2022-10-15-principio-de-moderacion-del-comportamiento/</guid>
+      <guid>http://localhost:1313/es/post/2022-10-15-principio-de-moderacion-del-comportamiento/</guid>
       <description>
         
           &lt;p&gt;El sistema tributario es - desde la perspectiva del comportamiento - un sistema de incentivos, dado que los Estados pueden usarlo para promover o desincentivar actividades económicas que este considera estratégicas. Por ejemplo, un Estado puede considerar incentivar el rubro servicios aliviando impuestos que lo afecten y desincentivar el consumo de bebidas alcohólicas creando un impuesto sobre ellas.&lt;/p&gt;
@@ -590,10 +590,10 @@ Los escenarios de la cooperación internacional son muy dinámicos a nivel globa
     
     <item>
       <title>Reglas de las Administraciones Tributarias: Los contribuyentes no quieren pagar impuestos</title>
-      <link>https://leobelen.github.io/es/post/2022-09-22-nadie-quiere-pagar-impuestos/</link>
+      <link>http://localhost:1313/es/post/2022-09-22-nadie-quiere-pagar-impuestos/</link>
       <pubDate>Thu, 22 Sep 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2022-09-22-nadie-quiere-pagar-impuestos/</guid>
+      <guid>http://localhost:1313/es/post/2022-09-22-nadie-quiere-pagar-impuestos/</guid>
       <description>
         
           &lt;p&gt;Es normal olvidar este concepto, pero lo cierto es que no es usual que algunos contribuyentes quieran cumplir con sus obligaciones tributarias de forma voluntaria. Sin embargo, amén de ser los menos numerosos, son en realidad aquellos que no representan un problema de recaudación a la administración y por supuesto en el largo plazo, se espera que todos los contribuyentes cumplan voluntariamente con sus obligaciones.&lt;/p&gt;
@@ -612,10 +612,10 @@ Los escenarios de la cooperación internacional son muy dinámicos a nivel globa
     
     <item>
       <title>Reglas de las Administraciones Tributarias: No crear impuestos o subirlos hasta optimizar todos los procesos</title>
-      <link>https://leobelen.github.io/es/post/2022-09-16-no-crear-impuestos-hasta-optimizar-procesos/</link>
+      <link>http://localhost:1313/es/post/2022-09-16-no-crear-impuestos-hasta-optimizar-procesos/</link>
       <pubDate>Fri, 16 Sep 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2022-09-16-no-crear-impuestos-hasta-optimizar-procesos/</guid>
+      <guid>http://localhost:1313/es/post/2022-09-16-no-crear-impuestos-hasta-optimizar-procesos/</guid>
       <description>
         
           &lt;p&gt;Si bien es recurrente intentar cubrir el gasto público aumentando alícuotas o creando nuevos impuestos, la realidad es que - en general - esto no tiene el efecto deseado si antes no se han solucionado los problemas de administración tributaria.&lt;/p&gt;
@@ -636,10 +636,10 @@ Los escenarios de la cooperación internacional son muy dinámicos a nivel globa
     
     <item>
       <title>Reglas de las Administraciones Tributarias: No creer sólo al Contribuyente</title>
-      <link>https://leobelen.github.io/es/post/2022-09-15-no-creer-solo-contribuyente/</link>
+      <link>http://localhost:1313/es/post/2022-09-15-no-creer-solo-contribuyente/</link>
       <pubDate>Thu, 15 Sep 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2022-09-15-no-creer-solo-contribuyente/</guid>
+      <guid>http://localhost:1313/es/post/2022-09-15-no-creer-solo-contribuyente/</guid>
       <description>
         
           &lt;p&gt;Esta es tal vez la regla número uno de la administración tributaria y la que impacta en la mayor parte de las actividades, dado que invita a verificar, de la forma más eficiente y automática posible, lo indicado por el contribuyente en interacción con la administración.
@@ -654,10 +654,10 @@ Sea por desconocimiento, omisión deliberada o negligencia, es probable que cual
     
     <item>
       <title>El Principio de Afectación del Ahorro</title>
-      <link>https://leobelen.github.io/es/post/2022-09-14-principio-de-afectacion-del-ahorro/</link>
+      <link>http://localhost:1313/es/post/2022-09-14-principio-de-afectacion-del-ahorro/</link>
       <pubDate>Wed, 14 Sep 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2022-09-14-principio-de-afectacion-del-ahorro/</guid>
+      <guid>http://localhost:1313/es/post/2022-09-14-principio-de-afectacion-del-ahorro/</guid>
       <description>
         
           &lt;p&gt;Los montos pagados en concepto de impuestos afectan mayormente a la capacidad de ahorro de los contribuyentes afectados. Dicho de otra forma, si la presión tributaria sube a un nivel que sobrepasa la capacidad de ahorro, lo esperable es que llegue un momento en que ese contribuyente ya no cumpla con sus obligaciones tributarias, forzando al mismo a entrar en una bola de nieve fiscal, una situación donde en el mejor escenario suscribirá sucesivos planes de pago por las deudas tributarias contraídas hasta que finalmente cese completamente sus pagos en función de la inmensidad de la deuda en función de sus ingresos.&lt;/p&gt;
@@ -670,10 +670,10 @@ Sea por desconocimiento, omisión deliberada o negligencia, es probable que cual
     
     <item>
       <title>El Principio de Transparencia en la Administración</title>
-      <link>https://leobelen.github.io/es/post/2022-09-13-principio-de-transparencia/</link>
+      <link>http://localhost:1313/es/post/2022-09-13-principio-de-transparencia/</link>
       <pubDate>Tue, 13 Sep 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2022-09-13-principio-de-transparencia/</guid>
+      <guid>http://localhost:1313/es/post/2022-09-13-principio-de-transparencia/</guid>
       <description>
         
           &lt;p&gt;El principio de transparencia implica que todos los actores involucrados en una transacción con la administración pueden cotejar la información de la misma, principalmente en cuanto a declaraciones juradas, estados contables y datos de proceso, en función de su nivel de responsabilidad en ella.&lt;/p&gt;
@@ -693,13 +693,13 @@ Sea por desconocimiento, omisión deliberada o negligencia, es probable que cual
     
     <item>
       <title>México y BEPS</title>
-      <link>https://leobelen.github.io/es/post/2022-09-09-mexico-y-beps/</link>
+      <link>http://localhost:1313/es/post/2022-09-09-mexico-y-beps/</link>
       <pubDate>Fri, 09 Sep 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2022-09-09-mexico-y-beps/</guid>
+      <guid>http://localhost:1313/es/post/2022-09-09-mexico-y-beps/</guid>
       <description>
         
-          &lt;p&gt;Hace unos años una empresa que ofrece un programa de contabilidad en Estados Unidos me pidió evaluar el impacto de BEPS en Mexico. De ese estudio, que fue mucho más que lo que esperaban, salió este mini paper que pueden consultar &lt;a href=&#34;https://leobelen.github.io/pdfs/mexico_beps_premier.pdf&#34;&gt;en este enlace&lt;/a&gt; (&lt;a href=&#34;https://vixra.org/abs/1811.0098&#34;&gt;originalmente publicado en viXra&lt;/a&gt;) (en inglés).&lt;/p&gt;
+          &lt;p&gt;Hace unos años una empresa que ofrece un programa de contabilidad en Estados Unidos me pidió evaluar el impacto de BEPS en Mexico. De ese estudio, que fue mucho más que lo que esperaban, salió este mini paper que pueden consultar &lt;a href=&#34;http://localhost:1313/pdfs/mexico_beps_premier.pdf&#34;&gt;en este enlace&lt;/a&gt; (&lt;a href=&#34;https://vixra.org/abs/1811.0098&#34;&gt;originalmente publicado en viXra&lt;/a&gt;) (en inglés).&lt;/p&gt;
 &lt;p&gt;Es interesante tener en cuenta que - en función de lo publicado en Clarin el día 8/9/2022 acerca de un acuerdo AFIP-IRS &lt;a href=&#34;https://www.clarin.com/economia/sergio-massa-va-dolares-argentinos-ee-uu-contadores-locales-escepticos_0_sAaFzpjtDM.html&#34;&gt;según se ve en esta nota&lt;/a&gt; - este trabajo puede ayudar a entender como debería funcionar para el caso mexicano.&lt;/p&gt;
 
         
@@ -708,17 +708,17 @@ Sea por desconocimiento, omisión deliberada o negligencia, es probable que cual
     
     <item>
       <title>Principios de Administración Tributaria</title>
-      <link>https://leobelen.github.io/es/post/2022-06-22-principios-de-adm-tributaria/</link>
+      <link>http://localhost:1313/es/post/2022-06-22-principios-de-adm-tributaria/</link>
       <pubDate>Wed, 22 Jun 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2022-06-22-principios-de-adm-tributaria/</guid>
+      <guid>http://localhost:1313/es/post/2022-06-22-principios-de-adm-tributaria/</guid>
       <description>
         
           &lt;p&gt;Una parte interesante de haber trabajado en administraciones tributarias durante años es que uno aprende el marco general y las mejores prácticas para llevar adelante la tarea. No importa la jurisdicción, a esta altura muchos de los problemas que presentan todas ella son los mismos y parten muchas veces del hecho de que muchos de sus integrantes no entienden del todo el porque de su accionar. Si, claro, ven claramente lo micro, pero muchas veces fallan en ver lo macro, y así, el conjunto de tareas puede que a veces no sea el mejor.&lt;/p&gt;
 &lt;p&gt;Sin embargo, aún más interesante fue entender que mucho de lo que sucede dentro de una de estas instituciones no está escrito públicamente, y por tanto muchos de los funcionarios de las mismas están obligados o bien a &amp;quot;inventar la rueda cada vez&amp;quot;, o leer notas o publicaciones que poco enseñan realmente (salvo experiencias aisladas en otros lugares del mundo) o - si tienen mucha suerte - ir a alguna conferencia donde puedan aprender algo nuevo, si es que el tema de la conferencia es realmente novedoso. Muchas de las conferencias, como todo en la vida, son sólo para presentar algún resultado, pero más que nada para hacer contactos.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;La Ley - Flyer 1&#34; src=&#34;https://leobelen.github.io/images/Prin_adm_trib_flyer_1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;La Ley - Flyer 1&#34; src=&#34;http://localhost:1313/images/Prin_adm_trib_flyer_1.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;En este contexto, muchas personas que quieren aprender y mejorar se encuentran con un techo y la realidad es que en mi experiencia, no importa en que lugar del mundo se esté, las tareas son las mismas y la gestión es básicamente la misma. Y resulta que no estoy solo en esto: en 2015 el Fondo Monetario Internacional puso a disposición del público una herramienta que justamente ayuda a los Estados a estimar el avance y utilizar mejores prácticas, denominado &lt;a href=&#34;https://www.tadat.org&#34;&gt;TADAT&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;La Ley - Flyer 2&#34; src=&#34;https://leobelen.github.io/images/Prin_adm_trib_flyer_2.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;La Ley - Flyer 2&#34; src=&#34;http://localhost:1313/images/Prin_adm_trib_flyer_2.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Aunque este movimiento fue largamente celebrado, dado que ahora era posible comparar administraciones tributarias, de forma equitativa, la verdad es que falta un manual de administración tributaria que muestre de forma didáctica, unificada y desinteresada los conceptos, los principios y las mejores prácticas en la materia junto con ideas para aplicar, tanto para jurisdicciones sin recursos como para aquellas que quieren mejorar cada día más.&lt;/p&gt;
 &lt;p&gt;Publicado por Thomson Reuters - La Ley &lt;a href=&#34;https://tienda.thomsonreuters.com.ar/978-987-03-4377-6%E2%80%8B-principios-de-administracion-tributaria/p&#34;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Espero les guste y lo consideren útil como un punto de partida interesante.&lt;/p&gt;
@@ -729,10 +729,10 @@ Sea por desconocimiento, omisión deliberada o negligencia, es probable que cual
     
     <item>
       <title>Selección de Casos en una Administración Tributaria: Manejando el Riesgo</title>
-      <link>https://leobelen.github.io/es/post/2021-09-27-seleccion-de-casos/</link>
+      <link>http://localhost:1313/es/post/2021-09-27-seleccion-de-casos/</link>
       <pubDate>Mon, 27 Sep 2021 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2021-09-27-seleccion-de-casos/</guid>
+      <guid>http://localhost:1313/es/post/2021-09-27-seleccion-de-casos/</guid>
       <description>
         
           &lt;p&gt;Una de las ventajas asociadas a recolectar una gran cantidad de información estriba en que puede ser utilizada para determinar patrones de comportamiento. Una de las formas más comunes de utilización es a través de una Matriz de Riesgo, la cual tomando información de registro, declaraciones y terceros, entre otros, determina el riesgo de incumplimiento a través de un cálculo polinómico. Este riesgo puede ser definido como:&lt;/p&gt;
@@ -771,7 +771,7 @@ Sea por desconocimiento, omisión deliberada o negligencia, es probable que cual
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Es posible asignar entonces a cada contribuyente un valor de riesgo compuesto por dos elementos: la probabilidad de que dicho contribuyente se encuentre en una situación de morosidad y el valor de la misma, calculado como la diferencia monetaria que pudiera surgir si el incumplimiento se materializara. De esta forma, podemos representar el riesgo en el plano cartesiano, donde Y representa la probabilidad de incumplimento y X la diferencia monetaria. Entonces, la matriz de riesgo es la relación binaria (X e Y) de los valores de riesgo de cada uno de los contribuyentes para un período determinado, con el mayor riesgo representando mayor probabilidad y mayor diferencia monetaria. Si se asignan a tramos fijos, puede obtenerse algo como la figura a continuación, donde los tramos más oscuros son los más riesgosos.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://leobelen.github.io/images/Risk_Matrix_ejemplo.png&#34;&gt;&lt;figcaption&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/Risk_Matrix_ejemplo.png&#34;&gt;&lt;figcaption&gt;
       &lt;h4&gt;Representación de una Matriz de Riesgo en el plano cartesiano&lt;/h4&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -787,17 +787,17 @@ Sin embargo, con tener a los contribuyentes segmentados no es suficiente. En el 
     
     <item>
       <title>Un anteproyecto de Código Tributario Argentino</title>
-      <link>https://leobelen.github.io/es/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/</link>
+      <link>http://localhost:1313/es/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/</guid>
+      <guid>http://localhost:1313/es/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/</guid>
       <description>
         
           &lt;p&gt;Sin perjuicio de los cambios propuestos por la Administración Central, es claro que uno de los problemas más acuciantes de la tributación actual es el envejecimiento: La ley primordial, 11.683 de Procedimiento Tributario fue sancionada en los años 30, teniendo su último texto ordenado en 1998, con lo cual muchas de las soluciones que propone están desactualizadas (por ejemplo no había sistemas informáticos en ese entonces) o han cambiado tanto que son difícilmente reconocibles (por ejemplo el proceso de ejecución fiscal).&lt;/p&gt;
 &lt;p&gt;Para empeorar, existe un gran abanico de normas que regulan esa actividad, desde leyes y decretos hasta resoluciones generales de DGI/AFIP, y aún doctrina, dado que numerosos conceptos requieren aclaración por parte de las autoridades de aplicación. Proyectos como la &lt;a href=&#34;https://biblioteca.afip.gob.ar&#34;&gt;biblioteca electrónica de AFIP&lt;/a&gt;, creada a finales de los 90s, o &lt;a href=&#34;https://www.saij.gob.ar&#34;&gt;SAIJ&lt;/a&gt;, anterior a ésta, han permitido reducir el costo de aprendizaje al ofrecer una interface con todas las referencias y modificaciones que una norma pueda tener, pero no alcanza.&lt;/p&gt;
 &lt;p&gt;En ese marco, hace unos 15 años inicié un ejercicio de compilación y actualización de normas tributarias, de las que surgió un Anteproyecto de Código Tributario que puede ser relevante en una economía deprimida por el COVID. Aunque el mismo esta claramente desactualizado, tal vez puede ser reiniciado si hay suficiente interés por parte de la sociedad, cosa que en su momento no había.&lt;/p&gt;
 &lt;p&gt;Siempre se habla de una reforma tributaria, pero en general se subestima el trabajo faraónico que esta importa, siendo este tal vez el momento para unificar criterios, actualizar conceptos y ordenar las cuentas, con la esperanza de tener reglas de juego que fomenten la inversión, el desarrollo y mejoren la calidad de vida de todos, reduciendo los costos de los ciudadanos y aumentando la eficiencia.&lt;/p&gt;
-&lt;p&gt;Pueden acceder a un avance de esta obra aquí: &lt;a href=&#34;https://leobelen.github.io/pdfs/apcta_main.pdf&#34;&gt;Anteproyecto de Código Tributario&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Pueden acceder a un avance de esta obra aquí: &lt;a href=&#34;http://localhost:1313/pdfs/apcta_main.pdf&#34;&gt;Anteproyecto de Código Tributario&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Espero les guste y lo consideren util como un punto de partida interesante.&lt;/p&gt;
 
         
@@ -806,10 +806,10 @@ Sin embargo, con tener a los contribuyentes segmentados no es suficiente. En el 
     
     <item>
       <title>Impacto del factor humano en un cambio paradigmático en las Administraciones Tributarias</title>
-      <link>https://leobelen.github.io/es/post/2021-07-15-impacto-del-factor-humano-en-un-cambio-paradigm%C3%A1tico-en-las-administraciones-tributarias/</link>
+      <link>http://localhost:1313/es/post/2021-07-15-impacto-del-factor-humano-en-un-cambio-paradigm%C3%A1tico-en-las-administraciones-tributarias/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2021-07-15-impacto-del-factor-humano-en-un-cambio-paradigm%C3%A1tico-en-las-administraciones-tributarias/</guid>
+      <guid>http://localhost:1313/es/post/2021-07-15-impacto-del-factor-humano-en-un-cambio-paradigm%C3%A1tico-en-las-administraciones-tributarias/</guid>
       <description>
         
           &lt;p&gt;Esta tesis fue motivada por la falta de literatura especifica para el cambio organizacional en estructuras del estado dedicadas principalmente a la administración de impuestos, lo que ha generado una cultura de empirismo que puede ser apreciada claramente en diferentes partes del mundo, como se verá durante el desarrollo. En principio, en la actualidad el “motor del cambio” por antonomasia resulta ser la tecnología (es decir, la implementación de un ITAS o programa de gestión administrativa), sin embargo, este factor es uno entre muchos otros. En particular, esta tesis fue realizada con el fin de analizar el impacto del impacto del factor humano en los cambios paradigmáticos en las administraciones tributarias y las mejoras que pueden ser introducidas para maximizar los mismos. Para ello, se analizó la teoría aplicable y se han realizado encuestas en diferentes administraciones (incluyendo organizaciones de Argentina, Guatemala y Barbados) y una serie de entrevistas a especialistas en la materia.&lt;/p&gt;
@@ -821,10 +821,10 @@ Sin embargo, con tener a los contribuyentes segmentados no es suficiente. En el 
     
     <item>
       <title>Argentum</title>
-      <link>https://leobelen.github.io/es/post/2021-02-23-argentum/</link>
+      <link>http://localhost:1313/es/post/2021-02-23-argentum/</link>
       <pubDate>Tue, 23 Feb 2021 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2021-02-23-argentum/</guid>
+      <guid>http://localhost:1313/es/post/2021-02-23-argentum/</guid>
       <description>
         
           &lt;p&gt;Hace algun tiempo, junto con Alejandro Baranek, luego de una reunión con los creadores de una moneda digital denominada &lt;a href=&#34;https://monedapar.com.ar&#34;&gt;Moneda Par&lt;/a&gt;, desarrollamos el marco teórico para una moneda digital que solucionase algunos de los problemas existentes en Argentina en ese momento, mayormente la inflación.&lt;/p&gt;
@@ -836,10 +836,10 @@ Sin embargo, con tener a los contribuyentes segmentados no es suficiente. En el 
     
     <item>
       <title>Estudios socioconómicos sobre SDMX</title>
-      <link>https://leobelen.github.io/es/post/2017-10-04-estudios-sociocon%C3%B3micos-sobre-sdmx/</link>
+      <link>http://localhost:1313/es/post/2017-10-04-estudios-sociocon%C3%B3micos-sobre-sdmx/</link>
       <pubDate>Wed, 04 Oct 2017 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2017-10-04-estudios-sociocon%C3%B3micos-sobre-sdmx/</guid>
+      <guid>http://localhost:1313/es/post/2017-10-04-estudios-sociocon%C3%B3micos-sobre-sdmx/</guid>
       <description>
         
           &lt;p&gt;Un trabajo que presentamos en 2017 en la conferencia de SDMX en Addis Abeba, Etiopía, sobre estudios socioeconómicos sobre SDMX. Pueden ver el paper resultante &lt;a href=&#34;https://ec.europa.eu/eurostat/cros/system/files/proof_of_concept_of_reproducible_socioeconomic_analysis_over_sdmx_paper.pdf&#34;&gt;aqui&lt;/a&gt; (en inglés) y la presentación original &lt;a href=&#34;https://ec.europa.eu/eurostat/cros/system/files/proof_of_concept_of_reproducible_socioeconomic_analysis_over_sdmx_presentation_0.pdf&#34;&gt;aqui&lt;/a&gt; (también en inglés).&lt;/p&gt;
@@ -850,10 +850,10 @@ Sin embargo, con tener a los contribuyentes segmentados no es suficiente. En el 
     
     <item>
       <title>qbotics y la Conquista del Espacio Interno: un Sistema de Compensación para Recursos de Agua Dulce</title>
-      <link>https://leobelen.github.io/es/post/2017-07-01-qbotics/</link>
+      <link>http://localhost:1313/es/post/2017-07-01-qbotics/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2017-07-01-qbotics/</guid>
+      <guid>http://localhost:1313/es/post/2017-07-01-qbotics/</guid>
       <description>
         
           &lt;p&gt;Un trabajo de aprovechamiento de recursos hídricos usando tecnologías innovadoras y muy prometedoras en el campo de la geometría. Un avance puede ser visto aquí: &lt;a href=&#34;https://balance-unbalance2017.org/events/qbotics-and-the-conquest-of-the-inner-space-a-compensation-system-for-fresh-water-resources/&#34;&gt;qbotics and the conquest of the -inner- space: a compensation system for fresh water resources&lt;/a&gt; (en inglés).&lt;/p&gt;

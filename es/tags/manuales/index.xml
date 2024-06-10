@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manuales on El Blog de Leonardo Belén</title>
-    <link>https://leobelen.github.io/es/tags/manuales/</link>
+    <link>http://localhost:1313/es/tags/manuales/</link>
     <description>Recent content in Manuales on El Blog de Leonardo Belén</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>Copyright © 2017-2024, Leonardo Javier Belén; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 22 Jun 2022 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/es/tags/manuales/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jun 2022 00:00:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/es/tags/manuales/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Principios de Administración Tributaria</title>
-      <link>https://leobelen.github.io/es/post/2022-06-22-principios-de-adm-tributaria/</link>
+      <link>http://localhost:1313/es/post/2022-06-22-principios-de-adm-tributaria/</link>
       <pubDate>Wed, 22 Jun 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2022-06-22-principios-de-adm-tributaria/</guid>
+      <guid>http://localhost:1313/es/post/2022-06-22-principios-de-adm-tributaria/</guid>
       <description>
         
           &lt;p&gt;Una parte interesante de haber trabajado en administraciones tributarias durante años es que uno aprende el marco general y las mejores prácticas para llevar adelante la tarea. No importa la jurisdicción, a esta altura muchos de los problemas que presentan todas ella son los mismos y parten muchas veces del hecho de que muchos de sus integrantes no entienden del todo el porque de su accionar. Si, claro, ven claramente lo micro, pero muchas veces fallan en ver lo macro, y así, el conjunto de tareas puede que a veces no sea el mejor.&lt;/p&gt;
 &lt;p&gt;Sin embargo, aún más interesante fue entender que mucho de lo que sucede dentro de una de estas instituciones no está escrito públicamente, y por tanto muchos de los funcionarios de las mismas están obligados o bien a &amp;quot;inventar la rueda cada vez&amp;quot;, o leer notas o publicaciones que poco enseñan realmente (salvo experiencias aisladas en otros lugares del mundo) o - si tienen mucha suerte - ir a alguna conferencia donde puedan aprender algo nuevo, si es que el tema de la conferencia es realmente novedoso. Muchas de las conferencias, como todo en la vida, son sólo para presentar algún resultado, pero más que nada para hacer contactos.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;La Ley - Flyer 1&#34; src=&#34;https://leobelen.github.io/images/Prin_adm_trib_flyer_1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;La Ley - Flyer 1&#34; src=&#34;http://localhost:1313/images/Prin_adm_trib_flyer_1.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;En este contexto, muchas personas que quieren aprender y mejorar se encuentran con un techo y la realidad es que en mi experiencia, no importa en que lugar del mundo se esté, las tareas son las mismas y la gestión es básicamente la misma. Y resulta que no estoy solo en esto: en 2015 el Fondo Monetario Internacional puso a disposición del público una herramienta que justamente ayuda a los Estados a estimar el avance y utilizar mejores prácticas, denominado &lt;a href=&#34;https://www.tadat.org&#34;&gt;TADAT&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;La Ley - Flyer 2&#34; src=&#34;https://leobelen.github.io/images/Prin_adm_trib_flyer_2.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;La Ley - Flyer 2&#34; src=&#34;http://localhost:1313/images/Prin_adm_trib_flyer_2.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Aunque este movimiento fue largamente celebrado, dado que ahora era posible comparar administraciones tributarias, de forma equitativa, la verdad es que falta un manual de administración tributaria que muestre de forma didáctica, unificada y desinteresada los conceptos, los principios y las mejores prácticas en la materia junto con ideas para aplicar, tanto para jurisdicciones sin recursos como para aquellas que quieren mejorar cada día más.&lt;/p&gt;
 &lt;p&gt;Publicado por Thomson Reuters - La Ley &lt;a href=&#34;https://tienda.thomsonreuters.com.ar/978-987-03-4377-6%E2%80%8B-principios-de-administracion-tributaria/p&#34;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Espero les guste y lo consideren útil como un punto de partida interesante.&lt;/p&gt;
@@ -31,10 +31,10 @@
     
     <item>
       <title>Selección de Casos en una Administración Tributaria: Manejando el Riesgo</title>
-      <link>https://leobelen.github.io/es/post/2021-09-27-seleccion-de-casos/</link>
+      <link>http://localhost:1313/es/post/2021-09-27-seleccion-de-casos/</link>
       <pubDate>Mon, 27 Sep 2021 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2021-09-27-seleccion-de-casos/</guid>
+      <guid>http://localhost:1313/es/post/2021-09-27-seleccion-de-casos/</guid>
       <description>
         
           &lt;p&gt;Una de las ventajas asociadas a recolectar una gran cantidad de información estriba en que puede ser utilizada para determinar patrones de comportamiento. Una de las formas más comunes de utilización es a través de una Matriz de Riesgo, la cual tomando información de registro, declaraciones y terceros, entre otros, determina el riesgo de incumplimiento a través de un cálculo polinómico. Este riesgo puede ser definido como:&lt;/p&gt;
@@ -73,7 +73,7 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Es posible asignar entonces a cada contribuyente un valor de riesgo compuesto por dos elementos: la probabilidad de que dicho contribuyente se encuentre en una situación de morosidad y el valor de la misma, calculado como la diferencia monetaria que pudiera surgir si el incumplimiento se materializara. De esta forma, podemos representar el riesgo en el plano cartesiano, donde Y representa la probabilidad de incumplimento y X la diferencia monetaria. Entonces, la matriz de riesgo es la relación binaria (X e Y) de los valores de riesgo de cada uno de los contribuyentes para un período determinado, con el mayor riesgo representando mayor probabilidad y mayor diferencia monetaria. Si se asignan a tramos fijos, puede obtenerse algo como la figura a continuación, donde los tramos más oscuros son los más riesgosos.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://leobelen.github.io/images/Risk_Matrix_ejemplo.png&#34;&gt;&lt;figcaption&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/Risk_Matrix_ejemplo.png&#34;&gt;&lt;figcaption&gt;
       &lt;h4&gt;Representación de una Matriz de Riesgo en el plano cartesiano&lt;/h4&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
