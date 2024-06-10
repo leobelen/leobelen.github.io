@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Principios on El Blog de Leonardo Belén</title>
-    <link>https://leobelen.github.io/es/tags/principios/</link>
+    <link>http://localhost:1313/es/tags/principios/</link>
     <description>Recent content in Principios on El Blog de Leonardo Belén</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <copyright>Copyright © 2017-2022, Leonardo Javier Belén; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 14 Sep 2022 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/es/tags/principios/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2017-2024, Leonardo Javier Belén; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 14 Sep 2022 00:00:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/es/tags/principios/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>El Principio de Afectación del Ahorro</title>
-      <link>https://leobelen.github.io/es/post/2022-09-14-principio-de-afectacion-del-ahorro/</link>
+      <link>http://localhost:1313/es/post/2022-09-14-principio-de-afectacion-del-ahorro/</link>
       <pubDate>Wed, 14 Sep 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2022-09-14-principio-de-afectacion-del-ahorro/</guid>
+      <guid>http://localhost:1313/es/post/2022-09-14-principio-de-afectacion-del-ahorro/</guid>
       <description>
         
           &lt;p&gt;Los montos pagados en concepto de impuestos afectan mayormente a la capacidad de ahorro de los contribuyentes afectados. Dicho de otra forma, si la presión tributaria sube a un nivel que sobrepasa la capacidad de ahorro, lo esperable es que llegue un momento en que ese contribuyente ya no cumpla con sus obligaciones tributarias, forzando al mismo a entrar en una bola de nieve fiscal, una situación donde en el mejor escenario suscribirá sucesivos planes de pago por las deudas tributarias contraídas hasta que finalmente cese completamente sus pagos en función de la inmensidad de la deuda en función de sus ingresos.&lt;/p&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>El Principio de Transparencia en la Administración</title>
-      <link>https://leobelen.github.io/es/post/2022-09-13-principio-de-transparencia/</link>
+      <link>http://localhost:1313/es/post/2022-09-13-principio-de-transparencia/</link>
       <pubDate>Tue, 13 Sep 2022 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/es/post/2022-09-13-principio-de-transparencia/</guid>
+      <guid>http://localhost:1313/es/post/2022-09-13-principio-de-transparencia/</guid>
       <description>
         
           &lt;p&gt;El principio de transparencia implica que todos los actores involucrados en una transacción con la administración pueden cotejar la información de la misma, principalmente en cuanto a declaraciones juradas, estados contables y datos de proceso, en función de su nivel de responsabilidad en ella.&lt;/p&gt;

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Infrastructure on Leonardo Belén&#39;s Blog</title>
-    <link>https://leobelen.github.io/tags/infrastructure/</link>
+    <link>http://localhost:1313/tags/infrastructure/</link>
     <description>Recent content in Infrastructure on Leonardo Belén&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2017-2022, Leonardo Javier Belén; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 06 May 2024 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/tags/infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2017-2024, Leonardo Javier Belén; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 06 May 2024 00:00:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/tags/infrastructure/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering Collection in Tax and Financial Administration: Strategies and Best Practices</title>
-      <link>https://leobelen.github.io/post/2024-05-06-dominando-la-recaudacion-en-la-administracion-tributaria-financiera/</link>
+      <link>http://localhost:1313/post/2024-05-06-dominando-la-recaudacion-en-la-administracion-tributaria-financiera/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/post/2024-05-06-dominando-la-recaudacion-en-la-administracion-tributaria-financiera/</guid>
+      <guid>http://localhost:1313/post/2024-05-06-dominando-la-recaudacion-en-la-administracion-tributaria-financiera/</guid>
       <description>
         
           &lt;p&gt;Effective collection in tax and financial administration is crucial for maintaining a healthy financial position and ensuring the smooth operation of an organization. However, collecting outstanding debts can be a challenging task, often requiring a strategic approach and a deep understanding of the various factors that influence collection success. In this blog post, we will explore some key strategies and best practices to improve collection in tax and financial administration.&lt;/p&gt;
@@ -43,10 +43,10 @@
     
     <item>
       <title>Maximizing the Impact of Artificial Intelligence on Tax Administration Operations</title>
-      <link>https://leobelen.github.io/post/2024-04-29-inteligencia-artificial-e-impuestos/</link>
+      <link>http://localhost:1313/post/2024-04-29-inteligencia-artificial-e-impuestos/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/post/2024-04-29-inteligencia-artificial-e-impuestos/</guid>
+      <guid>http://localhost:1313/post/2024-04-29-inteligencia-artificial-e-impuestos/</guid>
       <description>
         
           &lt;p&gt;In the realm of Tax Administrations, the integration of Artificial Intelligence (AI) is revolutionizing traditional practices, offering a myriad of benefits across various operational areas. As a professional blog writer, let&#39;s delve into the key areas that stand to benefit the most from the implementation of AI in tax administration operations.&lt;/p&gt;
@@ -70,14 +70,14 @@
     
     <item>
       <title>Antares</title>
-      <link>https://leobelen.github.io/post/2024-04-16-antares/</link>
+      <link>http://localhost:1313/post/2024-04-16-antares/</link>
       <pubDate>Tue, 16 Apr 2024 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/post/2024-04-16-antares/</guid>
+      <guid>http://localhost:1313/post/2024-04-16-antares/</guid>
       <description>
         
           &lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
-&lt;p&gt;An important part of the general proposal, initiated by the previous posts (in particular the &lt;a href=&#34;https://leobelen.github.io/post/2022-06-22-principios-de-adm-tributaria/&#34;&gt;tax administration manual&lt;/a&gt; and the &lt;a href=&#34;https://leobelen.github.io/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/&#34;&gt;draft Tax Code&lt;/a&gt;) is the program that can be used to carry it out. Actually, some time ago I developed an Integrated Tax Administration System (ITAS), called Antares.&lt;/p&gt;
+&lt;p&gt;An important part of the general proposal, initiated by the previous posts (in particular the &lt;a href=&#34;http://localhost:1313/post/2022-06-22-principios-de-adm-tributaria/&#34;&gt;tax administration manual&lt;/a&gt; and the &lt;a href=&#34;http://localhost:1313/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/&#34;&gt;draft Tax Code&lt;/a&gt;) is the program that can be used to carry it out. Actually, some time ago I developed an Integrated Tax Administration System (ITAS), called Antares.&lt;/p&gt;
 &lt;h1 id=&#34;architecture&#34;&gt;Architecture&lt;/h1&gt;
 &lt;p&gt;From the beginning, the project was focused as a tool that could meet the following characteristics:&lt;/p&gt;
 &lt;ul&gt;

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Leaks on Leonardo Belén&#39;s Blog</title>
-    <link>https://leobelen.github.io/tags/data-leaks/</link>
+    <link>http://localhost:1313/tags/data-leaks/</link>
     <description>Recent content in Data Leaks on Leonardo Belén&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2017-2022, Leonardo Javier Belén; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 13 May 2024 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/tags/data-leaks/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2017-2024, Leonardo Javier Belén; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 13 May 2024 00:00:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/tags/data-leaks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Leaks in Tax Administrations: A Serious Threat to Taxpayer Privacy</title>
-      <link>https://leobelen.github.io/post/2024-05-13-data-leaks-en-ats/</link>
+      <link>http://localhost:1313/post/2024-05-13-data-leaks-en-ats/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/post/2024-05-13-data-leaks-en-ats/</guid>
+      <guid>http://localhost:1313/post/2024-05-13-data-leaks-en-ats/</guid>
       <description>
         
           &lt;p&gt;In today&#39;s digital age, data breaches and leaks have become an increasingly common occurrence, affecting organizations across various sectors, including tax administrations. The sensitive nature of the information handled by tax authorities, such as taxpayer financial data and personal details, makes them prime targets for cyber criminals and malicious actors. Data leaks in tax administrations can have severe consequences, including a breach of taxpayer privacy, financial losses, and a loss of public trust in the government&#39;s ability to safeguard sensitive information.&lt;/p&gt;
