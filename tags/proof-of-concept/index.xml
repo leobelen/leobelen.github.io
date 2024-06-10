@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proof of Concept on Leonardo Belén&#39;s Blog</title>
+    <link>https://leobelen.github.io/tags/proof-of-concept/</link>
+    <description>Recent content in Proof of Concept on Leonardo Belén&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2017-2024, Leonardo Javier Belén; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 16 Apr 2024 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/tags/proof-of-concept/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Antares</title>
+      <link>https://leobelen.github.io/post/2024-04-16-antares/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 -0300</pubDate>
+      
+      <guid>https://leobelen.github.io/post/2024-04-16-antares/</guid>
+      <description>
+        
+          &lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;An important part of the general proposal, initiated by the previous posts (in particular the &lt;a href=&#34;https://leobelen.github.io/post/2022-06-22-principios-de-adm-tributaria/&#34;&gt;tax administration manual&lt;/a&gt; and the &lt;a href=&#34;https://leobelen.github.io/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/&#34;&gt;draft Tax Code&lt;/a&gt;) is the program that can be used to carry it out. Actually, some time ago I developed an Integrated Tax Administration System (ITAS), called Antares.&lt;/p&gt;
+&lt;h1 id=&#34;architecture&#34;&gt;Architecture&lt;/h1&gt;
+&lt;p&gt;From the beginning, the project was focused as a tool that could meet the following characteristics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;be easy to install and test.&lt;/li&gt;
+&lt;li&gt;highly parameterizable.&lt;/li&gt;
+&lt;li&gt;based on free software technologies (such as the &lt;a href=&#34;https://www.gnu.org/licenses/&#34;&gt;GNU&lt;/a&gt; license).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As a result of the above, the system works with the following technological components:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.postgresql.org&#34;&gt;Postgres&lt;/a&gt; as a database.&lt;/li&gt;
+&lt;li&gt;Web interface.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.docker.com&#34;&gt;Docker&lt;/a&gt; as a deployment technology.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;components&#34;&gt;Components&lt;/h1&gt;
+&lt;p&gt;The system provides the tools to fully implement an ITAS, including:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A parameterizable document manager, which allows editing, viewing and printing (the latter not implemented in the demo).&lt;/li&gt;
+&lt;li&gt;A checking account, which maintains balances, transactions, and calculates interest and penalties.&lt;/li&gt;
+&lt;li&gt;A vector of obligations.&lt;/li&gt;
+&lt;li&gt;A workflow manager.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I hope you like it and find it useful as an interesting starting point, anything you can contact me at &lt;a href=&#34;mailto:leobelen@gmail.com&#34;&gt;leobelen@gmail.com&lt;/a&gt;.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

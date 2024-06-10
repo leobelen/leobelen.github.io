@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blockchain on Leonardo Belén&#39;s Blog</title>
+    <link>https://leobelen.github.io/tags/blockchain/</link>
+    <description>Recent content in Blockchain on Leonardo Belén&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2017-2024, Leonardo Javier Belén; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 23 Feb 2021 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Argentum</title>
+      <link>https://leobelen.github.io/post/2021-02-23-argentum/</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 -0300</pubDate>
+      
+      <guid>https://leobelen.github.io/post/2021-02-23-argentum/</guid>
+      <description>
+        
+          &lt;p&gt;Some time ago, together with Alejandro Baranek, after a meeting with the creators of a digital currency called &lt;a href=&#34;https://monedapar.com.ar&#34;&gt;Moneda Par&lt;/a&gt;, we developed the theoretical framework for a digital currency that would solve some of the existing problems in Argentina at that time, mainly inflation.&lt;/p&gt;
+&lt;p&gt;As a result, Argentum emerged, whose paper can be consulted &lt;a href=&#34;https://arxiv.org/abs/1912.09569&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

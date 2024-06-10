@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monedas Digitales on El Blog de Leonardo Belén</title>
+    <link>https://leobelen.github.io/es/tags/monedas-digitales/</link>
+    <description>Recent content in Monedas Digitales on El Blog de Leonardo Belén</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>Copyright © 2017-2024, Leonardo Javier Belén; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 23 Feb 2021 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/es/tags/monedas-digitales/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Argentum</title>
+      <link>https://leobelen.github.io/es/post/2021-02-23-argentum/</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 -0300</pubDate>
+      
+      <guid>https://leobelen.github.io/es/post/2021-02-23-argentum/</guid>
+      <description>
+        
+          &lt;p&gt;Hace algun tiempo, junto con Alejandro Baranek, luego de una reunión con los creadores de una moneda digital denominada &lt;a href=&#34;https://monedapar.com.ar&#34;&gt;Moneda Par&lt;/a&gt;, desarrollamos el marco teórico para una moneda digital que solucionase algunos de los problemas existentes en Argentina en ese momento, mayormente la inflación.&lt;/p&gt;
+&lt;p&gt;Como resultado de ello, surgió Argentum, cuyo paper pueden consultar &lt;a href=&#34;https://arxiv.org/abs/1912.09569&#34;&gt;aqui&lt;/a&gt; (en inglés).&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
