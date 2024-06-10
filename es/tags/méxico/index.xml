@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>México on El Blog de Leonardo Belén</title>
+    <link>https://leobelen.github.io/es/tags/m%C3%A9xico/</link>
+    <description>Recent content in México on El Blog de Leonardo Belén</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>Copyright © 2017-2024, Leonardo Javier Belén; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 09 Sep 2022 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/es/tags/m%C3%A9xico/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>México y BEPS</title>
+      <link>https://leobelen.github.io/es/post/2022-09-09-mexico-y-beps/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 -0300</pubDate>
+      
+      <guid>https://leobelen.github.io/es/post/2022-09-09-mexico-y-beps/</guid>
+      <description>
+        
+          &lt;p&gt;Hace unos años una empresa que ofrece un programa de contabilidad en Estados Unidos me pidió evaluar el impacto de BEPS en Mexico. De ese estudio, que fue mucho más que lo que esperaban, salió este mini paper que pueden consultar &lt;a href=&#34;https://leobelen.github.io/pdfs/mexico_beps_premier.pdf&#34;&gt;en este enlace&lt;/a&gt; (&lt;a href=&#34;https://vixra.org/abs/1811.0098&#34;&gt;originalmente publicado en viXra&lt;/a&gt;) (en inglés).&lt;/p&gt;
+&lt;p&gt;Es interesante tener en cuenta que - en función de lo publicado en Clarin el día 8/9/2022 acerca de un acuerdo AFIP-IRS &lt;a href=&#34;https://www.clarin.com/economia/sergio-massa-va-dolares-argentinos-ee-uu-contadores-locales-escepticos_0_sAaFzpjtDM.html&#34;&gt;según se ve en esta nota&lt;/a&gt; - este trabajo puede ayudar a entender como debería funcionar para el caso mexicano.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuales on El Blog de Leonardo Belén</title>
+    <link>https://leobelen.github.io/es/tags/manuales/</link>
+    <description>Recent content in Manuales on El Blog de Leonardo Belén</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>Copyright © 2017-2024, Leonardo Javier Belén; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 22 Jun 2022 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/es/tags/manuales/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Principios de Administración Tributaria</title>
+      <link>https://leobelen.github.io/es/post/2022-06-22-principios-de-adm-tributaria/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 -0300</pubDate>
+      
+      <guid>https://leobelen.github.io/es/post/2022-06-22-principios-de-adm-tributaria/</guid>
+      <description>
+        
+          &lt;p&gt;Una parte interesante de haber trabajado en administraciones tributarias durante años es que uno aprende el marco general y las mejores prácticas para llevar adelante la tarea. No importa la jurisdicción, a esta altura muchos de los problemas que presentan todas ella son los mismos y parten muchas veces del hecho de que muchos de sus integrantes no entienden del todo el porque de su accionar. Si, claro, ven claramente lo micro, pero muchas veces fallan en ver lo macro, y así, el conjunto de tareas puede que a veces no sea el mejor.&lt;/p&gt;
+&lt;p&gt;Sin embargo, aún más interesante fue entender que mucho de lo que sucede dentro de una de estas instituciones no está escrito públicamente, y por tanto muchos de los funcionarios de las mismas están obligados o bien a &amp;quot;inventar la rueda cada vez&amp;quot;, o leer notas o publicaciones que poco enseñan realmente (salvo experiencias aisladas en otros lugares del mundo) o - si tienen mucha suerte - ir a alguna conferencia donde puedan aprender algo nuevo, si es que el tema de la conferencia es realmente novedoso. Muchas de las conferencias, como todo en la vida, son sólo para presentar algún resultado, pero más que nada para hacer contactos.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;La Ley - Flyer 1&#34; src=&#34;https://leobelen.github.io/images/Prin_adm_trib_flyer_1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;En este contexto, muchas personas que quieren aprender y mejorar se encuentran con un techo y la realidad es que en mi experiencia, no importa en que lugar del mundo se esté, las tareas son las mismas y la gestión es básicamente la misma. Y resulta que no estoy solo en esto: en 2015 el Fondo Monetario Internacional puso a disposición del público una herramienta que justamente ayuda a los Estados a estimar el avance y utilizar mejores prácticas, denominado &lt;a href=&#34;https://www.tadat.org&#34;&gt;TADAT&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;La Ley - Flyer 2&#34; src=&#34;https://leobelen.github.io/images/Prin_adm_trib_flyer_2.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Aunque este movimiento fue largamente celebrado, dado que ahora era posible comparar administraciones tributarias, de forma equitativa, la verdad es que falta un manual de administración tributaria que muestre de forma didáctica, unificada y desinteresada los conceptos, los principios y las mejores prácticas en la materia junto con ideas para aplicar, tanto para jurisdicciones sin recursos como para aquellas que quieren mejorar cada día más.&lt;/p&gt;
+&lt;p&gt;Publicado por Thomson Reuters - La Ley &lt;a href=&#34;https://tienda.thomsonreuters.com.ar/978-987-03-4377-6%E2%80%8B-principios-de-administracion-tributaria/p&#34;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Espero les guste y lo consideren útil como un punto de partida interesante.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Selección de Casos en una Administración Tributaria: Manejando el Riesgo</title>
+      <link>https://leobelen.github.io/es/post/2021-09-27-seleccion-de-casos/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 -0300</pubDate>
+      
+      <guid>https://leobelen.github.io/es/post/2021-09-27-seleccion-de-casos/</guid>
+      <description>
+        
+          &lt;p&gt;Una de las ventajas asociadas a recolectar una gran cantidad de información estriba en que puede ser utilizada para determinar patrones de comportamiento. Una de las formas más comunes de utilización es a través de una Matriz de Riesgo, la cual tomando información de registro, declaraciones y terceros, entre otros, determina el riesgo de incumplimiento a través de un cálculo polinómico. Este riesgo puede ser definido como:&lt;/p&gt;
+&lt;p&gt;$$ Matriz = (Riesgo; Cantidad)$$&lt;/p&gt;
+&lt;p&gt;Donde:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;\( Riesgo = \sum\limits*{i=1}^n{a_i p_i} \)&lt;/li&gt;
+&lt;li&gt;\( Cantidad = \max\limits*{i=1}^n{(v_1)} \)&lt;/li&gt;
+&lt;li&gt;\( p_i \) es el peso del término&lt;/li&gt;
+&lt;li&gt;\( a_i \) es el riesgo asociado a un caso particular&lt;/li&gt;
+&lt;li&gt;\( v_i \) es el valor monetario en dinero para cada caso de riesgo&lt;/li&gt;
+&lt;li&gt;\( n \) es el número de casos&lt;/li&gt;
+&lt;li&gt;\( i \) es el contador de casos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Siempre que se cumplan las siguientes condiciones:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;\( \sum\limits_{i=1}^n p_i = 1 \)&lt;/li&gt;
+&lt;li&gt;\(0 \leq p_1 \leq 1 \)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;En este contexto es necesario determinar los tipos de datos que pueden formar parte del polinomio dado que deberían ser parte de un ITAS:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;datos de registro, que son aquellos que normalmente constituyen riesgos sistémicos, dado que no implican un comportamiento específico por parte del contribuyente. Estos datos pueden ser diferenciados en:
+&lt;ol&gt;
+&lt;li&gt;datos de catálogo, en otras palabras, aquellos en los cuales existen un número finito de elementos posibles, a los cuales se les asigna un valor fijo. Un ejemplo en este sentido es el tipo de contribuyente, que en su denominación más básica incluye sólo Individuales y Corporativos.&lt;/li&gt;
+&lt;li&gt;datos de segmentación, o aquellos que están segmentados en rangos o bandas que tienen valores predefinidos y se les asigna un valor basado en ellos.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;datos de declaraciones juradas, los cuales son tal vez los más utilizados.&lt;/li&gt;
+&lt;li&gt;datos de terceros, dados por la diferencia entre el valor declarado por el contribuyente y el valor informado por el tercero.&lt;/li&gt;
+&lt;li&gt;datos de comportamiento, referidos a las acciones del contribuyente en la administración tributaria. Normalmente estas incluyen:
+&lt;ol&gt;
+&lt;li&gt;cantidad de casos en gestión de cobranza&lt;/li&gt;
+&lt;li&gt;cantidad de casos de fiscalización que resultaron en un incremento en el monto a pagar&lt;/li&gt;
+&lt;li&gt;cantidad de casos en que el contribuyente declaró pasada la fecha de vencimiento de la obligación.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Es posible asignar entonces a cada contribuyente un valor de riesgo compuesto por dos elementos: la probabilidad de que dicho contribuyente se encuentre en una situación de morosidad y el valor de la misma, calculado como la diferencia monetaria que pudiera surgir si el incumplimiento se materializara. De esta forma, podemos representar el riesgo en el plano cartesiano, donde Y representa la probabilidad de incumplimento y X la diferencia monetaria. Entonces, la matriz de riesgo es la relación binaria (X e Y) de los valores de riesgo de cada uno de los contribuyentes para un período determinado, con el mayor riesgo representando mayor probabilidad y mayor diferencia monetaria. Si se asignan a tramos fijos, puede obtenerse algo como la figura a continuación, donde los tramos más oscuros son los más riesgosos.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://leobelen.github.io/images/Risk_Matrix_ejemplo.png&#34;&gt;&lt;figcaption&gt;
+      &lt;h4&gt;Representación de una Matriz de Riesgo en el plano cartesiano&lt;/h4&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+Sin embargo, con tener a los contribuyentes segmentados no es suficiente. En el ejemplo expuesto en la figura anterior al final se contará con un número de contribuyentes en cada tramo que hace un buen reporte, pero se puede hacer más. Por ejemplo, si se asignan tareas para cada uno de ellos, entonces el ITAS puede tomar decisiones e iniciar acciones sin intervención humana, mejorando en gran medida el desempeño general y simplificando el proceso general de selección de casos. Si definimos que para los tramos 1 a 10 (los más riegosos) se iniciará una auditoría completa, para los tramos 11 a 28 una verificación y para los tramos 29 a 55 una verificación básica (y mayormente informatizada de su situación), tendremos mucho del trabajo hecho. Por supuesto, nada obsta a que puedan definirse acciones en otras áreas de la AT si se considera pertinente, por ejemplo los tramos 65-72 sean asignados como casos de cobro administrativo, siempre y cuando el marco organizacional lo permita.&lt;/p&gt;
+&lt;p&gt;Ahora, es interesante notar que mucho del trabajo de selección estriba en definir los parámetros de operación del algoritmo, que al ser generales limitan en gran medida arbitrariedades y formentan la tranparencia, pero a costa de contar con suficiente información acerca del contribuyente como para tomar las mejores decisiones posibles y de un estudio pormenorizado que permita el acoplamiento con el plan de auditoría propuesto. Dicho de otra forma, de nada sirve por ejemplo tener un polinomio del tipo \( Riesgo = Entidad Financiera * 0.5 + Sin Incumplimentos Pasados * 0.5 \) si la cantidad de contribuyentes es minúscula y han sido auditadas recientemente. Tampoco sirve un polinomio del tipo \( Riesgo = Abogados * 0.5 + Contadores * 0.5 \) si el registro no cuenta con información externa, por ejemplo de las asociaciones profesionales respectivas para validar la actividad económica.&lt;/p&gt;
+&lt;p&gt;Un tema recurrente en la implementación de una Matriz de Riesgo consiste la desconfianza que genera al principio una selección de casos pobre (o en otras palabras, no muy interesante) basada en errores en la información. En estos casos - y hasta no terminar el saneamiento de la información - lo cierto que tal vez puedan seleccionarse casos poco interesantes desde el punto de la fiscalización, pero a medida que los mismos sean completados, el porcentaje de casos interesantes crecerá a medida que la calidad de la información y la experiencia organizaciónal alcancen el nivel adecuado, por lo que sin duda todos los casos son - de alguna forma - interesantes o útiles para la función de fiscalización.&lt;/p&gt;
+&lt;p&gt;Como se ve, el éxito de la Matriz de Riesgo depende en gran medida de la información obrante en el ITAS, la calidad de esos datos, las fuentes externas de información y un conocimiento profundo de la base de contribuyentes. Del otro lado, una vez superados estos obstáculos puede asumirse que la definición del polinimio de riesgo se realiza junto con la planificación de fiscalización y luego al final del período se controlan los resultados.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuals on Leonardo Belén&#39;s Blog</title>
+    <link>https://leobelen.github.io/tags/manuals/</link>
+    <description>Recent content in Manuals on Leonardo Belén&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2017-2024, Leonardo Javier Belén; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 22 Jun 2022 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/tags/manuals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tax Administration Principles</title>
+      <link>https://leobelen.github.io/post/2022-06-22-principios-de-adm-tributaria/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 -0300</pubDate>
+      
+      <guid>https://leobelen.github.io/post/2022-06-22-principios-de-adm-tributaria/</guid>
+      <description>
+        
+          &lt;p&gt;An interesting part of having worked in tax administrations for years is that you learn the general framework and best practices to get the job done. No matter the jurisdiction, at this point many of the problems that all of them present are the same and many times start from the fact that many of its members do not fully understand the reason for their actions. Yes, of course, they clearly see the micro, but many times they fail to see the macro, and thus, the set of tasks may sometimes not be the best.&lt;/p&gt;
+&lt;p&gt;However, it was even more interesting to understand that much of what happens within one of these institutions is not publicly written, and therefore many of their officials are obliged either to &amp;quot;invent the wheel every time&amp;quot;, or to read notes or publications that really teach little (except isolated experiences in other parts of the world) or - if they are very lucky - go to a conference where they can learn something new, if the topic of the conference is really new. Many of the conferences, like everything in life, are only to present a result, but more than anything to make contacts.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;La Ley - Flyer 1&#34; src=&#34;https://leobelen.github.io/images/Prin_adm_trib_flyer_1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;In this context, many people who want to learn and improve find themselves with a ceiling and the reality is that in my experience, no matter where in the world they are, the tasks are the same and the management is basically the same. And it turns out that I am not alone in this: in 2015 the International Monetary Fund made available to the public a tool that precisely helps States to estimate progress and use best practices, called &lt;a href=&#34;https://www.tadat.org&#34;&gt;TADAT&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;La Ley - Flyer 2&#34; src=&#34;https://leobelen.github.io/images/Prin_adm_trib_flyer_2.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Although this movement was long celebrated, given that it was now possible to compare tax administrations, in an equitable way, the truth is that there is a lack of a tax administration manual that shows in a didactic, unified and disinterested way the concepts, principles and best practices in the material along with ideas to apply, both for jurisdictions without resources and for those that want to improve every day.&lt;/p&gt;
+&lt;p&gt;Published in Spanish by Thomson Reuters - La Ley &lt;a href=&#34;https://tienda.thomsonreuters.com.ar/978-987-03-4377-6%E2%80%8B-principios-de-administracion-tributaria/p&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I hope you like it and find it useful as an interesting starting point.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Case Selection in a Tax Administration: Managing Risk</title>
+      <link>https://leobelen.github.io/post/2021-09-27-seleccion-de-casos/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 -0300</pubDate>
+      
+      <guid>https://leobelen.github.io/post/2021-09-27-seleccion-de-casos/</guid>
+      <description>
+        
+          &lt;p&gt;One of the advantages associated with collecting a large amount of information is that it can be used to determine patterns of behavior. One of the most common forms of use is through a Risk Matrix, which, taking registration information, declarations and third party information, among others, determines the risk of non-compliance through a polynomial calculation. This risk can be defined as:&lt;/p&gt;
+&lt;p&gt;$$ Matrix = (Risk; Quantity)$$&lt;/p&gt;
+&lt;p&gt;Where:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;\( Risk = \sum\limits*{i=1}^n{a_i p_i} \)&lt;/li&gt;
+&lt;li&gt;\( Quantity = \max\limits*{i=1}^n{(v_1)} \)&lt;/li&gt;
+&lt;li&gt;\( p_i \) is the terms weight&lt;/li&gt;
+&lt;li&gt;\( a_i \) is the risk associated to a particular case&lt;/li&gt;
+&lt;li&gt;\( v_i \) is the monetary amount of the case&lt;/li&gt;
+&lt;li&gt;\( n \) is the number of cases&lt;/li&gt;
+&lt;li&gt;\( i \) is the count of cases&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Provided the following conditions are met :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;\( \sum\limits_{i=1}^n p_i = 1 \)&lt;/li&gt;
+&lt;li&gt;\(0 \leq p_1 \leq 1 \)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In this context, it is necessary to determine the types of data that can be part of the polynomial since they should be part of an ITAS:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Registration data, which are those that normally constitute systemic risks, since they do not imply specific behavior on the part of the taxpayer. These data can be differentiated into:
+&lt;ol&gt;
+&lt;li&gt;catalog data, in other words, those in which there are a finite number of possible elements, to which a fixed value is assigned. An example in this sense is the type of taxpayer, which in its most basic name includes only Individual and Corporate.&lt;/li&gt;
+&lt;li&gt;Segmentation data, or those that are segmented into ranges or bands that have predefined values and are assigned a value based on them.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Return data, which are perhaps the most widely used.&lt;/li&gt;
+&lt;li&gt;Third party data, given by the difference between the value declared by the taxpayer and the value reported by the third party.&lt;/li&gt;
+&lt;li&gt;Behavioral data, referring to the actions of the taxpayer in the tax administration. These usually include:
+&lt;ol&gt;
+&lt;li&gt;number of cases in collection management&lt;/li&gt;
+&lt;li&gt;number of audit cases that resulted in an increase in the amount to be paid&lt;/li&gt;
+&lt;li&gt;number of cases in which the taxpayer declared the expiration date of the obligation passed.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;It is then possible to assign each taxpayer a risk value made up of two elements: the probability that said taxpayer is in default and its value, calculated as the monetary difference that could arise if the default were to materialize. In this way, we can represent risk on the Cartesian plane, where Y represents the probability of default and X the monetary difference. Then, the risk matrix is the binary relationship (X and Y) of the risk values of each of the taxpayers for a given period, with the highest risk representing the highest probability and the highest monetary difference. If they are assigned to fixed spans, you can get something like the figure below, where the darkest spans are the riskiest.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://leobelen.github.io/images/Risk_Matrix_ejemplo.png&#34;&gt;&lt;figcaption&gt;
+      &lt;h4&gt;Risk Matrix Representation in the Cartesian plane&lt;/h4&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;However, having the taxpayers segmented is not enough. In the example shown in the previous figure at the end, there will be a number of taxpayers in each section that makes a good report, but more can be done. For example, if tasks are assigned to each of them, then ITAS can make decisions and initiate actions without human intervention, greatly improving overall performance and simplifying the overall case selection process. If we define that for sections 1 to 10 (the most risky) a complete audit will begin, for sections 11 to 28 a verification and for sections 29 to 55 a basic verification (and mostly computerized of their situation), we will have much of the work done. Of course, nothing prevents the definition of actions in other areas of the TA if it is considered pertinent, for example sections 65-72 are assigned as administrative collection cases, as long as the organizational framework allows it.&lt;/p&gt;
+&lt;p&gt;Now, it is interesting to note that much of the selection work lies in defining the algorithm&#39;s operating parameters, which, being general, limit arbitrariness to a great extent and encourage transparency, but at the cost of having enough information about the taxpayer to take the best possible decisions and a detailed study that allows coupling with the proposed audit plan. In other words, it is useless, for example, to have a polynomial of the type \(Risk = Financial Institution * 0.5 + No Past Defaults * 0.5 \) if the number of taxpayers is minuscule and they have been recently audited. Nor is a polynomial of the type \(Risk = Lawyers * 0.5 + Accountants * 0.5 \) useful if the registry does not have external information, for example from the respective professional associations to validate the economic activity.&lt;/p&gt;
+&lt;p&gt;A recurring theme in the implementation of a Risk Matrix consists of the distrust that initially generates a poor selection of cases (or in other words, not very interesting) based on errors in the information. In these cases - and until the cleanup of the information is finished - it is true that perhaps uninteresting cases can be selected from the point of inspection, but as they are completed, the percentage of interesting cases will grow as the information quality and organizational experience reach the appropriate level, so that without a doubt all cases are - in some way - interesting or useful for the audit function.&lt;/p&gt;
+&lt;p&gt;As can be seen, the success of the Risk Matrix depends to a great extent on the information available in the ITAS, the quality of that data, external sources of information and a deep knowledge of the taxpayer base. On the other hand, once these obstacles have been overcome, it can be assumed that the definition of the risk polynimio is carried out together with the audit planning and then at the end of the period the results are controlled.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
