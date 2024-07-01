@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/es/tags/administraci%C3%B3n-tributaria/</loc>
-    <lastmod>2024-06-24T00:00:00-03:00</lastmod>
+    <lastmod>2024-07-01T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/</loc>
-    <lastmod>2024-06-24T00:00:00-03:00</lastmod>
+    <lastmod>2024-07-01T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -23,11 +23,30 @@
                 href="https://leobelen.github.io/es/"
                 />
   </url><url>
+    <loc>https://leobelen.github.io/es/tags/ganancias/</loc>
+    <lastmod>2024-07-01T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/impuesto-sobre-la-renta/</loc>
+    <lastmod>2024-07-01T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/post/2024-07-01-mejorando-la-recaudacion-del-impuesto-sobre-la-rentaganancias-estrategias-para-las-administraciones-tributarias/</loc>
+    <lastmod>2024-07-01T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2024-07-01-mejorando-la-recaudacion-del-impuesto-sobre-la-rentaganancias-estrategias-para-las-administraciones-tributarias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2024-07-01-mejorando-la-recaudacion-del-impuesto-sobre-la-rentaganancias-estrategias-para-las-administraciones-tributarias/"
+                />
+  </url><url>
     <loc>https://leobelen.github.io/es/tags/pa%C3%ADses-en-v%C3%ADas-de-desarrollo/</loc>
-    <lastmod>2024-06-24T00:00:00-03:00</lastmod>
+    <lastmod>2024-07-01T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/post/</loc>
-    <lastmod>2024-06-24T00:00:00-03:00</lastmod>
+    <lastmod>2024-07-01T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,6 +61,24 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://leobelen.github.io/es/post/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/</loc>
+    <lastmod>2024-07-01T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/tags/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/post/2024-06-24-revolucionando-la-administracion-tributaria-con-tadat/</loc>
@@ -68,24 +105,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://leobelen.github.io/es/tags/tadat/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/es/tags/</loc>
-    <lastmod>2024-06-24T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://leobelen.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/tags/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/post/2024-06-17-administracion-tributaria-en-el-mundo-en-desarrollo-una-clave-para-alcanzar-los-objetivos-del-pilar-2-de-la-ocde/</loc>
