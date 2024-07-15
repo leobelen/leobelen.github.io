@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/es/tags/administraci%C3%B3n-tributaria/</loc>
-    <lastmod>2024-07-08T00:00:00-03:00</lastmod>
+    <lastmod>2024-07-15T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/cambio-organizacional/</loc>
+    <lastmod>2024-07-15T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/</loc>
-    <lastmod>2024-07-08T00:00:00-03:00</lastmod>
+    <lastmod>2024-07-15T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,6 +24,58 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://leobelen.github.io/es/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/modelo-revolucionario-vs-evolucionario/</loc>
+    <lastmod>2024-07-15T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/post/</loc>
+    <lastmod>2024-07-15T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/</loc>
+    <lastmod>2024-07-15T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/tags/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/es/post/2024-07-15-transformando-una-administracion-tributaria/</loc>
+    <lastmod>2024-07-15T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2024-07-15-transformando-una-administracion-tributaria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2024-07-15-transformando-una-administracion-tributaria/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/post/2024-07-08-el-poder-transformador-de-los-datos-en-la-administracion-tributaria/</loc>
@@ -42,44 +97,8 @@
     <loc>https://leobelen.github.io/es/tags/pa%C3%ADses-en-v%C3%ADas-de-desarrollo/</loc>
     <lastmod>2024-07-08T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://leobelen.github.io/es/post/</loc>
-    <lastmod>2024-07-08T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://leobelen.github.io/fr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/post/"
-                />
-  </url><url>
     <loc>https://leobelen.github.io/es/tags/principio-de-fuente-%C3%BAnica-de-verdad/</loc>
     <lastmod>2024-07-08T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/es/tags/</loc>
-    <lastmod>2024-07-08T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://leobelen.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/tags/"
-                />
   </url><url>
     <loc>https://leobelen.github.io/es/tags/ganancias/</loc>
     <lastmod>2024-07-01T00:00:00-03:00</lastmod>
@@ -327,9 +346,6 @@
                 hreflang="es"
                 href="https://leobelen.github.io/es/post/2023-05-15-financiamiento-internacional-estructuras-gubernamentales-comportamiento-funcionarios/"
                 />
-  </url><url>
-    <loc>https://leobelen.github.io/es/tags/cambio-organizacional/</loc>
-    <lastmod>2023-04-18T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/post/2023-04-18-herramientas-del-cambio-organizacional-en-estructuras-del-estado/</loc>
     <lastmod>2023-04-18T00:00:00-03:00</lastmod>
