@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/</loc>
-    <lastmod>2024-07-15T00:00:00-03:00</lastmod>
+    <lastmod>2024-07-16T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -20,11 +20,14 @@
                 href="https://leobelen.github.io/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/tags/change-management/</loc>
-    <lastmod>2024-07-15T00:00:00-03:00</lastmod>
+    <loc>https://leobelen.github.io/tags/income-tax/</loc>
+    <lastmod>2024-07-16T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/tags/mid-tax-period/</loc>
+    <lastmod>2024-07-16T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/post/</loc>
-    <lastmod>2024-07-15T00:00:00-03:00</lastmod>
+    <lastmod>2024-07-16T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -41,11 +44,8 @@
                 href="https://leobelen.github.io/post/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/tags/revolutionary-vs-evolutionary-models/</loc>
-    <lastmod>2024-07-15T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>https://leobelen.github.io/tags/</loc>
-    <lastmod>2024-07-15T00:00:00-03:00</lastmod>
+    <lastmod>2024-07-16T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -63,6 +63,25 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/tax-administration/</loc>
+    <lastmod>2024-07-16T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/post/2024-07-16-por-que-no-es-practico-cambiar-la-reglamentacion-de-ganancias-mitad-del-periodo-impositivo/</loc>
+    <lastmod>2024-07-16T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2024-07-16-por-que-no-es-practico-cambiar-la-reglamentacion-de-ganancias-mitad-del-periodo-impositivo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2024-07-16-por-que-no-es-practico-cambiar-la-reglamentacion-de-ganancias-mitad-del-periodo-impositivo/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/change-management/</loc>
+    <lastmod>2024-07-15T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/tags/revolutionary-vs-evolutionary-models/</loc>
     <lastmod>2024-07-15T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/post/2024-07-15-transformando-una-administracion-tributaria/</loc>
@@ -109,9 +128,6 @@
                 hreflang="en"
                 href="https://leobelen.github.io/post/2024-07-01-mejorando-la-recaudacion-del-impuesto-sobre-la-rentaganancias-estrategias-para-las-administraciones-tributarias/"
                 />
-  </url><url>
-    <loc>https://leobelen.github.io/tags/income-tax/</loc>
-    <lastmod>2024-07-01T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/tags/oecd/</loc>
     <lastmod>2024-06-17T00:00:00-03:00</lastmod>
