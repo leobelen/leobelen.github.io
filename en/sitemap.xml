@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/</loc>
-    <lastmod>2024-08-19T00:00:00-03:00</lastmod>
+    <lastmod>2024-08-26T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -20,21 +20,11 @@
                 href="https://leobelen.github.io/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/tags/audit/</loc>
-    <lastmod>2024-08-19T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/tags/audit/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/tags/audit/"
-                />
+    <loc>https://leobelen.github.io/tags/compliance/</loc>
+    <lastmod>2024-08-26T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/post/</loc>
-    <lastmod>2024-08-19T00:00:00-03:00</lastmod>
+    <lastmod>2024-08-26T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -52,7 +42,7 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/</loc>
-    <lastmod>2024-08-19T00:00:00-03:00</lastmod>
+    <lastmod>2024-08-26T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -70,6 +60,22 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/tax-administration/</loc>
+    <lastmod>2024-08-26T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/post/2024-08-26-la-importancia-del-cumplimiento-tributario-y-las-mejores-practicas-para-las-administraciones-tributarias/</loc>
+    <lastmod>2024-08-26T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2024-08-26-la-importancia-del-cumplimiento-tributario-y-las-mejores-practicas-para-las-administraciones-tributarias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2024-08-26-la-importancia-del-cumplimiento-tributario-y-las-mejores-practicas-para-las-administraciones-tributarias/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/audit/</loc>
     <lastmod>2024-08-19T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/post/2024-08-19-la-importancia-de-las-auditorias-de-la-administracion-tributaria/</loc>
