@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/</loc>
-    <lastmod>2024-09-30T00:00:00-03:00</lastmod>
+    <lastmod>2024-10-07T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -18,6 +18,64 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://leobelen.github.io/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/administrative-collection/</loc>
+    <lastmod>2024-10-07T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/tags/enforced-collection/</loc>
+    <lastmod>2024-10-07T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/post/</loc>
+    <lastmod>2024-10-07T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/</loc>
+    <lastmod>2024-10-07T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/tax-administration/</loc>
+    <lastmod>2024-10-07T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/post/2024-10-07-entender-la-recaudacion-de-impuestos-cobranza-administrativa-versus-ejecutiva/</loc>
+    <lastmod>2024-10-07T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2024-10-07-entender-la-recaudacion-de-impuestos-cobranza-administrativa-versus-ejecutiva/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2024-10-07-entender-la-recaudacion-de-impuestos-cobranza-administrativa-versus-ejecutiva/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/accrual-accounting/</loc>
@@ -37,45 +95,6 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/cash-basis-accounting/</loc>
-    <lastmod>2024-09-30T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/post/</loc>
-    <lastmod>2024-09-30T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://leobelen.github.io/fr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/post/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/tags/</loc>
-    <lastmod>2024-09-30T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://leobelen.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/tags/tax-administration/</loc>
     <lastmod>2024-09-30T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/post/2024-09-23-como-afrontar-los-desafios-de-la-participacion-de-los-contribuyentes-estrategias-para-una-administracion-tributaria-eficaz/</loc>
