@@ -3,16 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/es/tags/administraci%C3%B3n-tributaria/</loc>
-    <lastmod>2024-10-07T00:00:00-03:00</lastmod>
+    <lastmod>2024-10-14T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://leobelen.github.io/es/tags/cobranza-administrativa/</loc>
-    <lastmod>2024-10-07T00:00:00-03:00</lastmod>
+    <loc>https://leobelen.github.io/es/post/2024-10-14-adopcion-de-la-transformacion-digital-el-poder-de-la-presentacion-electronica-de-declaraciones-juradas-en-la-administracion-tributaria/</loc>
+    <lastmod>2024-10-14T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2024-10-14-adopcion-de-la-transformacion-digital-el-poder-de-la-presentacion-electronica-de-declaraciones-juradas-en-la-administracion-tributaria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2024-10-14-adopcion-de-la-transformacion-digital-el-poder-de-la-presentacion-electronica-de-declaraciones-juradas-en-la-administracion-tributaria/"
+                />
   </url><url>
-    <loc>https://leobelen.github.io/es/tags/cobranza-ejecutiva/</loc>
-    <lastmod>2024-10-07T00:00:00-03:00</lastmod>
+    <loc>https://leobelen.github.io/es/tags/declaraciones-juradas/</loc>
+    <lastmod>2024-10-14T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/</loc>
-    <lastmod>2024-10-07T00:00:00-03:00</lastmod>
+    <lastmod>2024-10-14T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,21 +39,11 @@
                 href="https://leobelen.github.io/es/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/es/post/2024-10-07-entender-la-recaudacion-de-impuestos-cobranza-administrativa-versus-ejecutiva/</loc>
-    <lastmod>2024-10-07T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/post/2024-10-07-entender-la-recaudacion-de-impuestos-cobranza-administrativa-versus-ejecutiva/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/post/2024-10-07-entender-la-recaudacion-de-impuestos-cobranza-administrativa-versus-ejecutiva/"
-                />
+    <loc>https://leobelen.github.io/es/tags/pagos/</loc>
+    <lastmod>2024-10-14T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/post/</loc>
-    <lastmod>2024-10-07T00:00:00-03:00</lastmod>
+    <lastmod>2024-10-14T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -60,8 +60,11 @@
                 href="https://leobelen.github.io/es/post/"
                 />
   </url><url>
+    <loc>https://leobelen.github.io/es/tags/presentaci%C3%B3n-electr%C3%B3nica/</loc>
+    <lastmod>2024-10-14T00:00:00-03:00</lastmod>
+  </url><url>
     <loc>https://leobelen.github.io/es/tags/</loc>
-    <lastmod>2024-10-07T00:00:00-03:00</lastmod>
+    <lastmod>2024-10-14T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -76,6 +79,25 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://leobelen.github.io/es/tags/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/cobranza-administrativa/</loc>
+    <lastmod>2024-10-07T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/cobranza-ejecutiva/</loc>
+    <lastmod>2024-10-07T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/post/2024-10-07-entender-la-recaudacion-de-impuestos-cobranza-administrativa-versus-ejecutiva/</loc>
+    <lastmod>2024-10-07T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2024-10-07-entender-la-recaudacion-de-impuestos-cobranza-administrativa-versus-ejecutiva/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2024-10-07-entender-la-recaudacion-de-impuestos-cobranza-administrativa-versus-ejecutiva/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/tags/contabilidad-de-caja/</loc>
