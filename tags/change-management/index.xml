@@ -2,95 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Change Management on Leonardo Belén&#39;s Blog</title>
-    <link>https://leobelen.github.io/tags/change-management/</link>
+    <link>http://localhost:1313/tags/change-management/</link>
     <description>Recent content in Change Management on Leonardo Belén&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2017-2024, Leonardo Javier Belén; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/tags/change-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/tags/change-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tax Administration Transformation: Evolutionary vs Revolutionary Change Management models</title>
-      <link>https://leobelen.github.io/post/2024-07-15-transformando-una-administracion-tributaria/</link>
+      <link>http://localhost:1313/post/2024-07-15-transformando-una-administracion-tributaria/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/post/2024-07-15-transformando-una-administracion-tributaria/</guid>
+      <guid>http://localhost:1313/post/2024-07-15-transformando-una-administracion-tributaria/</guid>
       <description>
         
-          &lt;p&gt;Tax administration is a critical function for governments in the developing world, as it provides the revenue needed to fund essential public services and infrastructure. However, tax administrations in these countries often face significant challenges that can hinder their effectiveness and efficiency.&lt;/p&gt;
+          
+            &lt;p&gt;Tax administration is a critical function for governments in the developing world, as it provides the revenue needed to fund essential public services and infrastructure. However, tax administrations in these countries often face significant challenges that can hinder their effectiveness and efficiency.&lt;/p&gt;
 &lt;h2 id=&#34;challenges-in-developing-countries&#34;&gt;Challenges in Developing Countries&lt;/h2&gt;
 &lt;p&gt;One of the primary challenges is the large informal sector, where economic activity takes place outside the formal tax system. This makes it difficult for tax administrations to accurately identify and assess the tax liabilities of a significant portion of the population&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. Additionally, many developing countries struggle with low taxpayer compliance, as citizens may be distrustful of the government or lack understanding of their tax obligations&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;p&gt;Another challenge is the limited resources and capacity of tax administrations in developing countries. They often lack the necessary technology, infrastructure, and skilled personnel to effectively administer the tax system. This can lead to inefficient processes, poor data management, and difficulties in detecting and addressing tax evasion and fraud&lt;sup id=&#34;fnref1:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref1:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;leveraging-technology-for-transformation&#34;&gt;Leveraging Technology for Transformation&lt;/h2&gt;
-&lt;p&gt;To address these challenges, many developing countries are turning to technology-driven solutions to modernize their tax administrations. The adoption of Integrated Tax Administration Systems (ITAS) is a key strategy in this regard&lt;sup id=&#34;fnref2:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;p&gt;ITAS integrate various tax-related functions, such as taxpayer registration, return filing, payment processing, and compliance management, into a single, comprehensive platform. These systems can significantly improve the efficiency and effectiveness of tax administration by automating routine tasks, enhancing data management, and facilitating better decision-making&lt;sup id=&#34;fnref3:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref1:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;evolutionary-vs-revolutionary-change-management&#34;&gt;Evolutionary vs. Revolutionary Change Management&lt;/h2&gt;
-&lt;p&gt;When implementing an ITAS, tax administrations in developing countries must carefully consider their approach to change management. There are two main strategies: evolutionary and revolutionary.&lt;/p&gt;
-&lt;h3 id=&#34;evolutionary-change-management&#34;&gt;Evolutionary Change Management&lt;/h3&gt;
-&lt;p&gt;The evolutionary approach involves gradual, incremental changes to the existing tax administration system. This can be a more cautious and risk-averse approach, as it allows the organization to adapt to changes in a step-by-step manner.&lt;/p&gt;
-&lt;p&gt;Pros:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Minimizes disruption to ongoing operations&lt;/li&gt;
-&lt;li&gt;Allows for continuous learning and adjustment&lt;/li&gt;
-&lt;li&gt;Builds buy-in and support from stakeholders over time&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Cons:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Slower pace of transformation&lt;/li&gt;
-&lt;li&gt;May not address underlying systemic issues as quickly&lt;/li&gt;
-&lt;li&gt;Requires sustained commitment and resources over an extended period&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;revolutionary-change-management&#34;&gt;Revolutionary Change Management&lt;/h3&gt;
-&lt;p&gt;The revolutionary approach involves a more rapid and comprehensive overhaul of the tax administration system. This can be a more ambitious and disruptive approach, but it has the potential to drive transformative change more quickly.&lt;/p&gt;
-&lt;p&gt;Pros:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Faster pace of transformation&lt;/li&gt;
-&lt;li&gt;Opportunity to address underlying systemic issues&lt;/li&gt;
-&lt;li&gt;Potential for greater long-term impact&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Cons:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Higher risk of disruption to ongoing operations&lt;/li&gt;
-&lt;li&gt;Increased resistance from stakeholders&lt;/li&gt;
-&lt;li&gt;Requires significant upfront investment and resources&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;balancing-approaches&#34;&gt;Balancing Approaches&lt;/h2&gt;
-&lt;p&gt;In practice, most successful tax administration transformations in developing countries involve a combination of evolutionary and revolutionary change management strategies. The specific balance between the two approaches will depend on the unique context and constraints of each country&lt;sup id=&#34;fnref2:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;p&gt;For example, a tax administration may start with an evolutionary approach to build momentum and buy-in, followed by a more revolutionary phase to address deeper systemic challenges. Alternatively, a revolutionary approach may be necessary to establish a new, integrated tax administration system, followed by an evolutionary phase to continuously improve and refine the system.&lt;/p&gt;
-&lt;p&gt;Regardless of the approach, it is crucial for tax administrations in developing countries to carefully plan and manage the change process, engage stakeholders, and ensure the long-term sustainability and scalability of the transformation&lt;sup id=&#34;fnref3:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref1:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;p&gt;Written with the support of &lt;a href=&#34;https://perplexity.ai&#34;&gt;perplexity.ai&lt;/a&gt; and &lt;a href=&#34;chat.bing.com&#34;&gt;chat.bing.com&lt;/a&gt;.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr /&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;OECD. (2022). Tax Administration 2022: Comparative Information on OECD and other Advanced and Emerging Economies. OECD Publishing, Paris.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref1:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref2:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref3:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;http://jota.website/article/view/8&#34;&gt;http://jota.website/article/view/8&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref1:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref2:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref3:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:3&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.oecd.org/en/publications/tax-administration-2023_900b6382-en.html&#34;&gt;https://www.oecd.org/en/publications/tax-administration-2023_900b6382-en.html&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref1:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:4&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://projects.worldbank.org/en/projects-operations/project-detail/P127807&#34;&gt;https://projects.worldbank.org/en/projects-operations/project-detail/P127807&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref1:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-
+          
+          
         
       </description>
     </item>
     
     <item>
       <title>Impact of the human factor in a paradigmatic change in Tax Administrations</title>
-      <link>https://leobelen.github.io/post/2021-07-15-impacto-del-factor-humano-en-un-cambio-paradigm%C3%A1tico-en-las-administraciones-tributarias/</link>
+      <link>http://localhost:1313/post/2021-07-15-impacto-del-factor-humano-en-un-cambio-paradigm%C3%A1tico-en-las-administraciones-tributarias/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/post/2021-07-15-impacto-del-factor-humano-en-un-cambio-paradigm%C3%A1tico-en-las-administraciones-tributarias/</guid>
+      <guid>http://localhost:1313/post/2021-07-15-impacto-del-factor-humano-en-un-cambio-paradigm%C3%A1tico-en-las-administraciones-tributarias/</guid>
       <description>
         
-          &lt;p&gt;This thesis was motivated by the lack of specific literature for organizational change in state structures mainly dedicated to tax administration, which has generated a culture of empiricism that can be clearly appreciated in different parts of the world, as will be seen during the developing. In principle, today the &amp;quot;engine of change&amp;quot; par excellence turns out to be technology (that is, the implementation of an ITAS or administrative management program), however, this factor is one among many others. In particular, this thesis was carried out in order to analyze the impact of the human factor on paradigmatic changes in tax administrations and the improvements that can be introduced to maximize them. For this, the applicable theory was analyzed and surveys have been carried out in different administrations (including organizations in Argentina, Guatemala and Barbados) and a series of interviews with specialists in the field.&lt;/p&gt;
-&lt;p&gt;You can consult it in &lt;a href=&#34;https://repositorio.utdt.edu/handle/utdt/1683&#34;&gt;the online library of the Torcuato Di Tella university&lt;/a&gt; (in Spanish).&lt;/p&gt;
-
+          
+            &lt;p&gt;This thesis was motivated by the lack of specific literature for organizational change in state structures mainly dedicated to tax administration, which has generated a culture of empiricism that can be clearly appreciated in different parts of the world, as will be seen during the developing. In principle, today the &amp;quot;engine of change&amp;quot; par excellence turns out to be technology (that is, the implementation of an ITAS or administrative management program), however, this factor is one among many others. In particular, this thesis was carried out in order to analyze the impact of the human factor on paradigmatic changes in tax administrations and the improvements that can be introduced to maximize them. For this, the applicable theory was analyzed and surveys have been carried out in different administrations (including organizations in Argentina, Guatemala and Barbados) and a series of interviews with specialists in the field.&lt;/p&gt;
+          
+          
         
       </description>
     </item>
