@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Infraestructura on El Blog de Leonardo Belén</title>
-    <link>http://localhost:1313/es/tags/infraestructura/</link>
+    <link>https://leobelen.github.io/es/tags/infraestructura/</link>
     <description>Recent content in Infraestructura on El Blog de Leonardo Belén</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>Copyright © 2017-2024, Leonardo Javier Belén; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 13 May 2024 00:00:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/es/tags/infraestructura/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 May 2024 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/es/tags/infraestructura/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Filtraciones de Datos en las Administraciones Tributarias: Una Amenaza Grave para la Privacidad de los Contribuyentes</title>
-      <link>http://localhost:1313/es/post/2024-05-13-data-leaks-en-ats/</link>
+      <link>https://leobelen.github.io/es/post/2024-05-13-data-leaks-en-ats/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 -0300</pubDate>
       
-      <guid>http://localhost:1313/es/post/2024-05-13-data-leaks-en-ats/</guid>
+      <guid>https://leobelen.github.io/es/post/2024-05-13-data-leaks-en-ats/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Dominando la recaudación en la administración tributaria y financiera: estrategias y mejores prácticas</title>
-      <link>http://localhost:1313/es/post/2024-05-06-dominando-la-recaudacion-en-la-administracion-tributaria-financiera/</link>
+      <link>https://leobelen.github.io/es/post/2024-05-06-dominando-la-recaudacion-en-la-administracion-tributaria-financiera/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 -0300</pubDate>
       
-      <guid>http://localhost:1313/es/post/2024-05-06-dominando-la-recaudacion-en-la-administracion-tributaria-financiera/</guid>
+      <guid>https://leobelen.github.io/es/post/2024-05-06-dominando-la-recaudacion-en-la-administracion-tributaria-financiera/</guid>
       <description>
         
           
@@ -42,10 +42,10 @@
     
     <item>
       <title>Maximizando el Impacto de la Inteligencia Artificial en las Operaciones de las Administraciones Tributarias</title>
-      <link>http://localhost:1313/es/post/2024-04-29-inteligencia-artificial-e-impuestos/</link>
+      <link>https://leobelen.github.io/es/post/2024-04-29-inteligencia-artificial-e-impuestos/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 -0300</pubDate>
       
-      <guid>http://localhost:1313/es/post/2024-04-29-inteligencia-artificial-e-impuestos/</guid>
+      <guid>https://leobelen.github.io/es/post/2024-04-29-inteligencia-artificial-e-impuestos/</guid>
       <description>
         
           
@@ -60,15 +60,15 @@
     
     <item>
       <title>Antares</title>
-      <link>http://localhost:1313/es/post/2024-04-16-antares/</link>
+      <link>https://leobelen.github.io/es/post/2024-04-16-antares/</link>
       <pubDate>Tue, 16 Apr 2024 00:00:00 -0300</pubDate>
       
-      <guid>http://localhost:1313/es/post/2024-04-16-antares/</guid>
+      <guid>https://leobelen.github.io/es/post/2024-04-16-antares/</guid>
       <description>
         
           
             &lt;h1 id=&#34;introducción&#34;&gt;Introducción&lt;/h1&gt;
-&lt;p&gt;Una parte importante de la propuesta general, iniciada por los anteriores posteos (en particular el &lt;a href=&#34;http://localhost:1313/es/post/2022-06-22-principios-de-adm-tributaria/&#34;&gt;manual de administración tributaria&lt;/a&gt; y el &lt;a href=&#34;http://localhost:1313/es/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/&#34;&gt;anteproyecto de Código Tributario&lt;/a&gt;) es el programa que puede ser usado para llevarlo adelante. En realidad, desarrollé hace un tiempo un Sistema Integrado de Administración Tributaria (ITAS, por sus siglas en inglés), denominado Antares, que está en inglés y fue originalmente presentado ante un banco de desarrollo.&lt;/p&gt;
+&lt;p&gt;Una parte importante de la propuesta general, iniciada por los anteriores posteos (en particular el &lt;a href=&#34;https://leobelen.github.io/es/post/2022-06-22-principios-de-adm-tributaria/&#34;&gt;manual de administración tributaria&lt;/a&gt; y el &lt;a href=&#34;https://leobelen.github.io/es/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/&#34;&gt;anteproyecto de Código Tributario&lt;/a&gt;) es el programa que puede ser usado para llevarlo adelante. En realidad, desarrollé hace un tiempo un Sistema Integrado de Administración Tributaria (ITAS, por sus siglas en inglés), denominado Antares, que está en inglés y fue originalmente presentado ante un banco de desarrollo.&lt;/p&gt;
 &lt;h1 id=&#34;arquitectura&#34;&gt;Arquitectura&lt;/h1&gt;
 &lt;p&gt;Desde un principio, el proyecto fue enfocado como una herramienta que pudiera cumplir con las siguientes características:&lt;/p&gt;
           
