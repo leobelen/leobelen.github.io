@@ -7,7 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>Copyright © 2017-2024, Leonardo Javier Belén; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 21 Oct 2024 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/es/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Oct 2024 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Integración de los Sistemas de Administración Tributaria en las Instituciones Financieras: Cerrando la Brecha</title>
+      <link>https://leobelen.github.io/es/post/2024-10-28-integracion-de-los-sistemas-de-administracion-tributaria-en-las-instituciones-financieras-cerrando-la-brecha/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 -0300</pubDate>
+      
+      <guid>https://leobelen.github.io/es/post/2024-10-28-integracion-de-los-sistemas-de-administracion-tributaria-en-las-instituciones-financieras-cerrando-la-brecha/</guid>
+      <description>
+        
+          
+            &lt;p&gt;En una era de rápidos avances tecnológicos, la integración de los sistemas de administración tributaria con los sistemas de las instituciones financieras se ha convertido en un tema de gran interés a nivel mundial. En esta publicación del blog se analiza cómo se podría adaptar un Sistema Integrado de Administración Tributaria (ITAS) para su uso en instituciones bancarias, las tecnologías y los conceptos necesarios para su implementación y si se pueden conciliar las diferencias entre los sistemas tributarios y financieros.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Comprendiendo las obligaciones en un Sistema Tributario Autodeterminativo</title>
       <link>https://leobelen.github.io/es/post/2024-10-21-comprendiendo-las-obligaciones-en-un-sistema-tributario-autodeterminativo/</link>
@@ -499,7 +515,7 @@ Estas tendencias reflejan la evolución de la cooperación internacional hacia u
         
           
             &lt;h1 id=&#34;algunas-definiciones&#34;&gt;Algunas Definiciones&lt;/h1&gt;
-&lt;p&gt;A los efectos del desarrollo de este post sobre los principios básicos del financiamiento internacional se denominará &amp;quot;Agencia de Crédito (AC)&amp;quot; a aquella que otorga un préstamo a un Estado, y &amp;quot;Agencia de Cooperación Internacional o donante (ACI)&amp;quot; a aquella que otorga recursos no reembolsables.&lt;/p&gt;
+&lt;p&gt;A los efectos del desarrollo de este post sobre los principios básicos del financiamiento internacional se denominará &amp;ldquo;Agencia de Crédito (AC)&amp;rdquo; a aquella que otorga un préstamo a un Estado, y &amp;ldquo;Agencia de Cooperación Internacional o donante (ACI)&amp;rdquo; a aquella que otorga recursos no reembolsables.&lt;/p&gt;
 &lt;p&gt;La diferencia entre ambas fuentes estriba básicamente en que un préstamo (AC) debe ser devuelto por el Estado y un recurso de cooperación (ACI) es no reembolsable.&lt;/p&gt;
           
           
@@ -516,14 +532,14 @@ Estas tendencias reflejan la evolución de la cooperación internacional hacia u
       <description>
         
           
-            &lt;p&gt;Algunas de las mas útiles herramientas dentro del arsenal del cambio organizacional no están disponibles (o su ejecución es tan complicada que lo hacen inviable) en estructuras del Estado. Así, la herramienta de eliminación de los &amp;quot;focos de rebelión&amp;quot; desafectando al personal (despido), es normalmente contraindicada. En función de ello, se cuentan en líneas generales con las siguientes:&lt;/p&gt;
+            &lt;p&gt;Algunas de las mas útiles herramientas dentro del arsenal del cambio organizacional no están disponibles (o su ejecución es tan complicada que lo hacen inviable) en estructuras del Estado. Así, la herramienta de eliminación de los &amp;ldquo;focos de rebelión&amp;rdquo; desafectando al personal (despido), es normalmente contraindicada. En función de ello, se cuentan en líneas generales con las siguientes:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;em&gt;Automatización de procesos&lt;/em&gt;: Esta herramienta esta enfocada en estudiar que se hace hoy, como se puede mejorar y proceder a realizar los sistemas de soporte, junto con todos los cambios asociados (legislación, reglamentos internos, asignación de personal, etc.) para mejorar la eficacia de un proceso.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Campaña de promoción interna&lt;/em&gt;: Esta herramienta debe ser utilizada incluso antes de iniciar las tareas de cambio propiamente dichas y debe estar enfocada en convencer a los actuales funcionarios que el paradigma actual es insuficiente para enfrentar los nuevos desafíos.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Mentorship&lt;/em&gt;: Esta es tal vez la herramienta mas útil ya que de ella suelen salir los lideres internos y los entrenadores. En ese contexto, el mentorship implica que un funcionario normalmente las jóvenes promesas es asignada a uno de los implementadores del cambio como asistente, con la esperanza de que aprenda su paradigma y lo aplique después.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Líderes internos carismáticos&lt;/em&gt;: Muchos de los focos de rebelión, aquellos que pueden retrasar o incluso detener completamente el cambio pueden ser neutralizados sin mayor problema con lideres internos del cambio que inviten a participar a aquellos que plantean la necesidad del cambio. En general, los mejores lideres internos son aquellos que fueron opositores en el pasado, dado que no solo están convencidos del cambio sino que además conocen los planteamientos de los opositores al detalle.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Entrenamiento y capacitación en el nuevo paradigma&lt;/em&gt;: Un cambio paradigmático no sucede de un día al siguiente y para muchos funcionarios es imposible de asimilar sin una ayuda externa, dado que ese cambio implica un abandono de las viejas practicas. Para ellos, las tareas de entrenamiento son necesarias para ayudarlos a moverse a la nueva estrategia. Este entrenamiento debe ser abarcativo no solo de los aspectos más sobresalientes del mismo (como sistemas o marco jurídico) sino también de las motivaciones y razones para él mismo. Además, debe ser continuo en el tiempo.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Retiro voluntario&lt;/em&gt;: Un &amp;quot;foco de rebelión&amp;quot; común esta dado por aquellos que están en sus últimos años de vida profesional y no desean cambiar bajo ningún concepto la metodología dado que asumen que con ello cambian también quienes son. Para ellos, una salida puede ser un esquema de retiro voluntario que los anime a salir de la organización.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Retiro voluntario&lt;/em&gt;: Un &amp;ldquo;foco de rebelión&amp;rdquo; común esta dado por aquellos que están en sus últimos años de vida profesional y no desean cambiar bajo ningún concepto la metodología dado que asumen que con ello cambian también quienes son. Para ellos, una salida puede ser un esquema de retiro voluntario que los anime a salir de la organización.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Remisión a otra área&lt;/em&gt;: Si nada de lo anterior surte efecto, entonces una opción de último recurso es mover al funcionario problemático a un área donde no tenga que experimentar toda la fuerza del cambio organizacional, a efectos de que no sienta el impacto de lleno.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Esta y otras herramientas se encuentran disponibles en la obra &lt;a href=&#34;https://tienda.thomsonreuters.com.ar/978-987-03-4377-6%E2%80%8B-principios-de-administracion-tributaria/p&#34;&gt;Principios de Administración Tributaria&lt;/a&gt; publicado por Thomson Reuters - La Ley.&lt;/p&gt;

@@ -3,26 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/es/tags/administraci%C3%B3n-tributaria/</loc>
-    <lastmod>2024-10-21T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/es/post/2024-10-21-comprendiendo-las-obligaciones-en-un-sistema-tributario-autodeterminativo/</loc>
-    <lastmod>2024-10-21T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/post/2024-10-21-comprendiendo-las-obligaciones-en-un-sistema-tributario-autodeterminativo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/post/2024-10-21-comprendiendo-las-obligaciones-en-un-sistema-tributario-autodeterminativo/"
-                />
+    <lastmod>2024-10-28T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/tags/declaraciones-juradas/</loc>
-    <lastmod>2024-10-21T00:00:00-03:00</lastmod>
+    <lastmod>2024-10-28T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/</loc>
-    <lastmod>2024-10-21T00:00:00-03:00</lastmod>
+    <lastmod>2024-10-28T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,11 +26,24 @@
                 href="https://leobelen.github.io/es/"
                 />
   </url><url>
+    <loc>https://leobelen.github.io/es/post/2024-10-28-integracion-de-los-sistemas-de-administracion-tributaria-en-las-instituciones-financieras-cerrando-la-brecha/</loc>
+    <lastmod>2024-10-28T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2024-10-28-integracion-de-los-sistemas-de-administracion-tributaria-en-las-instituciones-financieras-cerrando-la-brecha/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2024-10-28-integracion-de-los-sistemas-de-administracion-tributaria-en-las-instituciones-financieras-cerrando-la-brecha/"
+                />
+  </url><url>
     <loc>https://leobelen.github.io/es/tags/pagos/</loc>
-    <lastmod>2024-10-21T00:00:00-03:00</lastmod>
+    <lastmod>2024-10-28T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/post/</loc>
-    <lastmod>2024-10-21T00:00:00-03:00</lastmod>
+    <lastmod>2024-10-28T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -61,10 +61,10 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/tags/presentaci%C3%B3n-electr%C3%B3nica/</loc>
-    <lastmod>2024-10-21T00:00:00-03:00</lastmod>
+    <lastmod>2024-10-28T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/tags/</loc>
-    <lastmod>2024-10-21T00:00:00-03:00</lastmod>
+    <lastmod>2024-10-28T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -79,6 +79,19 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://leobelen.github.io/es/tags/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/es/post/2024-10-21-comprendiendo-las-obligaciones-en-un-sistema-tributario-autodeterminativo/</loc>
+    <lastmod>2024-10-21T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2024-10-21-comprendiendo-las-obligaciones-en-un-sistema-tributario-autodeterminativo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2024-10-21-comprendiendo-las-obligaciones-en-un-sistema-tributario-autodeterminativo/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/post/2024-10-14-adopcion-de-la-transformacion-digital-el-poder-de-la-presentacion-electronica-de-declaraciones-juradas-en-la-administracion-tributaria/</loc>
