@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://leobelen.github.io/es/tags/blockchain/</loc>
+    <lastmod>2024-11-04T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/tags/blockchain/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/tags/blockchain/"
+                />
+  </url><url>
     <loc>https://leobelen.github.io/es/</loc>
-    <lastmod>2024-10-28T00:00:00-03:00</lastmod>
+    <lastmod>2024-11-04T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,24 +33,21 @@
                 href="https://leobelen.github.io/es/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/es/tags/integraci%C3%B3n/</loc>
-    <lastmod>2024-10-28T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/es/post/2024-10-28-integracion-de-los-sistemas-de-administracion-tributaria-en-las-instituciones-financieras-cerrando-la-brecha/</loc>
-    <lastmod>2024-10-28T00:00:00-03:00</lastmod>
+    <loc>https://leobelen.github.io/es/post/2024-11-04-la-realidad-de-la-tecnologia-blockchain-en-los-sistemas-de-administracion-tributaria-y-financiera-promesas-obstaculos-y-avances/</loc>
+    <lastmod>2024-11-04T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://leobelen.github.io/post/2024-10-28-integracion-de-los-sistemas-de-administracion-tributaria-en-las-instituciones-financieras-cerrando-la-brecha/"
+                href="https://leobelen.github.io/post/2024-11-04-la-realidad-de-la-tecnologia-blockchain-en-los-sistemas-de-administracion-tributaria-y-financiera-promesas-obstaculos-y-avances/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://leobelen.github.io/es/post/2024-10-28-integracion-de-los-sistemas-de-administracion-tributaria-en-las-instituciones-financieras-cerrando-la-brecha/"
+                href="https://leobelen.github.io/es/post/2024-11-04-la-realidad-de-la-tecnologia-blockchain-en-los-sistemas-de-administracion-tributaria-y-financiera-promesas-obstaculos-y-avances/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/post/</loc>
-    <lastmod>2024-10-28T00:00:00-03:00</lastmod>
+    <lastmod>2024-11-04T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -55,13 +65,13 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/tags/sistema-integrado-de-administraci%C3%B3n-financiera-ifas/</loc>
-    <lastmod>2024-10-28T00:00:00-03:00</lastmod>
+    <lastmod>2024-11-04T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/tags/sistema-integrado-de-administraci%C3%B3n-tributaria-itas/</loc>
-    <lastmod>2024-10-28T00:00:00-03:00</lastmod>
+    <lastmod>2024-11-04T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/tags/</loc>
-    <lastmod>2024-10-28T00:00:00-03:00</lastmod>
+    <lastmod>2024-11-04T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -76,6 +86,22 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://leobelen.github.io/es/tags/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/integraci%C3%B3n/</loc>
+    <lastmod>2024-10-28T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/post/2024-10-28-integracion-de-los-sistemas-de-administracion-tributaria-en-las-instituciones-financieras-cerrando-la-brecha/</loc>
+    <lastmod>2024-10-28T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2024-10-28-integracion-de-los-sistemas-de-administracion-tributaria-en-las-instituciones-financieras-cerrando-la-brecha/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2024-10-28-integracion-de-los-sistemas-de-administracion-tributaria-en-las-instituciones-financieras-cerrando-la-brecha/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/tags/administraci%C3%B3n-tributaria/</loc>
@@ -870,19 +896,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://leobelen.github.io/es/post/2021-02-23-argentum/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/es/tags/blockchain/</loc>
-    <lastmod>2021-02-23T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/tags/blockchain/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/tags/blockchain/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/tags/monedas-digitales/</loc>
