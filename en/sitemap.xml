@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/</loc>
-    <lastmod>2024-11-04T00:00:00-03:00</lastmod>
+    <lastmod>2024-11-11T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -20,8 +20,11 @@
                 href="https://leobelen.github.io/"
                 />
   </url><url>
+    <loc>https://leobelen.github.io/tags/artificial-intelligence-ai/</loc>
+    <lastmod>2024-11-11T00:00:00-03:00</lastmod>
+  </url><url>
     <loc>https://leobelen.github.io/tags/blockchain/</loc>
-    <lastmod>2024-11-04T00:00:00-03:00</lastmod>
+    <lastmod>2024-11-11T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -33,14 +36,30 @@
                 href="https://leobelen.github.io/tags/blockchain/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/tags/integrated-financial-administration-system-ifas/</loc>
-    <lastmod>2024-11-04T00:00:00-03:00</lastmod>
+    <loc>https://leobelen.github.io/tags/data-mining/</loc>
+    <lastmod>2024-11-11T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/tags/document-management/</loc>
+    <lastmod>2024-11-11T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/tags/integrated-tax-administration-system-itas/</loc>
-    <lastmod>2024-11-04T00:00:00-03:00</lastmod>
+    <lastmod>2024-11-11T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/post/2024-11-11-navegando-la-transicion-digital-las-mejores-practicas-para-la-gestion-digital-de-declaraciones-juradas-en-la-administracion-tributaria/</loc>
+    <lastmod>2024-11-11T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2024-11-11-navegando-la-transicion-digital-las-mejores-practicas-para-la-gestion-digital-de-declaraciones-juradas-en-la-administracion-tributaria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2024-11-11-navegando-la-transicion-digital-las-mejores-practicas-para-la-gestion-digital-de-declaraciones-juradas-en-la-administracion-tributaria/"
+                />
   </url><url>
     <loc>https://leobelen.github.io/post/</loc>
-    <lastmod>2024-11-04T00:00:00-03:00</lastmod>
+    <lastmod>2024-11-11T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -58,7 +77,7 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/</loc>
-    <lastmod>2024-11-04T00:00:00-03:00</lastmod>
+    <lastmod>2024-11-11T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -74,6 +93,9 @@
                 hreflang="en"
                 href="https://leobelen.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/integrated-financial-administration-system-ifas/</loc>
+    <lastmod>2024-11-04T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/post/2024-11-04-la-realidad-de-la-tecnologia-blockchain-en-los-sistemas-de-administracion-tributaria-y-financiera-promesas-obstaculos-y-avances/</loc>
     <lastmod>2024-11-04T00:00:00-03:00</lastmod>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/es/tags/blockchain/</loc>
-    <lastmod>2024-11-04T00:00:00-03:00</lastmod>
+    <lastmod>2024-11-11T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/</loc>
-    <lastmod>2024-11-04T00:00:00-03:00</lastmod>
+    <lastmod>2024-11-11T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,21 +33,27 @@
                 href="https://leobelen.github.io/es/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/es/post/2024-11-04-la-realidad-de-la-tecnologia-blockchain-en-los-sistemas-de-administracion-tributaria-y-financiera-promesas-obstaculos-y-avances/</loc>
-    <lastmod>2024-11-04T00:00:00-03:00</lastmod>
+    <loc>https://leobelen.github.io/es/tags/inteligencia-artificial-ai/</loc>
+    <lastmod>2024-11-11T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/miner%C3%ADa-de-datos/</loc>
+    <lastmod>2024-11-11T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/post/2024-11-11-navegando-la-transicion-digital-las-mejores-practicas-para-la-gestion-digital-de-declaraciones-juradas-en-la-administracion-tributaria/</loc>
+    <lastmod>2024-11-11T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://leobelen.github.io/post/2024-11-04-la-realidad-de-la-tecnologia-blockchain-en-los-sistemas-de-administracion-tributaria-y-financiera-promesas-obstaculos-y-avances/"
+                href="https://leobelen.github.io/post/2024-11-11-navegando-la-transicion-digital-las-mejores-practicas-para-la-gestion-digital-de-declaraciones-juradas-en-la-administracion-tributaria/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://leobelen.github.io/es/post/2024-11-04-la-realidad-de-la-tecnologia-blockchain-en-los-sistemas-de-administracion-tributaria-y-financiera-promesas-obstaculos-y-avances/"
+                href="https://leobelen.github.io/es/post/2024-11-11-navegando-la-transicion-digital-las-mejores-practicas-para-la-gestion-digital-de-declaraciones-juradas-en-la-administracion-tributaria/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/post/</loc>
-    <lastmod>2024-11-04T00:00:00-03:00</lastmod>
+    <lastmod>2024-11-11T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -64,14 +70,14 @@
                 href="https://leobelen.github.io/es/post/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/es/tags/sistema-integrado-de-administraci%C3%B3n-financiera-ifas/</loc>
-    <lastmod>2024-11-04T00:00:00-03:00</lastmod>
+    <loc>https://leobelen.github.io/es/tags/sistema-documental/</loc>
+    <lastmod>2024-11-11T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/tags/sistema-integrado-de-administraci%C3%B3n-tributaria-itas/</loc>
-    <lastmod>2024-11-04T00:00:00-03:00</lastmod>
+    <lastmod>2024-11-11T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/tags/</loc>
-    <lastmod>2024-11-04T00:00:00-03:00</lastmod>
+    <lastmod>2024-11-11T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -87,6 +93,22 @@
                 hreflang="es"
                 href="https://leobelen.github.io/es/tags/"
                 />
+  </url><url>
+    <loc>https://leobelen.github.io/es/post/2024-11-04-la-realidad-de-la-tecnologia-blockchain-en-los-sistemas-de-administracion-tributaria-y-financiera-promesas-obstaculos-y-avances/</loc>
+    <lastmod>2024-11-04T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2024-11-04-la-realidad-de-la-tecnologia-blockchain-en-los-sistemas-de-administracion-tributaria-y-financiera-promesas-obstaculos-y-avances/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2024-11-04-la-realidad-de-la-tecnologia-blockchain-en-los-sistemas-de-administracion-tributaria-y-financiera-promesas-obstaculos-y-avances/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/sistema-integrado-de-administraci%C3%B3n-financiera-ifas/</loc>
+    <lastmod>2024-11-04T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/tags/integraci%C3%B3n/</loc>
     <lastmod>2024-10-28T00:00:00-03:00</lastmod>
