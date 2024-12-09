@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/</loc>
-    <lastmod>2024-12-02T00:00:00-03:00</lastmod>
+    <lastmod>2024-12-09T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -20,6 +20,87 @@
                 href="https://leobelen.github.io/"
                 />
   </url><url>
+    <loc>https://leobelen.github.io/tags/artificial-intelligence-ai/</loc>
+    <lastmod>2024-12-09T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/tags/blockchain/</loc>
+    <lastmod>2024-12-09T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/tags/blockchain/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/tags/blockchain/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/innovation/</loc>
+    <lastmod>2024-12-09T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/tags/innovation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/tags/innovation/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/integrated-tax-administration-system-itas/</loc>
+    <lastmod>2024-12-09T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/post/</loc>
+    <lastmod>2024-12-09T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/post/2024-12-09-revolucionando-la-administracion-tributaria-el-poder-de-la-inteligencia-artificial-y-la-cadena-de-bloques-blockchain/</loc>
+    <lastmod>2024-12-09T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2024-12-09-revolucionando-la-administracion-tributaria-el-poder-de-la-inteligencia-artificial-y-la-cadena-de-bloques-blockchain/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2024-12-09-revolucionando-la-administracion-tributaria-el-poder-de-la-inteligencia-artificial-y-la-cadena-de-bloques-blockchain/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/</loc>
+    <lastmod>2024-12-09T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/tags/"
+                />
+  </url><url>
     <loc>https://leobelen.github.io/tags/beps/</loc>
     <lastmod>2024-12-02T00:00:00-03:00</lastmod>
     <xhtml:link
@@ -32,9 +113,6 @@
                 hreflang="en"
                 href="https://leobelen.github.io/tags/beps/"
                 />
-  </url><url>
-    <loc>https://leobelen.github.io/tags/integrated-tax-administration-system-itas/</loc>
-    <lastmod>2024-12-02T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/tags/oecd/</loc>
     <lastmod>2024-12-02T00:00:00-03:00</lastmod>
@@ -52,24 +130,6 @@
     <loc>https://leobelen.github.io/tags/oecd-pillars/</loc>
     <lastmod>2024-12-02T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://leobelen.github.io/post/</loc>
-    <lastmod>2024-12-02T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://leobelen.github.io/fr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/post/"
-                />
-  </url><url>
     <loc>https://leobelen.github.io/post/2024-12-02-revolucionando-la-administracion-tributaria-el-poder-de-la-digitalizacion-para-alcanzar-los-pilares-de-la-ocde-y-los-objetivos-beps/</loc>
     <lastmod>2024-12-02T00:00:00-03:00</lastmod>
     <xhtml:link
@@ -81,40 +141,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://leobelen.github.io/post/2024-12-02-revolucionando-la-administracion-tributaria-el-poder-de-la-digitalizacion-para-alcanzar-los-pilares-de-la-ocde-y-los-objetivos-beps/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/tags/</loc>
-    <lastmod>2024-12-02T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://leobelen.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/tags/artificial-intelligence-ai/</loc>
-    <lastmod>2024-11-11T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/tags/blockchain/</loc>
-    <lastmod>2024-11-11T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/tags/blockchain/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/tags/blockchain/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/data-mining/</loc>
