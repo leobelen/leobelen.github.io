@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/</loc>
-    <lastmod>2024-12-17T00:00:00-03:00</lastmod>
+    <lastmod>2025-01-31T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -19,6 +19,77 @@
                 hreflang="en"
                 href="https://leobelen.github.io/"
                 />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/challenges/</loc>
+    <lastmod>2025-01-31T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/tags/financial-administration/</loc>
+    <lastmod>2025-01-31T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/post/2025-01-31-aprovechamiento-de-la-inteligencia-artificial-conversacional-y-los-masteres-en-derecho-tributario-y-financiero-nivel-mundial-una-perspectiva-de/</loc>
+    <lastmod>2025-01-31T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2025-01-31-aprovechamiento-de-la-inteligencia-artificial-conversacional-y-los-masteres-en-derecho-tributario-y-financiero-nivel-mundial-una-perspectiva-de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2025-01-31-aprovechamiento-de-la-inteligencia-artificial-conversacional-y-los-masteres-en-derecho-tributario-y-financiero-nivel-mundial-una-perspectiva-de/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/large-language-models-llm/</loc>
+    <lastmod>2025-01-31T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/tags/large-language-models-llm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/tags/large-language-models-llm/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/post/</loc>
+    <lastmod>2025-01-31T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/</loc>
+    <lastmod>2025-01-31T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/tax-administration/</loc>
+    <lastmod>2025-01-31T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/tags/best-practices/</loc>
     <lastmod>2024-12-17T00:00:00-03:00</lastmod>
@@ -37,42 +108,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://leobelen.github.io/post/2024-12-17-caracteristicas-clave-y-mejores-practicas-de-los-sistemas-eficaces-de-administracion-tributaria/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/post/</loc>
-    <lastmod>2024-12-17T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://leobelen.github.io/fr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/post/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/tags/</loc>
-    <lastmod>2024-12-17T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://leobelen.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/tags/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/artificial-intelligence-ai/</loc>
@@ -204,9 +239,6 @@
     <lastmod>2024-10-21T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/tags/e-payment/</loc>
-    <lastmod>2024-10-21T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/tags/tax-administration/</loc>
     <lastmod>2024-10-21T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/post/2024-10-21-comprendiendo-las-obligaciones-en-un-sistema-tributario-autodeterminativo/</loc>
@@ -566,9 +598,6 @@
                 hreflang="en"
                 href="https://leobelen.github.io/post/2024-05-27-mejorando-recaudacion-impuestos-mundo-desarrollo-contabilidad-de-devengo/"
                 />
-  </url><url>
-    <loc>https://leobelen.github.io/tags/challenges/</loc>
-    <lastmod>2024-05-20T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/post/2024-05-20-superando-desafios-de-administracion-tributaria-paises-desarrollo/</loc>
     <lastmod>2024-05-20T00:00:00-03:00</lastmod>
