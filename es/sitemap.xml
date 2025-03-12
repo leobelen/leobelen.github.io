@@ -8,9 +8,6 @@
     <loc>https://leobelen.github.io/es/tags/administraci%C3%B3n-tributaria/</loc>
     <lastmod>2025-03-12T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://leobelen.github.io/es/tags/desaf%C3%ADos/</loc>
-    <lastmod>2025-03-12T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>https://leobelen.github.io/es/</loc>
     <lastmod>2025-03-12T00:00:00-03:00</lastmod>
     <xhtml:link
@@ -29,18 +26,8 @@
                 href="https://leobelen.github.io/es/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/es/tags/large-language-models-llm/</loc>
+    <loc>https://leobelen.github.io/es/tags/libros-contables/</loc>
     <lastmod>2025-03-12T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/tags/large-language-models-llm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/tags/large-language-models-llm/"
-                />
   </url><url>
     <loc>https://leobelen.github.io/es/post/</loc>
     <lastmod>2025-03-12T00:00:00-03:00</lastmod>
@@ -78,6 +65,9 @@
                 href="https://leobelen.github.io/es/tags/"
                 />
   </url><url>
+    <loc>https://leobelen.github.io/es/tags/transformaci%C3%B3n-digital/</loc>
+    <lastmod>2025-03-12T00:00:00-03:00</lastmod>
+  </url><url>
     <loc>https://leobelen.github.io/es/post/2025-03-12-transformacion-digital-en-la-contabilidad-financiera-revolucionando-la-administracion-fiscal-y-financiera-nivel-mundial/</loc>
     <lastmod>2025-03-12T00:00:00-03:00</lastmod>
     <xhtml:link
@@ -102,6 +92,22 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://leobelen.github.io/es/post/2025-01-31-aprovechamiento-de-la-inteligencia-artificial-conversacional-y-los-masteres-en-derecho-tributario-y-financiero-nivel-mundial-una-perspectiva-de/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/desaf%C3%ADos/</loc>
+    <lastmod>2025-01-31T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/large-language-models-llm/</loc>
+    <lastmod>2025-01-31T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/tags/large-language-models-llm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/tags/large-language-models-llm/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/post/2024-12-17-caracteristicas-clave-y-mejores-practicas-de-los-sistemas-eficaces-de-administracion-tributaria/</loc>

@@ -20,7 +20,10 @@
                 href="https://leobelen.github.io/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/tags/challenges/</loc>
+    <loc>https://leobelen.github.io/tags/bookkeeping/</loc>
+    <lastmod>2025-03-12T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/tags/digital-transformation/</loc>
     <lastmod>2025-03-12T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/post/2025-03-12-transformacion-digital-en-la-contabilidad-financiera-revolucionando-la-administracion-fiscal-y-financiera-nivel-mundial/</loc>
@@ -38,19 +41,6 @@
   </url><url>
     <loc>https://leobelen.github.io/tags/financial-administration/</loc>
     <lastmod>2025-03-12T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/tags/large-language-models-llm/</loc>
-    <lastmod>2025-03-12T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/tags/large-language-models-llm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/tags/large-language-models-llm/"
-                />
   </url><url>
     <loc>https://leobelen.github.io/post/</loc>
     <lastmod>2025-03-12T00:00:00-03:00</lastmod>
@@ -91,6 +81,9 @@
     <loc>https://leobelen.github.io/tags/tax-administration/</loc>
     <lastmod>2025-03-12T00:00:00-03:00</lastmod>
   </url><url>
+    <loc>https://leobelen.github.io/tags/challenges/</loc>
+    <lastmod>2025-01-31T00:00:00-03:00</lastmod>
+  </url><url>
     <loc>https://leobelen.github.io/post/2025-01-31-aprovechamiento-de-la-inteligencia-artificial-conversacional-y-los-masteres-en-derecho-tributario-y-financiero-nivel-mundial-una-perspectiva-de/</loc>
     <lastmod>2025-01-31T00:00:00-03:00</lastmod>
     <xhtml:link
@@ -102,6 +95,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://leobelen.github.io/post/2025-01-31-aprovechamiento-de-la-inteligencia-artificial-conversacional-y-los-masteres-en-derecho-tributario-y-financiero-nivel-mundial-una-perspectiva-de/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/large-language-models-llm/</loc>
+    <lastmod>2025-01-31T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/tags/large-language-models-llm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/tags/large-language-models-llm/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/best-practices/</loc>
