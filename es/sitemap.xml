@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://leobelen.github.io/es/tags/administraci%C3%B3n-financiera/</loc>
-    <lastmod>2025-03-12T00:00:00-03:00</lastmod>
+    <loc>https://leobelen.github.io/es/tags/alternativas/</loc>
+    <lastmod>2025-04-07T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://leobelen.github.io/es/tags/administraci%C3%B3n-tributaria/</loc>
-    <lastmod>2025-03-12T00:00:00-03:00</lastmod>
+    <loc>https://leobelen.github.io/es/tags/aranceles/</loc>
+    <lastmod>2025-04-07T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/consecuencias/</loc>
+    <lastmod>2025-04-07T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/</loc>
-    <lastmod>2025-03-12T00:00:00-03:00</lastmod>
+    <lastmod>2025-04-07T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -26,11 +29,21 @@
                 href="https://leobelen.github.io/es/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/es/tags/libros-contables/</loc>
-    <lastmod>2025-03-12T00:00:00-03:00</lastmod>
+    <loc>https://leobelen.github.io/es/post/2025-04-07-incertidumbre-en-el-comercio-mundial-el-impacto-de-las-guerras-arancelarias-y-las-vias-hacia-la-estabilidad/</loc>
+    <lastmod>2025-04-07T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2025-04-07-incertidumbre-en-el-comercio-mundial-el-impacto-de-las-guerras-arancelarias-y-las-vias-hacia-la-estabilidad/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2025-04-07-incertidumbre-en-el-comercio-mundial-el-impacto-de-las-guerras-arancelarias-y-las-vias-hacia-la-estabilidad/"
+                />
   </url><url>
     <loc>https://leobelen.github.io/es/post/</loc>
-    <lastmod>2025-03-12T00:00:00-03:00</lastmod>
+    <lastmod>2025-04-07T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -48,7 +61,7 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/tags/</loc>
-    <lastmod>2025-03-12T00:00:00-03:00</lastmod>
+    <lastmod>2025-04-07T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -64,6 +77,15 @@
                 hreflang="es"
                 href="https://leobelen.github.io/es/tags/"
                 />
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/administraci%C3%B3n-financiera/</loc>
+    <lastmod>2025-03-12T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/administraci%C3%B3n-tributaria/</loc>
+    <lastmod>2025-03-12T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/libros-contables/</loc>
+    <lastmod>2025-03-12T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/tags/transformaci%C3%B3n-digital/</loc>
     <lastmod>2025-03-12T00:00:00-03:00</lastmod>
