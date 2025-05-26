@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/</loc>
-    <lastmod>2025-05-13T00:00:00-03:00</lastmod>
+    <lastmod>2025-05-26T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -20,11 +20,27 @@
                 href="https://leobelen.github.io/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/tags/periodicity/</loc>
-    <lastmod>2025-05-13T00:00:00-03:00</lastmod>
+    <loc>https://leobelen.github.io/post/2025-05-26-mas-alla-de-la-tecnologia-el-factor-humano-en-el-exito-de-la-reingenieria-de-procesos-de-negocio/</loc>
+    <lastmod>2025-05-26T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2025-05-26-mas-alla-de-la-tecnologia-el-factor-humano-en-el-exito-de-la-reingenieria-de-procesos-de-negocio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2025-05-26-mas-alla-de-la-tecnologia-el-factor-humano-en-el-exito-de-la-reingenieria-de-procesos-de-negocio/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/change-management/</loc>
+    <lastmod>2025-05-26T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/tags/human-resources/</loc>
+    <lastmod>2025-05-26T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/post/</loc>
-    <lastmod>2025-05-13T00:00:00-03:00</lastmod>
+    <lastmod>2025-05-26T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -42,7 +58,7 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/</loc>
-    <lastmod>2025-05-13T00:00:00-03:00</lastmod>
+    <lastmod>2025-05-26T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -58,6 +74,12 @@
                 hreflang="en"
                 href="https://leobelen.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/technology/</loc>
+    <lastmod>2025-05-26T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/tags/periodicity/</loc>
+    <lastmod>2025-05-13T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/tags/tax-administration/</loc>
     <lastmod>2025-05-13T00:00:00-03:00</lastmod>
@@ -394,9 +416,6 @@
     <loc>https://leobelen.github.io/tags/points-system/</loc>
     <lastmod>2024-09-09T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://leobelen.github.io/tags/human-resources/</loc>
-    <lastmod>2024-09-01T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>https://leobelen.github.io/post/2024-09-01-recursos-humanos-en-el-sector-publico-retos-y-estrategias-para-la-administracion-tributaria/</loc>
     <lastmod>2024-09-01T00:00:00-03:00</lastmod>
     <xhtml:link
@@ -514,9 +533,6 @@
                 hreflang="en"
                 href="https://leobelen.github.io/post/2024-07-16-por-que-no-es-practico-cambiar-la-reglamentacion-de-ganancias-mitad-del-periodo-impositivo/"
                 />
-  </url><url>
-    <loc>https://leobelen.github.io/tags/change-management/</loc>
-    <lastmod>2024-07-15T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/tags/revolutionary-vs-evolutionary-models/</loc>
     <lastmod>2024-07-15T00:00:00-03:00</lastmod>
