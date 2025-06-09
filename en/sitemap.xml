@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/</loc>
-    <lastmod>2025-05-26T00:00:00-03:00</lastmod>
+    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -18,6 +18,87 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://leobelen.github.io/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/online-questionnaire/</loc>
+    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/post/</loc>
+    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/reshaping-the-future/</loc>
+    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/post/2025-06-09-revolucionando-la-administracion-tributaria-como-el-framework-de-vise-esta-transformando-la-tecnologia-gubernamental/</loc>
+    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2025-06-09-revolucionando-la-administracion-tributaria-como-el-framework-de-vise-esta-transformando-la-tecnologia-gubernamental/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2025-06-09-revolucionando-la-administracion-tributaria-como-el-framework-de-vise-esta-transformando-la-tecnologia-gubernamental/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/</loc>
+    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/veritas-in-simplicibus-est/</loc>
+    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/tags/veritas-in-simplicibus-est/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/tags/veritas-in-simplicibus-est/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/vise/</loc>
+    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/tags/vise/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/tags/vise/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/post/2025-05-26-mas-alla-de-la-tecnologia-el-factor-humano-en-el-exito-de-la-reingenieria-de-procesos-de-negocio/</loc>
@@ -38,42 +119,6 @@
   </url><url>
     <loc>https://leobelen.github.io/tags/human-resources/</loc>
     <lastmod>2025-05-26T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/post/</loc>
-    <lastmod>2025-05-26T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://leobelen.github.io/fr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/post/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/tags/</loc>
-    <lastmod>2025-05-26T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://leobelen.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/tags/"
-                />
   </url><url>
     <loc>https://leobelen.github.io/tags/technology/</loc>
     <lastmod>2025-05-26T00:00:00-03:00</lastmod>
