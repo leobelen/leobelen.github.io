@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/</loc>
-    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
+    <lastmod>2025-07-03T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -20,11 +20,8 @@
                 href="https://leobelen.github.io/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/tags/online-questionnaire/</loc>
-    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>https://leobelen.github.io/post/</loc>
-    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
+    <lastmod>2025-07-03T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -42,23 +39,13 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/reshaping-the-future/</loc>
-    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
+    <lastmod>2025-07-03T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://leobelen.github.io/post/2025-06-09-revolucionando-la-administracion-tributaria-como-el-framework-de-vise-esta-transformando-la-tecnologia-gubernamental/</loc>
-    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/post/2025-06-09-revolucionando-la-administracion-tributaria-como-el-framework-de-vise-esta-transformando-la-tecnologia-gubernamental/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/post/2025-06-09-revolucionando-la-administracion-tributaria-como-el-framework-de-vise-esta-transformando-la-tecnologia-gubernamental/"
-                />
+    <loc>https://leobelen.github.io/tags/strategy/</loc>
+    <lastmod>2025-07-03T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/tags/</loc>
-    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
+    <lastmod>2025-07-03T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -73,6 +60,38 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://leobelen.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/tax-administration-principles/</loc>
+    <lastmod>2025-07-03T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/post/2025-07-03-fallas-comunes-a-evitar/</loc>
+    <lastmod>2025-07-03T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2025-07-03-fallas-comunes-a-evitar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2025-07-03-fallas-comunes-a-evitar/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/online-questionnaire/</loc>
+    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/post/2025-06-09-revolucionando-la-administracion-tributaria-como-el-framework-de-vise-esta-transformando-la-tecnologia-gubernamental/</loc>
+    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2025-06-09-revolucionando-la-administracion-tributaria-como-el-framework-de-vise-esta-transformando-la-tecnologia-gubernamental/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2025-06-09-revolucionando-la-administracion-tributaria-como-el-framework-de-vise-esta-transformando-la-tecnologia-gubernamental/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/veritas-in-simplicibus-est/</loc>
@@ -681,9 +700,6 @@
                 hreflang="en"
                 href="https://leobelen.github.io/post/2024-06-10-administracion-tributaria-eficaz-paises-vias-desarrollo-estrategias-maximizar-ingresos-recursos-limitados/"
                 />
-  </url><url>
-    <loc>https://leobelen.github.io/tags/strategy/</loc>
-    <lastmod>2024-06-10T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/post/2024-06-03-los-riesgos-de-carecer-de-itas-para-detectar-fraude-fiscal/</loc>
     <lastmod>2024-06-03T00:00:00-03:00</lastmod>
