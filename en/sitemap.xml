@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/</loc>
-    <lastmod>2025-07-03T00:00:00-03:00</lastmod>
+    <lastmod>2025-07-14T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -20,8 +20,14 @@
                 href="https://leobelen.github.io/"
                 />
   </url><url>
+    <loc>https://leobelen.github.io/tags/article/</loc>
+    <lastmod>2025-07-14T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/tags/change-management/</loc>
+    <lastmod>2025-07-14T00:00:00-03:00</lastmod>
+  </url><url>
     <loc>https://leobelen.github.io/post/</loc>
-    <lastmod>2025-07-03T00:00:00-03:00</lastmod>
+    <lastmod>2025-07-14T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -38,14 +44,8 @@
                 href="https://leobelen.github.io/post/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/tags/reshaping-the-future/</loc>
-    <lastmod>2025-07-03T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/tags/strategy/</loc>
-    <lastmod>2025-07-03T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>https://leobelen.github.io/tags/</loc>
-    <lastmod>2025-07-03T00:00:00-03:00</lastmod>
+    <lastmod>2025-07-14T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -61,6 +61,28 @@
                 hreflang="en"
                 href="https://leobelen.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/tax-administration/</loc>
+    <lastmod>2025-07-14T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/post/2025-07-14-transformando-administraciones-de-impuestos-en-micro-estados/</loc>
+    <lastmod>2025-07-14T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2025-07-14-transformando-administraciones-de-impuestos-en-micro-estados/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2025-07-14-transformando-administraciones-de-impuestos-en-micro-estados/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/reshaping-the-future/</loc>
+    <lastmod>2025-07-03T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/tags/strategy/</loc>
+    <lastmod>2025-07-03T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/tags/tax-administration-principles/</loc>
     <lastmod>2025-07-03T00:00:00-03:00</lastmod>
@@ -133,9 +155,6 @@
                 href="https://leobelen.github.io/post/2025-05-26-mas-alla-de-la-tecnologia-el-factor-humano-en-el-exito-de-la-reingenieria-de-procesos-de-negocio/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/tags/change-management/</loc>
-    <lastmod>2025-05-26T00:00:00-03:00</lastmod>
-  </url><url>
     <loc>https://leobelen.github.io/tags/human-resources/</loc>
     <lastmod>2025-05-26T00:00:00-03:00</lastmod>
   </url><url>
@@ -143,9 +162,6 @@
     <lastmod>2025-05-26T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/tags/periodicity/</loc>
-    <lastmod>2025-05-13T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/tags/tax-administration/</loc>
     <lastmod>2025-05-13T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/post/2025-05-13-el-papel-de-la-periodicidad-en-la-administracion-tributaria-global-teoria-puntos-en-comun-e-impacto-operativo/</loc>

@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://leobelen.github.io/es/tags/cuestionario/</loc>
-    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
+    <loc>https://leobelen.github.io/es/tags/administraci%C3%B3n-tributaria/</loc>
+    <lastmod>2025-07-14T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/art%C3%ADculo/</loc>
+    <lastmod>2025-07-14T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/</loc>
-    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
+    <lastmod>2025-07-14T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -23,24 +26,11 @@
                 href="https://leobelen.github.io/es/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/es/post/2025-07-03-fallas-comunes-a-evitar/</loc>
-    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/post/2025-07-03-fallas-comunes-a-evitar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/post/2025-07-03-fallas-comunes-a-evitar/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/es/tags/estrategia/</loc>
-    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
+    <loc>https://leobelen.github.io/es/tags/gesti%C3%B3n-del-cambio/</loc>
+    <lastmod>2025-07-14T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/post/</loc>
-    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
+    <lastmod>2025-07-14T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -57,27 +47,8 @@
                 href="https://leobelen.github.io/es/post/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/es/tags/principios-de-administraci%C3%B3n-tributaria/</loc>
-    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/es/tags/redefiniendo-el-futuro/</loc>
-    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/es/post/2025-06-09-revolucionando-la-administracion-tributaria-como-el-framework-de-vise-esta-transformando-la-tecnologia-gubernamental/</loc>
-    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/post/2025-06-09-revolucionando-la-administracion-tributaria-como-el-framework-de-vise-esta-transformando-la-tecnologia-gubernamental/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/post/2025-06-09-revolucionando-la-administracion-tributaria-como-el-framework-de-vise-esta-transformando-la-tecnologia-gubernamental/"
-                />
-  </url><url>
     <loc>https://leobelen.github.io/es/tags/</loc>
-    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
+    <lastmod>2025-07-14T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -92,6 +63,57 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://leobelen.github.io/es/tags/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/es/post/2025-07-14-transformando-administraciones-de-impuestos-en-micro-estados/</loc>
+    <lastmod>2025-07-14T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2025-07-14-transformando-administraciones-de-impuestos-en-micro-estados/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2025-07-14-transformando-administraciones-de-impuestos-en-micro-estados/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/es/post/2025-07-03-fallas-comunes-a-evitar/</loc>
+    <lastmod>2025-07-03T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2025-07-03-fallas-comunes-a-evitar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2025-07-03-fallas-comunes-a-evitar/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/estrategia/</loc>
+    <lastmod>2025-07-03T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/principios-de-administraci%C3%B3n-tributaria/</loc>
+    <lastmod>2025-07-03T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/redefiniendo-el-futuro/</loc>
+    <lastmod>2025-07-03T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/cuestionario/</loc>
+    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/post/2025-06-09-revolucionando-la-administracion-tributaria-como-el-framework-de-vise-esta-transformando-la-tecnologia-gubernamental/</loc>
+    <lastmod>2025-06-09T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2025-06-09-revolucionando-la-administracion-tributaria-como-el-framework-de-vise-esta-transformando-la-tecnologia-gubernamental/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2025-06-09-revolucionando-la-administracion-tributaria-como-el-framework-de-vise-esta-transformando-la-tecnologia-gubernamental/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/tags/veritas-in-simplicibus-est/</loc>
@@ -141,9 +163,6 @@
   </url><url>
     <loc>https://leobelen.github.io/es/tags/tecnolog%C3%ADa-de-la-informaci%C3%B3n/</loc>
     <lastmod>2025-05-26T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/es/tags/administraci%C3%B3n-tributaria/</loc>
-    <lastmod>2025-05-13T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/post/2025-05-13-el-papel-de-la-periodicidad-en-la-administracion-tributaria-global-teoria-puntos-en-comun-e-impacto-operativo/</loc>
     <lastmod>2025-05-13T00:00:00-03:00</lastmod>
