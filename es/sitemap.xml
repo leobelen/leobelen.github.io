@@ -3,13 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/es/tags/administraci%C3%B3n-tributaria/</loc>
-    <lastmod>2025-07-14T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/es/tags/art%C3%ADculo/</loc>
-    <lastmod>2025-07-14T00:00:00-03:00</lastmod>
+    <lastmod>2025-09-11T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/</loc>
-    <lastmod>2025-07-14T00:00:00-03:00</lastmod>
+    <lastmod>2025-09-11T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -27,10 +24,23 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/tags/gesti%C3%B3n-del-cambio/</loc>
-    <lastmod>2025-07-14T00:00:00-03:00</lastmod>
+    <lastmod>2025-09-11T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/post/2025-09-11-mas-alla-de-la-tecnologia-el-factor-humano-en-el-exito-de-la-reingenieria-de-procesos-de-negocio/</loc>
+    <lastmod>2025-09-11T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2025-09-11-mas-alla-de-la-tecnologia-el-factor-humano-en-el-exito-de-la-reingenieria-de-procesos-de-negocio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2025-09-11-mas-alla-de-la-tecnologia-el-factor-humano-en-el-exito-de-la-reingenieria-de-procesos-de-negocio/"
+                />
   </url><url>
     <loc>https://leobelen.github.io/es/post/</loc>
-    <lastmod>2025-07-14T00:00:00-03:00</lastmod>
+    <lastmod>2025-09-11T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -48,7 +58,7 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/tags/</loc>
-    <lastmod>2025-07-14T00:00:00-03:00</lastmod>
+    <lastmod>2025-09-11T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -64,6 +74,9 @@
                 hreflang="es"
                 href="https://leobelen.github.io/es/tags/"
                 />
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/art%C3%ADculo/</loc>
+    <lastmod>2025-07-14T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/post/2025-07-14-transformando-administraciones-de-impuestos-en-micro-estados/</loc>
     <lastmod>2025-07-14T00:00:00-03:00</lastmod>
