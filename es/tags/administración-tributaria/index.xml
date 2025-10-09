@@ -7,7 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>Copyright © 2017-2024, Leonardo Javier Belén; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 11 Sep 2025 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/es/tags/administraci%C3%B3n-tributaria/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Oct 2025 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/es/tags/administraci%C3%B3n-tributaria/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Antares: La próxima generación en sistemas centrales de administración tributaria y banca digital</title>
+      <link>https://leobelen.github.io/es/post/2025-10-09-antares-la-proxima-generacion-en-sistemas-centrales-de-administracion-tributaria-y-banca-digital/</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://leobelen.github.io/es/post/2025-10-09-antares-la-proxima-generacion-en-sistemas-centrales-de-administracion-tributaria-y-banca-digital/</guid>
+      <description>
+        
+          
+            &lt;h2 id=&#34;resumen-ejecutivo&#34;&gt;Resumen Ejecutivo&lt;/h2&gt;
+&lt;p&gt;En una era marcada por la transformación digital, las instituciones financieras públicas y las administraciones tributarias se encuentran bajo una creciente presión para modernizar sus sistemas heredados. La necesidad de eficiencia, transparencia y una mejor prestación de servicios nunca ha sido mayor. Presentamos &lt;strong&gt;Antares&lt;/strong&gt;, una solución de software robusta, flexible y con visión de futuro, diseñada para servir como base fundamental tanto para las autoridades tributarias como para las instituciones bancarias. Desarrollada con tecnologías modernas y sostenibles y diseñada para una larga vida útil, Antares representa un cambio de paradigma en la concepción e implementación de los sistemas de gobernanza financiera. Este documento ofrece una visión general completa del sistema Antares, detallando sus funcionalidades principales, su arquitectura técnica avanzada y las vías prácticas para su implementación.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Más allá de la tecnología: el factor humano en el éxito de la reingeniería de procesos de negocio</title>
       <link>https://leobelen.github.io/es/post/2025-09-11-mas-alla-de-la-tecnologia-el-factor-humano-en-el-exito-de-la-reingenieria-de-procesos-de-negocio/</link>
@@ -490,25 +507,6 @@
             &lt;p&gt;En el ámbito de las Administración Tributarias, la integración de la Inteligencia Artificial (IA) está revolucionando las prácticas tradicionales, ofreciendo innumerables beneficios en diversas áreas operativas. Como escritor de blog profesional, profundicemos en las áreas clave que se beneficiarán más de la implementación de la IA en las operaciones de la administración tributaria.&lt;/p&gt;
 &lt;h2 id=&#34;experiencia-mejorada-para-el-contribuyente&#34;&gt;Experiencia mejorada para el contribuyente&lt;/h2&gt;
 &lt;p&gt;Las tecnologías de Inteligencia Artificial están remodelando la experiencia de los contribuyentes al brindar un servicio más rápido y con mayor capacidad de respuesta a través del procesamiento del lenguaje natural y el aprendizaje automático. Los asistentes virtuales equipados con capacidades de IA ofrecen sistemas tributarios de cumplimiento por diseño, alertando a los contribuyentes sobre errores y garantizando interacciones más fluidas con las autoridades tributarias.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Antares</title>
-      <link>https://leobelen.github.io/es/post/2024-04-16-antares/</link>
-      <pubDate>Tue, 16 Apr 2024 00:00:00 -0300</pubDate>
-      
-      <guid>https://leobelen.github.io/es/post/2024-04-16-antares/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;introducción&#34;&gt;Introducción&lt;/h1&gt;
-&lt;p&gt;Una parte importante de la propuesta general, iniciada por los anteriores posteos (en particular el &lt;a href=&#34;https://leobelen.github.io/es/post/2022-06-22-principios-de-adm-tributaria/&#34;&gt;manual de administración tributaria&lt;/a&gt; y el &lt;a href=&#34;https://leobelen.github.io/es/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/&#34;&gt;anteproyecto de Código Tributario&lt;/a&gt;) es el programa que puede ser usado para llevarlo adelante. En realidad, desarrollé hace un tiempo un Sistema Integrado de Administración Tributaria (ITAS, por sus siglas en inglés), denominado Antares, que está en inglés y fue originalmente presentado ante un banco de desarrollo.&lt;/p&gt;
-&lt;h1 id=&#34;arquitectura&#34;&gt;Arquitectura&lt;/h1&gt;
-&lt;p&gt;Desde un principio, el proyecto fue enfocado como una herramienta que pudiera cumplir con las siguientes características:&lt;/p&gt;
           
           
         

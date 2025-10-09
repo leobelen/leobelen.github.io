@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Proof of Concept on Leonardo Belén&#39;s Blog</title>
-    <link>https://leobelen.github.io/tags/proof-of-concept/</link>
+    <link>http://localhost:1313/tags/proof-of-concept/</link>
     <description>Recent content in Proof of Concept on Leonardo Belén&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2017-2024, Leonardo Javier Belén; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 16 Apr 2024 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/tags/proof-of-concept/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Apr 2024 00:00:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/tags/proof-of-concept/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Antares</title>
-      <link>https://leobelen.github.io/post/2024-04-16-antares/</link>
+      <link>http://localhost:1313/post/2025-10-09-antares/</link>
       <pubDate>Tue, 16 Apr 2024 00:00:00 -0300</pubDate>
       
-      <guid>https://leobelen.github.io/post/2024-04-16-antares/</guid>
+      <guid>http://localhost:1313/post/2025-10-09-antares/</guid>
       <description>
         
           
             &lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
-&lt;p&gt;An important part of the general proposal, initiated by the previous posts (in particular the &lt;a href=&#34;https://leobelen.github.io/post/2022-06-22-principios-de-adm-tributaria/&#34;&gt;tax administration manual&lt;/a&gt; and the &lt;a href=&#34;https://leobelen.github.io/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/&#34;&gt;draft Tax Code&lt;/a&gt;) is the program that can be used to carry it out. Actually, some time ago I developed an Integrated Tax Administration System (ITAS), called Antares.&lt;/p&gt;
+&lt;p&gt;An important part of the general proposal, initiated by the previous posts (in particular the &lt;a href=&#34;http://localhost:1313/post/2022-06-22-principios-de-adm-tributaria/&#34;&gt;tax administration manual&lt;/a&gt; and the &lt;a href=&#34;http://localhost:1313/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/&#34;&gt;draft Tax Code&lt;/a&gt;) is the program that can be used to carry it out. Actually, some time ago I developed an Integrated Tax Administration System (ITAS), called Antares.&lt;/p&gt;
 &lt;h1 id=&#34;architecture&#34;&gt;Architecture&lt;/h1&gt;
 &lt;p&gt;From the beginning, the project was focused as a tool that could meet the following characteristics:&lt;/p&gt;
 &lt;ul&gt;

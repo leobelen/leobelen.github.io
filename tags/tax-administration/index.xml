@@ -7,7 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2017-2024, Leonardo Javier Belén; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 11 Sep 2025 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/tags/tax-administration/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Oct 2025 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/tags/tax-administration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Antares: The Next Generation in Digital Tax Administration and Banking Core Systems</title>
+      <link>https://leobelen.github.io/post/2025-10-09-antares-la-proxima-generacion-en-sistemas-centrales-de-administracion-tributaria-y-banca-digital/</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://leobelen.github.io/post/2025-10-09-antares-la-proxima-generacion-en-sistemas-centrales-de-administracion-tributaria-y-banca-digital/</guid>
+      <description>
+        
+          
+            &lt;h2 id=&#34;executive-summary&#34;&gt;Executive Summary&lt;/h2&gt;
+&lt;p&gt;In an era defined by digital transformation, public financial institutions and tax administrations are under increasing pressure to modernize their legacy systems. The need for efficiency, transparency, and enhanced service delivery has never been greater. Enter &lt;strong&gt;Antares&lt;/strong&gt;, a robust, flexible, and forward-looking software solution engineered to serve as the foundational core for both tax authorities and banking institutions. Built with modern, sustainable technologies and designed for longevity, Antares represents a paradigm shift in how financial governance systems are conceived and implemented. This document provides a comprehensive overview of the Antares system, detailing its core functionalities, advanced technical architecture, and the practical pathways to its implementation.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Beyond the Ledger, the Law, and the Lobby: The Unseen Architecture of Modern Tax Administration</title>
       <link>https://leobelen.github.io/post/2025-09-11-mas-alla-de-la-tecnologia-el-factor-humano-en-el-exito-de-la-reingenieria-de-procesos-de-negocio/</link>
@@ -521,31 +538,6 @@
             &lt;p&gt;In the realm of Tax Administrations, the integration of Artificial Intelligence (AI) is revolutionizing traditional practices, offering a myriad of benefits across various operational areas. As a professional blog writer, let&amp;rsquo;s delve into the key areas that stand to benefit the most from the implementation of AI in tax administration operations.&lt;/p&gt;
 &lt;h2 id=&#34;enhanced-taxpayer-experience&#34;&gt;Enhanced Taxpayer Experience&lt;/h2&gt;
 &lt;p&gt;AI technologies are reshaping the taxpayer experience by providing faster, more responsive service through natural language processing and machine learning. Virtual assistants equipped with AI capabilities offer compliance-by-design tax systems, alerting taxpayers to errors and ensuring smoother interactions with tax authorities.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Antares</title>
-      <link>https://leobelen.github.io/post/2024-04-16-antares/</link>
-      <pubDate>Tue, 16 Apr 2024 00:00:00 -0300</pubDate>
-      
-      <guid>https://leobelen.github.io/post/2024-04-16-antares/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
-&lt;p&gt;An important part of the general proposal, initiated by the previous posts (in particular the &lt;a href=&#34;https://leobelen.github.io/post/2022-06-22-principios-de-adm-tributaria/&#34;&gt;tax administration manual&lt;/a&gt; and the &lt;a href=&#34;https://leobelen.github.io/post/2021-08-01-un-anteproyecto-de-codigo-tributario-argentino/&#34;&gt;draft Tax Code&lt;/a&gt;) is the program that can be used to carry it out. Actually, some time ago I developed an Integrated Tax Administration System (ITAS), called Antares.&lt;/p&gt;
-&lt;h1 id=&#34;architecture&#34;&gt;Architecture&lt;/h1&gt;
-&lt;p&gt;From the beginning, the project was focused as a tool that could meet the following characteristics:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;be easy to install and test.&lt;/li&gt;
-&lt;li&gt;highly parameterizable.&lt;/li&gt;
-&lt;li&gt;based on free software technologies (such as the &lt;a href=&#34;https://www.gnu.org/licenses/&#34;&gt;GNU&lt;/a&gt; license).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;As a result of the above, the system works with the following technological components:&lt;/p&gt;
           
           
         
