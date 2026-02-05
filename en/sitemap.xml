@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/</loc>
-    <lastmod>2025-10-09T00:00:00-03:00</lastmod>
+    <lastmod>2026-02-05T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -19,6 +19,77 @@
                 hreflang="en"
                 href="https://leobelen.github.io/"
                 />
+  </url><url>
+    <loc>https://leobelen.github.io/post/2026-02-05-mas-alla-de-las-fronteras-como-el-segundo-pilar-de-la-ocde-esta-transformando-la-administracion-tributaria-global/</loc>
+    <lastmod>2026-02-05T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2026-02-05-mas-alla-de-las-fronteras-como-el-segundo-pilar-de-la-ocde-esta-transformando-la-administracion-tributaria-global/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2026-02-05-mas-alla-de-las-fronteras-como-el-segundo-pilar-de-la-ocde-esta-transformando-la-administracion-tributaria-global/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/global-minimum-tax/</loc>
+    <lastmod>2026-02-05T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/tags/oecd/</loc>
+    <lastmod>2026-02-05T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/tags/oecd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/tags/oecd/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/pillar-two/</loc>
+    <lastmod>2026-02-05T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/post/</loc>
+    <lastmod>2026-02-05T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/</loc>
+    <lastmod>2026-02-05T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/tags/tax-administration/</loc>
+    <lastmod>2026-02-05T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/post/2025-10-09-antares-la-proxima-generacion-en-sistemas-centrales-de-administracion-tributaria-y-banca-digital/</loc>
     <lastmod>2025-10-09T00:00:00-03:00</lastmod>
@@ -40,45 +111,6 @@
     <lastmod>2025-10-09T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/tags/itas/</loc>
-    <lastmod>2025-10-09T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/post/</loc>
-    <lastmod>2025-10-09T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://leobelen.github.io/fr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/post/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/tags/</loc>
-    <lastmod>2025-10-09T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://leobelen.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/tags/tax-administration/</loc>
     <lastmod>2025-10-09T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/post/2025-09-11-mas-alla-de-la-tecnologia-el-factor-humano-en-el-exito-de-la-reingenieria-de-procesos-de-negocio/</loc>
@@ -347,19 +379,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://leobelen.github.io/tags/beps/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/tags/oecd/</loc>
-    <lastmod>2024-12-02T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/tags/oecd/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/tags/oecd/"
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/oecd-pillars/</loc>
