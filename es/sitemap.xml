@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://leobelen.github.io/es/tags/administraci%C3%B3n-tributaria/</loc>
-    <lastmod>2026-02-05T00:00:00-03:00</lastmod>
+    <loc>https://leobelen.github.io/es/tags/administraci%C3%B3n-del-rendimiento/</loc>
+    <lastmod>2026-05-04T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/</loc>
-    <lastmod>2026-02-05T00:00:00-03:00</lastmod>
+    <lastmod>2026-05-04T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -22,6 +22,71 @@
                 hreflang="es"
                 href="https://leobelen.github.io/es/"
                 />
+  </url><url>
+    <loc>https://leobelen.github.io/es/post/2026-05-04-implementacion-de-sistemas-de-desempeno-en-administraciones-tributarias-con-itas/</loc>
+    <lastmod>2026-05-04T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2026-05-04-implementacion-de-sistemas-de-desempeno-en-administraciones-tributarias-con-itas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2026-05-04-implementacion-de-sistemas-de-desempeno-en-administraciones-tributarias-con-itas/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/itas/</loc>
+    <lastmod>2026-05-04T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/tags/itas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/tags/itas/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/es/post/</loc>
+    <lastmod>2026-05-04T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/</loc>
+    <lastmod>2026-05-04T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://leobelen.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/tags/"
+                />
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/administraci%C3%B3n-tributaria/</loc>
+    <lastmod>2026-02-05T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/es/tags/impuesto-global-m%C3%ADnimo/</loc>
     <lastmod>2026-02-05T00:00:00-03:00</lastmod>
@@ -54,42 +119,6 @@
   </url><url>
     <loc>https://leobelen.github.io/es/tags/pilar-2/</loc>
     <lastmod>2026-02-05T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://leobelen.github.io/es/post/</loc>
-    <lastmod>2026-02-05T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://leobelen.github.io/fr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/post/"
-                />
-  </url><url>
-    <loc>https://leobelen.github.io/es/tags/</loc>
-    <lastmod>2026-02-05T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://leobelen.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/tags/"
-                />
   </url><url>
     <loc>https://leobelen.github.io/es/post/2025-10-09-antares-la-proxima-generacion-en-sistemas-centrales-de-administracion-tributaria-y-banca-digital/</loc>
     <lastmod>2025-10-09T00:00:00-03:00</lastmod>

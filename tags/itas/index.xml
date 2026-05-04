@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2017-2024, Leonardo Javier Belén; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 09 Oct 2025 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/tags/itas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 May 2026 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/tags/itas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implementing Performance Systems in Tax Administrations with ITAS</title>
+      <link>https://leobelen.github.io/post/2026-05-04-implementacion-de-sistemas-de-desempeno-en-administraciones-tributarias-con-itas/</link>
+      <pubDate>Mon, 04 May 2026 00:00:00 -0300</pubDate>
+      
+      <guid>https://leobelen.github.io/post/2026-05-04-implementacion-de-sistemas-de-desempeno-en-administraciones-tributarias-con-itas/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Integrated Tax Administration Systems (ITAS) form the backbone of modern tax agencies, enabling streamlined processes like registration, assessment, returns processing, payments, audits, and collections. These systems support performance measurement by providing real-time data across core modules, allowing tax administrations to track key indicators organization-wide. A robust performance system leverages ITAS data to define measurable ranges, assign points, and aggregate scores up the hierarchy for fair evaluations.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2 id=&#34;understanding-itas-foundations&#34;&gt;Understanding ITAS Foundations&lt;/h2&gt;
+&lt;p&gt;ITAS integrates core tax processes into a unified platform, including taxpayer registration, accounting, refunds, verification, appeals, and enforced collection. This integration promotes end-to-end planning, better taxpayer experiences, and reliable data for oversight, ultimately boosting compliance and revenues. Existing ITAS components like reporting, analytics, case management, and risk tools already capture operational metrics, minimizing the need for new builds.&lt;sup id=&#34;fnref1:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Antares: The Next Generation in Digital Tax Administration and Banking Core Systems</title>
       <link>https://leobelen.github.io/post/2025-10-09-antares-la-proxima-generacion-en-sistemas-centrales-de-administracion-tributaria-y-banca-digital/</link>
