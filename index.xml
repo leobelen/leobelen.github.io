@@ -7,7 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2017-2024, Leonardo Javier Belén; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Friction to Formality: Why Making Invoicing Easy Is a Tax Collection Strategy</title>
+      <link>https://leobelen.github.io/post/2026-09-01-de-la-friccion-la-formalidad-por-que-simplificar-la-facturacion-es-una-estrategia-de-recaudacion-de-impuestos/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 -0300</pubDate>
+      
+      <guid>https://leobelen.github.io/post/2026-09-01-de-la-friccion-la-formalidad-por-que-simplificar-la-facturacion-es-una-estrategia-de-recaudacion-de-impuestos/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Tax administrations have spent two decades chasing the same insight from different directions: the fastest way to raise revenue sustainably is not to squeeze harder on the taxpayers you already have, but to make it effortless for everyone to comply. Latin America proved this with electronic invoicing. Rwanda proved it with electronic billing machines. Brazil and India proved a related version of the same idea in payments, with systems that let people transact using a name instead of a bank account number. This post connects those threads and proposes a simple, low-cost step that any modernizing tax administration can take next: pairing every Taxpayer Identification Number (TIN) with a Taxpayer Unique Alias (TUA), combined with automatic data completion at the point of invoicing. We also estimate what that costs, review what has worked elsewhere, and share that Antares — a new integrated financial and tax administration platform — will ship with TUA-based online invoicing built in from day one.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>The Fiscal Tightrope: Why Taxing Savings, Not Subsistence, Is the Only Path to Sustainable Public Finance</title>
       <link>https://leobelen.github.io/post/2026-07-07-el-dilema-tributario-por-que-gravar-el-ahorro-y-no-la-subsistencia-es-el-unico-camino-hacia-unas-finanzas-publicas-sostenibles/</link>

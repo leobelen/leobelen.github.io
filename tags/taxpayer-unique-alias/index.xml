@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taxpayer Unique Alias on Leonardo Belén&#39;s Blog</title>
+    <link>https://leobelen.github.io/tags/taxpayer-unique-alias/</link>
+    <description>Recent content in Taxpayer Unique Alias on Leonardo Belén&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2017-2024, Leonardo Javier Belén; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/tags/taxpayer-unique-alias/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Friction to Formality: Why Making Invoicing Easy Is a Tax Collection Strategy</title>
+      <link>https://leobelen.github.io/post/2026-09-01-de-la-friccion-la-formalidad-por-que-simplificar-la-facturacion-es-una-estrategia-de-recaudacion-de-impuestos/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 -0300</pubDate>
+      
+      <guid>https://leobelen.github.io/post/2026-09-01-de-la-friccion-la-formalidad-por-que-simplificar-la-facturacion-es-una-estrategia-de-recaudacion-de-impuestos/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Tax administrations have spent two decades chasing the same insight from different directions: the fastest way to raise revenue sustainably is not to squeeze harder on the taxpayers you already have, but to make it effortless for everyone to comply. Latin America proved this with electronic invoicing. Rwanda proved it with electronic billing machines. Brazil and India proved a related version of the same idea in payments, with systems that let people transact using a name instead of a bank account number. This post connects those threads and proposes a simple, low-cost step that any modernizing tax administration can take next: pairing every Taxpayer Identification Number (TIN) with a Taxpayer Unique Alias (TUA), combined with automatic data completion at the point of invoicing. We also estimate what that costs, review what has worked elsewhere, and share that Antares — a new integrated financial and tax administration platform — will ship with TUA-based online invoicing built in from day one.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

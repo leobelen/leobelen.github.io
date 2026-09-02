@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alias Unico Tributario on El Blog de Leonardo Belén</title>
+    <link>https://leobelen.github.io/es/tags/alias-unico-tributario/</link>
+    <description>Recent content in Alias Unico Tributario on El Blog de Leonardo Belén</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>Copyright © 2017-2024, Leonardo Javier Belén; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 -0300</lastBuildDate><atom:link href="https://leobelen.github.io/es/tags/alias-unico-tributario/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>De la Fricción a la Formalidad: por qué Simplificar la Facturación es una Estrategia de Recaudación de Impuestos</title>
+      <link>https://leobelen.github.io/es/post/2026-09-01-de-la-friccion-la-formalidad-por-que-simplificar-la-facturacion-es-una-estrategia-de-recaudacion-de-impuestos/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 -0300</pubDate>
+      
+      <guid>https://leobelen.github.io/es/post/2026-09-01-de-la-friccion-la-formalidad-por-que-simplificar-la-facturacion-es-una-estrategia-de-recaudacion-de-impuestos/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Las administraciones tributarias llevan dos décadas persiguiendo la misma idea desde diferentes perspectivas: la forma más rápida de recaudar ingresos de manera sostenible no es presionar más a los contribuyentes actuales, sino facilitar el cumplimiento tributario a todos. Latinoamérica lo demostró con la facturación electrónica. Ruanda lo demostró con las máquinas de facturación electrónica. Brasil e India demostraron una versión similar de la misma idea en los pagos, con sistemas que permiten realizar transacciones utilizando el nombre en lugar del número de cuenta bancaria. Este artículo conecta estos enfoques y propone un paso sencillo y económico que cualquier administración tributaria que se modernice puede dar: vincular cada Número de Identificación Fiscal (CUIT/NIF/RUC) con un Alias ​​Único Legible para Humanos (AURH), combinado con la autocompletación de datos al momento de la facturación. También estimamos el costo, analizamos las experiencias exitosas en otros lugares y compartimos que Antares, una nueva plataforma integrada de administración financiera y tributaria, incluirá la facturación en línea basada en AURH desde el primer día.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

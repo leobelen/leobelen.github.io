@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/</loc>
-    <lastmod>2026-07-07T00:00:00-03:00</lastmod>
+    <lastmod>2026-09-01T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,8 +20,21 @@
                 href="https://leobelen.github.io/fr/"
                 />
   </url><url>
+    <loc>https://leobelen.github.io/post/2026-09-01-de-la-friccion-la-formalidad-por-que-simplificar-la-facturacion-es-una-estrategia-de-recaudacion-de-impuestos/</loc>
+    <lastmod>2026-09-01T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2026-09-01-de-la-friccion-la-formalidad-por-que-simplificar-la-facturacion-es-una-estrategia-de-recaudacion-de-impuestos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2026-09-01-de-la-friccion-la-formalidad-por-que-simplificar-la-facturacion-es-una-estrategia-de-recaudacion-de-impuestos/"
+                />
+  </url><url>
     <loc>https://leobelen.github.io/post/</loc>
-    <lastmod>2026-07-07T00:00:00-03:00</lastmod>
+    <lastmod>2026-09-01T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,7 +52,7 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/</loc>
-    <lastmod>2026-07-07T00:00:00-03:00</lastmod>
+    <lastmod>2026-09-01T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -57,10 +70,13 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/tags/tax-administration/</loc>
-    <lastmod>2026-07-07T00:00:00-03:00</lastmod>
+    <lastmod>2026-09-01T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/tags/taxation-theory/</loc>
-    <lastmod>2026-07-07T00:00:00-03:00</lastmod>
+    <lastmod>2026-09-01T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/tags/taxpayer-unique-alias/</loc>
+    <lastmod>2026-09-01T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://leobelen.github.io/post/2026-07-07-el-dilema-tributario-por-que-gravar-el-ahorro-y-no-la-subsistencia-es-el-unico-camino-hacia-unas-finanzas-publicas-sostenibles/</loc>
     <lastmod>2026-07-07T00:00:00-03:00</lastmod>

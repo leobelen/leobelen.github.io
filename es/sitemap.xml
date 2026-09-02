@@ -3,10 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leobelen.github.io/es/tags/administraci%C3%B3n-tributaria/</loc>
-    <lastmod>2026-07-07T00:00:00-03:00</lastmod>
+    <lastmod>2026-09-01T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/tags/alias-unico-tributario/</loc>
+    <lastmod>2026-09-01T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/post/2026-09-01-de-la-friccion-la-formalidad-por-que-simplificar-la-facturacion-es-una-estrategia-de-recaudacion-de-impuestos/</loc>
+    <lastmod>2026-09-01T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2026-09-01-de-la-friccion-la-formalidad-por-que-simplificar-la-facturacion-es-una-estrategia-de-recaudacion-de-impuestos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2026-09-01-de-la-friccion-la-formalidad-por-que-simplificar-la-facturacion-es-una-estrategia-de-recaudacion-de-impuestos/"
+                />
   </url><url>
     <loc>https://leobelen.github.io/es/</loc>
-    <lastmod>2026-07-07T00:00:00-03:00</lastmod>
+    <lastmod>2026-09-01T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -23,21 +39,8 @@
                 href="https://leobelen.github.io/fr/"
                 />
   </url><url>
-    <loc>https://leobelen.github.io/es/post/2026-07-07-el-dilema-tributario-por-que-gravar-el-ahorro-y-no-la-subsistencia-es-el-unico-camino-hacia-unas-finanzas-publicas-sostenibles/</loc>
-    <lastmod>2026-07-07T00:00:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leobelen.github.io/post/2026-07-07-el-dilema-tributario-por-que-gravar-el-ahorro-y-no-la-subsistencia-es-el-unico-camino-hacia-unas-finanzas-publicas-sostenibles/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://leobelen.github.io/es/post/2026-07-07-el-dilema-tributario-por-que-gravar-el-ahorro-y-no-la-subsistencia-es-el-unico-camino-hacia-unas-finanzas-publicas-sostenibles/"
-                />
-  </url><url>
     <loc>https://leobelen.github.io/es/post/</loc>
-    <lastmod>2026-07-07T00:00:00-03:00</lastmod>
+    <lastmod>2026-09-01T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -55,7 +58,7 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/tags/</loc>
-    <lastmod>2026-07-07T00:00:00-03:00</lastmod>
+    <lastmod>2026-09-01T00:00:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -73,7 +76,20 @@
                 />
   </url><url>
     <loc>https://leobelen.github.io/es/tags/teor%C3%ADa-impositiva/</loc>
+    <lastmod>2026-09-01T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://leobelen.github.io/es/post/2026-07-07-el-dilema-tributario-por-que-gravar-el-ahorro-y-no-la-subsistencia-es-el-unico-camino-hacia-unas-finanzas-publicas-sostenibles/</loc>
     <lastmod>2026-07-07T00:00:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://leobelen.github.io/post/2026-07-07-el-dilema-tributario-por-que-gravar-el-ahorro-y-no-la-subsistencia-es-el-unico-camino-hacia-unas-finanzas-publicas-sostenibles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://leobelen.github.io/es/post/2026-07-07-el-dilema-tributario-por-que-gravar-el-ahorro-y-no-la-subsistencia-es-el-unico-camino-hacia-unas-finanzas-publicas-sostenibles/"
+                />
   </url><url>
     <loc>https://leobelen.github.io/es/tags/administraci%C3%B3n-del-rendimiento/</loc>
     <lastmod>2026-05-04T00:00:00-03:00</lastmod>
